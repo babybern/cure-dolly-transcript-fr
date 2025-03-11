@@ -917,8 +917,6 @@ American".</u>
 As we know, the default value of the invisible car, the zero pronoun, is
 "私/わたし", but that isn't its only value. Its value depends on context.
 
----
-
 In "わたしはアメリカ人だ" ("As for me, I am an American")
 
 the value of the zero pronoun is indeed "私/わたし".
@@ -1013,8 +1011,6 @@ one noun to another we change what's actually happening in the sentence, <u>but 
 another – I can change it from me to the ball – it makes no difference to the
 logic of the sentence. It makes a difference to the emphasis: I'm now talking about the
 ball, "as for the ball..."</u>
-
----
 
 What happens to the ball is that I throw it at Sakura, but who is doing
 what, and
@@ -1185,8 +1181,6 @@ So in English we say "is walking", "is eating".
 
 In Japanese we say "食べている/たべている", "歩いている/あるいている".
 
----
-
 Now, how do we form this "て-form”, which is the form we use for making
 the continuous present?
 
@@ -1274,8 +1268,6 @@ so forth, times that are relative to the present time, we just do what
 we did then.
 
 <u>We put the time expression at the beginning of the sentence and that puts that whole sentence into that time.</u>
-
----
 
 However, when we have an "absolute time expression", an expression that
 is not relative to the present, such as Tuesday or six o'clock, then
@@ -1470,9 +1462,7 @@ to the て-form.
 <u>We take off the -う, the -つ or the -る, and we replace it with a
 small -っplus て (or た in the た-form).</u>
 
-So わらう - laugh, becomes わらって (Waratte);  
-もつ - hold, becomes もって (Motte);  
-and とる - take, becomes とって (Totte).
+So わらう - laugh, becomes わらって (Waratte);  もつ - hold, becomes もって (Motte);  and とる - take, becomes とって (Totte).
 
 Now, you'll notice that うつる has つ in the middle.
 
@@ -1521,8 +1511,7 @@ And this is important because the ending is also a dull sound.
 
 <u>The て-form ending is -んで, the た-form is -んだ.</u>
 
-So しぬ, <u>the only -ぬ ending verb</u>, becomes しんで / しんだ;  
-のむ - drink, becomes のんで / のんだ; あそぶ - play, becomes あそんで /
+So しぬ, <u>the only -ぬ ending verb</u>, becomes しんで / しんだ;  のむ - drink, becomes のんで / のんだ; あそぶ - play, becomes あそんで /
 あそんだ.
 
 So that's the New Boom group, the dull-ending verbs.
@@ -1792,8 +1781,6 @@ Adjectival Nouns, な-adjectives, Adjectivals, Nominal Adjectives etc…*
 *It is just that they mostly resemble a form similar to proper nouns and
 take a copula like them and so they can be considered to be (and likely
 are) a class of nouns, just not as proper nouns.*  
----
-
 <u>Can we use other nouns as adjectives? Yes, we can, but we use them in a somewhat different way and they
 aren't engines.</u>
 
@@ -1819,8 +1806,6 @@ nose”.*
 
 Luckily, we don't have to worry about things like "my" and "your" and
 "her" and "his" in Japanese; <u>we always just use "の".</u>
-
----
 
 Now, because "の" is the possessive particle, it can be used in another,
 slightly different way.
@@ -1915,8 +1900,6 @@ and typical foreigner's mistake, and frankly it's the least of your
 worries at an early stage.
 
 If you're writing, you can of course look them up very easily.
-
----
 
 <u>As you use Japanese more, hear more Japanese, read more Japanese, you
 will pick up which ones are "の" and which ones are "な".</u>
@@ -2082,8 +2065,6 @@ system, and because they describe the changes that take place as if they
 were really written in the Roman alphabet when they are written in kana,
 it really looks like that.
 
----
-
 Students really think they have to treat each case as a separate case
 
 and learn separate rules in every case.
@@ -2197,9 +2178,7 @@ So "こわい" (is-scary) becomes "こわかった" (was-scary).
 And because "ない" is also an い-adjective,  
 when we put that into the past we also say "なかった".
 
-So, if we want to say "Sakura runs", we say "さくらがはしる";  
-if we want to say "Sakura doesn't run", we say "さくらがはしらない";  
-if we want to say "Sakura ran (in the past)", we say "さくらがはしった"
+So, if we want to say "Sakura runs", we say "さくらがはしる";  if we want to say "Sakura doesn't run", we say "さくらがはしらない";  if we want to say "Sakura ran (in the past)", we say "さくらがはしった"
 – because it's a godan verb;
 
 *Note: Notice the っ before た instead of just た, as given in Lesson 5
@@ -2560,8 +2539,7 @@ verbs, and they are very very simple, because all you ever do with
 these, ever, is <u>simply cut off the る and you have \*all\* the possible sticky stems of the
 ichidan verbs.</u>
 
-So たべる becomes たべ; たべます is the formal form of the verb;  
-たべたい, want to eat; たべもの, eat-thing, food.
+So たべる becomes たべ; たべます is the formal form of the verb;  たべたい, want to eat; たべもの, eat-thing, food.
 
 *Note: There also exists a noun 買い (it is a noun), that means
 shopping, buying, product etc.  
@@ -2611,9 +2589,7 @@ to attach the helper adjective ない to the sticky stem of a verb.
 style="width:5.48958in;height:3.05924in" />
 
 <u>It attaches to the あ-sticky stem</u>, so かう, buy, becomes
-かわない, not buy;  
-きく, hear, becomes きかない, not hear;  
-はなす becomes はなさない, not speak, and so forth. Very simple.
+かわない, not buy;  きく, hear, becomes きかない, not hear;  はなす becomes はなさない, not speak, and so forth. Very simple.
 
 #### The causative
 
@@ -2650,16 +2626,13 @@ that the longer version
 
 goes onto the ichidan verb, because that verb is generally shorter.
 
----
-
 The ichidan verb, we take off the whole last syllable; with the godan
 verbs, the changing sticky stems, we don't take off the last syllable,
 we change it to a different sound.
 
 So, せる / させる makes the causative form of a verb.
 
-かう becomes かわせる, allow to buy, make to buy;  
-はなす becomes はなさせる, allow to speak, make to speak;
+かう becomes かわせる, allow to buy, make to buy;  はなす becomes はなさせる, allow to speak, make to speak;
 
 *Note: はなす is a godan verb ending with す, so it changes to あ-stem +
 せる, which looks the same as the ichidan causative form of させる.
@@ -2685,13 +2658,10 @@ So, かう becomes かわれる, which means get bought, be bought, get bought
 really means</u>, and you will understand that when you see the video
 *(Lesson 13)*;
 
-きく becomes きかれる, get heard;  
-のむ becomes のまれる, get drunk – <u>I don't mean become intoxicated, I
+きく becomes きかれる, get heard;  のむ becomes のまれる, get drunk – <u>I don't mean become intoxicated, I
 mean the way the cup of coffee got drunk;</u>
 
 たべる becomes たべられる, get eaten.
-
----
 
 So as you see, there are really – apart from that one exception, there
 are not lots
@@ -2750,11 +2720,8 @@ the same</u> – but because they are used very differently, there are
 very very few occasions on which you would confuse the two, so it's not
 really a problem.
 
----
-
 So, we have かえる, can buy; きける, can hear; はなせる, can speak, and
-so forth;  
-plus たべられる, can eat. *Note: can as in “is possible / is able”,
+so forth;  plus たべられる, can eat. *Note: can as in “is possible / is able”,
 later on that in Lesson 10.*
 
 ### The お-stem
@@ -2771,8 +2738,7 @@ as with the others, it's perfectly consistent.
 <u>And what we do with this sticky stem is attach う, and, as you know,
 う when attached to お generally lengthens the お.</u>
 
-So かう doesn't become kao-u, <u>it becomes かおう/kaō</u>;  
-*Note: Dolly is referring to pronunciation here, not saying individually
+So かう doesn't become kao-u, <u>it becomes かおう/kaō</u>;  *Note: Dolly is referring to pronunciation here, not saying individually
 o and u, but just long o.  
 *きく becomes きこう/kikō; はなす becomes はなそう/hanasō.
 
@@ -2782,8 +2748,7 @@ structure here, so I'll
 just use one of the uses.
 
 かう becomes かおう, let's buy; きく becomes きこう, let's listen, let's
-hear;  
-はなす becomes はなそう, let's talk.
+hear;  はなす becomes はなそう, let's talk.
 
 <u>In the ichidan form, we add よう to the end of the ichidan sticky
 stem.</u> *(And ofc. delete る)*
@@ -2894,8 +2859,6 @@ style="width:6.19271in;height:3.40379in" />
 
 "かいにいく" means "\[go\] in order to buy, for the purpose of buying".
 
----
-
 Now, you may be saying, "I thought that logical particles like に and が
 and を can only mark nouns" – and that's absolutely correct.
 
@@ -2914,8 +2877,6 @@ So <u>"かい", the act of buying, is a noun.</u>
 Just as in English if we say "I like swimming", "swimming" is a noun, swimming is a thing I like, and if we say "I go to the shop for the purpose of buying eggs", then that "buying" is also a noun, it's the thing we're going for.
 
 And "かい" is just like that.
-
----
 
 <u>So "かい" is the thing we're going to do and it's a noun and it's
 marked by に.</u>
@@ -2958,8 +2919,6 @@ park".
 Now you see, <u>this is also a target, because in order for a thing to
 be anywhere, it must have gotten there at some point. So "に" can mark not only a future target, a place where I will go
 to, it can also mark a past target, a place where I went and where I still am.</u>
-
----
 
 And <u>we also use this for inanimate objects</u>:
 "ほんはテーブルのうえにある" –
@@ -3010,8 +2969,6 @@ and I'll grant that it isn't very often.
 However, <u>this is a very important thing to learn because there are various more everyday things that turn into other things
 and also we use this form of expression much more in Japanese than we do
 in English.</u>
-
----
 
 For example, "ことし(zeroが)十八さいになる":
 
@@ -3162,8 +3119,6 @@ together. It tells us who does what to whom, with what, where, when and so
 forth. The は-particle doesn't do this, it just tells us what is the topic
 we're speaking about.</u>
 
----
-
 There are other particles that I would call a-logical.
 
 They're not non-logical topic markers, but they're not logical particles
@@ -3219,8 +3174,6 @@ just like Sherlock Holmes is sometimes in disguise.
 He also has powers that the other logical particles do not have.
 
 <u>He can work in A-is-B sentences, that is, descriptive sentences, sentences that tell us what something is, what its qualities are.</u>
-
----
 
 <u>The other particles can't do that.</u>
 
@@ -3317,8 +3270,6 @@ So this is equivalent in English to saying "I speak in Japanese", but as
 you can see, the Japanese construction is more logical because that actually is what
 we're doing, <u>we're speaking by the means of Japanese.</u>
 
----
-
 The other question, of course, that <u>Detective に</u> can ask is  
 <u>"Who was the target of an action done to something else?"  
 </u>but we've already discussed that in the に lesson. *(Lesson 8)*
@@ -3388,8 +3339,6 @@ English if we wanted to say something similar, <u>but it's not what this
 sentence means.</u> And if you've followed the course up to this point,
 you can see why it isn't.
 
----
-
 <u>The first and most important point here is – look where the が is.
 The が is marking the coffee. We know that the main actor</u> *(Subject in Active voice)*, <u>the doer or the be-er of a sentence, is always marked by が</u>, so we know that the main actor of this sentence <u>is not "わたし"
 –"I"</u>, <u>it is the coffee, which is marked by が.</u>
@@ -3428,8 +3377,6 @@ important. Because if we don't know that, if we really believe that this
 sentence means  
 "I like coffee", our grasp of が and を is completely messed up.</u>
 
----
-
 <u>If the actor of this sentence was "わたし", it would have to be
 marked by が. If the thing that the actor was acting upon, by liking it, was the
 coffee, then it would have to be marked by を.</u>
@@ -3447,14 +3394,10 @@ can. That can never happen. And if that could happen, Japanese would
 become chaos. And that's exactly what it does become in the minds of
 many students.</u>
 
----
-
 So, as we see in this sentence, <u>"わたし" is the non-logical topic of
 the sentence. It's marked by は. It's not the actor. It's not the subject. "コーヒー" is not the object, which would be marked by を if it
 was. It is the subject. And "すき" is not a verb meaning "to like"; it's an adjective meaning
 "to be pleasing".</u>
-
----
 
 So every single word in this sentence is being misdescribed by the
 standard explanation.
@@ -3472,8 +3415,6 @@ But as it happens there are a lot.
 All kinds of different sentence structures in Japanese throw up this
 same misunderstanding.
 
----
-
 For example, if we say "ほんがわかる", or "わたしはほんがわかる", we're
 saying  
 <u>the book is understandable</u>, but the English texts tell you that
@@ -3489,8 +3430,6 @@ style="width:4.02604in;height:3.65928in" />
 We could say "In relation to me, or just to me, the book is
 understandable", <u>and then we wouldn't be completely messing up what が does or thinking that a
 noun that should be marked by を can be marked by が, at random.</u>
-
----
 
 So why, at least in this case, don't the schools and textbooks simply
 translate it as it really is?
@@ -3790,8 +3729,6 @@ does, I know how
 
 she looks, but I don't know what her inner feelings are.
 
----
-
 <u>So if I want to talk about her desire to eat cake, I can't use
 "-たい". And I can't use "こわい" to describe her fear, and I can't use
 "ほしい" to describe a thing she might want.</u>
@@ -4060,8 +3997,6 @@ We are saying something about the book.
 We are saying <u>the book is readable, it's possible to read the
 book.</u>
 
----
-
 If we add "わたしは", we are saying the book is readable "to me".
 
 What we are literally saying is, "In relation to me, the book is
@@ -4082,8 +4017,6 @@ English wants to, then we have to change the particles.
 
 If we literally want to say, "<u>I</u> can read the book" –
 "<u>わたしが</u>ほんをよめる".
-
----
 
 A lot of people think this is bad Japanese.  
 *Note: I guess it isn’t how the Japanese tend to speak. It could be
@@ -4182,8 +4115,7 @@ the え-stem, and we can do everything with it that we do with any other ichidan
 <img src="./media/image155.webp"
 style="width:5.89063in;height:3.07704in" />
 
-So: "あるける" – can walk; "あるけない" – can't walk;  
-"あるけた" – could walk; "あるけなかった" – couldn't walk.
+So: "あるける" – can walk; "あるけない" – can't walk;  "あるけた" – could walk; "あるけなかった" – couldn't walk.
 
 <u>And this regularity is the same even with the irregulars.</u>
 
@@ -4203,12 +4135,9 @@ E.g. 分かる also has no potential form, as it implies it.
 *[<u>explains</u>](https://japanese.stackexchange.com/questions/5988/why-doesnt-%e5%88%86%e3%81%8b%e3%82%8b-have-a-potential-form/48809#48809),
 “分かれる” is another word*
 
----
-
 *Note: I will also add some regular ichidan verb example.*
 
-*“たべられる” - can eat; “たべられない” - can’t eat;  
-“たべられた” - could eat; “たべられなかった” - couldn’t eat.*
+*“たべられる” - can eat; “たべられない” - can’t eat;  “たべられた” - could eat; “たべられなかった” - couldn’t eat.*
 
 And it's really as easy as that.
 
@@ -4440,8 +4369,6 @@ play for Alice's benefit"
 
 <u>And we've connected the two together with the て-form.</u>
 
----
-
 <u>A thing we should notice here is that
 "おねえちゃんはつまらない本をよんで"  
 doesn't tell us the tense. We don't know whether she's reading a boring book right now or in the
@@ -4582,8 +4509,6 @@ style="width:6.01563in;height:3.28433in" />
 
 そのとき、白いウサギ (white rabbit) とおりすぎた (passed by)。
 
----
-
 <span class="mark">ふつうのウサギではなくて、チョッキをきているウサギだった。</span>
 
 <img src="./media/image604.webp" style="width:6.5in;height:3.52778in" />
@@ -4630,8 +4555,6 @@ don't modify in any way – so, when you're putting two nouns together to
 make a new noun, you simply push them into each other. This is the same
 as what we do in English, with words like seaweed or bookshelf. We just
 push two nouns together to make a new noun.</u>
-
----
 
 So the parts of this noun, 「かいちゅうどけい」: かいちゅう/懐中 is a
 slightly unusual noun – it means "in one's pocket or the inside of one's
@@ -4698,8 +4621,6 @@ paragraph with all kinds of other grammar going on in it –
 
 <u>it takes whatever it marks as a quotation and turns it effectively
 into a single noun.</u>
-
----
 
 So a と carriage is a white noun-carriage marked with と.
 
@@ -4867,8 +4788,6 @@ becomes はしり and then we add onto it the verb つづける (to continue).
 
 So 「ウサギははしりつづけた」means "The rabbit continued running".
 
----
-
 <u>ピョンピョン is something we're going to find very often in Japanese
 and that is, a doubled word that is a sound effect.</u>
 
@@ -5006,8 +4925,6 @@ And <u>it's the same with the potential and receptive helper verbs.
 They're used in quite different situations and there's very little
 chance of confusing them in real use. And real use is what matters.</u>
 
----
-
 So, <u>what does the receptive helper verb mean? It means "receive" or
 "get". Receive what? Receive the action of the verb to which it is
 attached.</u>
@@ -5040,8 +4957,6 @@ style="width:6.31771in;height:3.29262in" />
 when we add to that れる and put it into the past tense we get
 しかれた/叱られた. 叱る is "scold", 叱られる is "get scolded", 叱られた is "got
 scolded", so, "Sakura got scolded".</u>
-
----
 
 <u>Now, there's an important thing to bear in mind here, and that is
 that we can sometimes, with a helper verb attached to a verb, we can, as a sort of railroad
@@ -5076,8 +4991,6 @@ conjugation" arises.
 <u>The head verb of a れる・られる receptive sentence is always れる or
 られる, not the verb to which it is attached.</u>
 
----
-
 Now, <u>let's also notice that the A-car, the actor of the sentence, is
 not necessarily a person.</u>
 
@@ -5111,8 +5024,6 @@ together in a receptive sentence:
 it? We don't know, no one in particular, but someone.
 <u>誰か＝Someone</u>.
 
----
-
 So, what's going on here?
 
 Who is the receiver of the action? It's not Sakura, who's marked by は.
@@ -5139,8 +5050,6 @@ style="width:6.08333in;height:3.42917in" />
 <u>Now, this kind of に can only be used when we are projecting
 something, whether it's throwing a ball, sending a letter, giving a present, lending a book.
 We have to be projecting something toward the target.</u>
-
----
 
 Now, <u>れる is not a projecting verb. It's a receiving verb. It's not a
 push-verb, it's a pull-verb.</u>
@@ -5186,8 +5095,6 @@ people, and that is in the so-called "suffering passive" or "adversity
 passive", which is actually called in Japanese the 迷惑受け身/*めいわくうけみ*,
 which means the "nuisance receptive". And that's what it is. It's the
 nuisance receptive.
-
----
 
 「さくらはだれかに<u>かばんが</u>ぬすまれた。」means "Sakura's
 <u>bag</u> got stolen by someone" or, literally, "In relation to Sakura,
@@ -5419,8 +5326,6 @@ style="width:6.17188in;height:3.44201in" />
 itself"</u>. So we can see that the two are related. They're both
 "upping" verbs.
 
----
-
 「ウサギの後を追った」
 
 <img src="./media/image420.webp"
@@ -5454,8 +5359,6 @@ This is how we put it in Japanese.
 (Alice jumped up and followed after the rabbit.)
 
 *As for Alice, jumped up and rabbit's after/behind followed.*
-
----
 
 しゃべるウサギを見たことがない。
 
@@ -5522,8 +5425,6 @@ exist."
 
 <img src="./media/image969.webp" style="width:6.5in;height:3.36111in" />
 
----
-
 ウサギは早く走って、急にウサギの穴にとび込んだ。
 
 <img src="./media/image925.webp" style="width:6.5in;height:3.47222in" />
@@ -5551,8 +5452,6 @@ If we want to say "the rabbit is fast", we would say 「ウサギが早い」.
 <u>If we want to say that its movement is fast, its action is fast, we
 need an adverb. An adverb is an adjective that describes not an object,
 not a noun, but a verb.</u>
-
----
 
 <u>Now, we can turn any adjective into an adverb in Japanese very
 easily. All we do is we take the regular い ending adjective and use its stem
@@ -5585,8 +5484,6 @@ which is "doing an action into" something.</u>
 So "とび込む" means "jump into", quite simply "jump into".
 
 So, the rabbit "jumped into a rabbit-hole."
-
----
 
 But 「急に」what does that mean?
 
@@ -5644,8 +5541,6 @@ Well, は, as we know, declares the topic of the sentence, and obviously it can 
 
 <u>If we're talking about one thing and we declare a new は topic, we have changed the topic of the sentence.</u>
 
----
-
 Now, <u>も declares the topic of the sentence as well, but it always
 changes it. You can't use も unless there is a topic already current in the
 conversation.</u>
@@ -5660,8 +5555,6 @@ Alice.</u>
 <u>When we change the topic with も, we are saying that the comment
 about this topic is the same as the comment on the previous topic</u>, the topic we're
 changing from.
-
----
 
 <u>When we change the topic with は, we are doing the opposite of that:
 we are drawing a distinction between the present topic and the previous
@@ -5689,8 +5582,6 @@ her sister."
 
 This is what は does.
 
----
-
 If we'd used が: 「<u>アリスが</u>お姉ちゃんのところに戻った」, we'd
 simply have been saying, "The rabbit jumped into the rabbit-hole and
 <u>Alice</u> went back to her sister."
@@ -5699,8 +5590,6 @@ simply have been saying, "The rabbit jumped into the rabbit-hole and
 
 But with は, we are drawing that distinction; we are saying, "The rabbit jumped into the rabbit-hole, but as for Alice, she went back
 to her sister."
-
----
 
 Now, <u>if we say も instead of は, then we are making the opposite
 point: we are saying that the comment we made on the rabbit is the same
@@ -5715,8 +5604,6 @@ So, there are various uses of も, which we'll look at later, but this is
 the most fundamental one. <u>It's the topic-marking particle that tells
 us that the comment on the new topic is the same as the comment on the
 old topic.</u>
-
----
 
 穴の中は<u>たて穴</u>だった。アリスはすぐ下落ちた。
 
@@ -5742,8 +5629,6 @@ mean "soon"</u> in the sense of English "It'll happen directly (it'll
 happen soon)", or it can mean "straight / direct" in the other sense. So
 <u>すぐ下 means "straight down / right down / directly down".</u>
 
----
-
 「でも驚いたことにゆっくりゆっくり落ちた」
 
 <img src="./media/image260.webp" style="width:6.5in;height:3.09722in" />
@@ -5754,8 +5639,6 @@ And this means "But surprisingly she fell very very slowly".
 expression because it literally appears to mean, doesn't it, a
 "surprised thing".
 
----
-
 <u>But as we've seen with Japanese adjectives of emotion and desire,
 with things that describe emotion and desire, in Japanese they shift
 very easily from the thing that experiences the emotion to the thing
@@ -5763,8 +5646,6 @@ that causes the emotion and back.</u>
 
 So <u>"驚いたこと" here doesn't mean a "surprised thing", it means a
 "surprising thing".</u>
-
----
 
 And に ("こと<u>に</u>"), <u>is once again that technique of putting a
 に</u>, putting に, <u>after a noun to turn it into an adverb.</u>
@@ -5789,8 +5670,6 @@ noun with に.
 <u>"ゆっくり" is slightly unusual in that it is fundamentally a noun
 which can be applied as an adverb but we don't need to use に with it.
 It stands on its own.</u>
-
----
 
 "ゆっくりゆっくり落ちた". <u>"ゆっくり" means "slowly / leisurely / at a
 gentle pace"</u>.
@@ -5848,20 +5727,14 @@ the sake of Japanese, because they're not really accurate.
 transitive in English are not in Japanese etc., basically it is better
 to regard the two as their own entities to avoid confusion.*
 
----
-
 So what are self-move and other-move words?
 
 <u>In Japanese, a move-word, " 動詞 (doushi)", is a verb, a word that denotes an action or a movement.</u>
-
----
 
 <u>So a self-move word is any verb that moves itself. So if I stand up,
 that's a self-move action. I'm not moving something else, I'm moving
 myself. If I throw a ball, that's an other-move action. I'm not throwing
 myself, I'm throwing the ball.</u> And really it's as simple as that.
-
----
 
 <u>Now, Japanese has a lot of pairs of words – so we could say they're
 either two forms of the same word or two very closely related words –
@@ -5901,8 +5774,6 @@ Now, this is often very useful, because in many cases it gives us two
 distinct words that are easy to understand because they're closely
 related.
 
----
-
 For example, "負ける (まける)" means "lose" – it doesn't mean lose an
 object or lose money, but lose a contest, lose a war, lose a battle,
 lose a game – be defeated, in other words.
@@ -5914,8 +5785,6 @@ else to lose / *defeat someone*.
 So where we have two words in English, "lose" and "defeat", in Japanese
 we have fundamentally the same word in its self-move and its other-move
 versions.
-
----
 
 So that's very useful – but not so useful if you don't understand how to
 form self-move
@@ -5953,8 +5822,6 @@ style="width:5.35938in;height:2.65326in" />
 it's a completely inward-directed verb. You can't be or exist something
 else; you can only be and exist in yourself. It's fundamentally and
 absolutely inward-directed, self-directed.</u>
-
----
 
 <u>"する", on the other hand, means "do". So they mean "be" and "do".
 And "する" in itself, just doing, can never exist on its own, you have
@@ -6063,8 +5930,6 @@ that
 
 <u>める-ending verbs have a する-like other-move feeling to them.</u>
 
----
-
 And this really is all you need to know if you're beginning with
 self-move/other-move
 
@@ -6146,8 +6011,6 @@ is a self-move version</u>, isn't it?
 <u>So it's clear that "売る(うる)" is basically an other-move verb but
 when it's flipped it has a self-move version.</u>
 
----
-
 Now, if we take one that goes the other way, "従<u>う</u>(したがう)" means "obey" or "follow", and it has a flipped version, "従<u>える</u>(したがえる)", which means
 to "be followed by" or "be obeyed by".
 
@@ -6160,8 +6023,6 @@ that the extended idea is being obeyed or being followed.</u>
 So <u>here it's clear that the other-move version is going to be the
 -える version, because that's the flipped version of the basic concept,
 to obey or follow.</u>
-
----
 
 And we can also note here for those of you who've been asking
 yourselves, "Why does she say that transitive and intransitive aren't correct?" –
@@ -6195,16 +6056,12 @@ So why do the dictionaries call it intransitive?
 intransitive, but while it's a transitive verb – you obey someone, you
 follow someone – it is also a self-move verb.</u>
 
----
-
 <u>In obeying someone or following someone, you are not moving that
 other person. You are moving yourself. In being obeyed or being followed, you are not moving yourself,
 you're moving that other person.</u>
 
 So this is one of the cases where self-move and other-move do not
 correspond to transitive and intransitive.
-
----
 
 <u>There aren't too many of those cases, so it doesn't matter if you
 want to use transitive and intransitive, just be aware that the meaning is not exactly the
@@ -6269,8 +6126,6 @@ and it has an end.
 So "落ちる<u>間に</u>" means "<u>while</u> (she) was falling / <u>during
 the period of time while</u> (she) was falling".
 
----
-
 "ひま" means "free time / open time". It's a word you'll see quite
 often, and <u>it can be used in both a positive or a negative sense</u>. <u>It can mean free time to
 do what you want to do, or it can mean empty time, being bored, having time hanging on your
@@ -6279,8 +6134,6 @@ hands.</u>
 Here it just means having plenty of time available to look around,
 because she's falling, she can't do anything else, and she's falling
 rather slowly.
-
----
 
 "たっぷり" means "in large quantities".
 
@@ -6302,8 +6155,6 @@ because it's a particular time, so it takes に</u>)
 
 "...ひまがたっぷりあって" ("there was a lot of free time").
 
----
-
 Now, the next part - "まわりをゆっくり見まわせた" - is interesting
 because this is another example of what we were talking about last week:
 self-move/other-move pairs.
@@ -6315,16 +6166,12 @@ self-move/other-move pairs.
 The rather childish name for a policeman is "おまわりさん", which means
 "someone who goes around / someone who does the rounds".
 
----
-
 "回<u>す</u>" means "<u>make (something)</u> go around / <u>to send
 (something)</u> around / to cause it to go around" and of course, as we
 learned last week, we easily know which of the pair is the self-move word (going around)
 
 and which is <u>the other-move word</u> (sending around) because the
 sending-around one <u>ends in -す</u>.
-
----
 
 Now, we don't actually have "回る" here; we have "まわり".
 
@@ -6344,8 +6191,6 @@ So, what does "まわり" mean?
 around", "doing the rounds", and that's what we have in "おまわりさん",
 a policeman - here's someone who does the act of doing the rounds,
 <u>"まわり" is "the act of doing the rounds",</u>
-
----
 
 <u>but it can also mean "the surroundings"</u>, and in this case it
 actually takes a different kanji to show that it's a slightly different
@@ -6380,8 +6225,6 @@ verb, and all ichidan stems look the same, as we know, <u>but we know that this 
 い-stem, because that's the one that gets used for attaching verbs to
 other verbs.</u>
 
----
-
 So, <u>"見まわす" means literally "send your looking around / send your
 eye-beams around the place / make your looking go around".</u>
 
@@ -6390,8 +6233,6 @@ send your looking around the place / *surroundings*".
 
 And "<u>見まわせる" is</u>, as we've seen, <u>the potential form of
 "見まわす"</u>.　
-
----
 
 So what this is saying is
 
@@ -6535,8 +6376,6 @@ If we're looking at it in English terms we might think it's Alice -
 <u>But in Japanese it will usually in fact be "何", which is "a thing /
 something". "Nothing was able to be seen, nothing could be seen",</u>
 
----
-
 because usually with expressions like "<u>見える</u> / <u>見えない</u>",
 "<u>聞こえる</u> / <u>聞こえない</u>", "be able to see/*do seeable*" "be able to hear/*do hearable*" *(+ their
 ない-form not hearable etc.)  
@@ -6581,8 +6420,6 @@ So now she's not looking down. This means "the surroundings", again,
 at the surroundings of the hole".
 
 <img src="./media/image1140.webp" style="width:6.5in;height:2.01389in" />
-
----
 
 "目に止まるのはぎっしりならんだとだなや本だなだった."
 
@@ -6632,8 +6469,6 @@ But this can be taken much further in Japanese, and [<u>I've done a
 whole video</u>](https://www.youtube.com/watch?v=Bq3GO63D9bw) about this
 particular use of の, which you can look at if you want to go deeper.
 
----
-
 But in this case the way it's taken further is
 
 "目に止まるの" - this is "the thing, the one that stopped in her eye".
@@ -6661,8 +6496,6 @@ need に.</u>
 packed together</u>".
 
 "ぎっしりならんだとだなや本だなだった".
-
----
 
 All right. Well, we'll get to the "や" in just a moment, but
 
@@ -6717,8 +6550,6 @@ So if you want to say "pen and book", we say "ペンと本".
 we want to "and" together two or more objects.</u> What's the
 difference?
 
----
-
 Well, as a matter of fact it's a very useful difference, and one that we
 could do with in English.
 
@@ -6738,8 +6569,6 @@ So what "stopped in her eye" was the fact that cupboards and bookshelves
 <u>(among other things)</u> were tightly lined around the walls.
 
 <img src="./media/image452.webp" style="width:6.5in;height:3.18056in" />
-
----
 
 <img src="./media/image323.webp" style="width:6.5in;height:3.05556in" />
 
@@ -6888,8 +6717,6 @@ So "歩<u>く</u>" becomes "歩<u>き</u>ます"; "話<u>す</u>" becomes
 
 And <u>they're simply the formal way of saying "speak", "walk", etc.</u>
 
----
-
 Now, another reason I didn't teach this earlier is because people say
 there are only two irregular verbs in Japanese – I've said this myself –
 <u>but the truth is that there is another one, and it's "ます". And "ます" isn't irregular in the way that "くる" and "する" are
@@ -6963,8 +6790,6 @@ But it has, for better or worse, become standard Japanese grammar, so we
 just have to remember it. It's really only a couple of irregularities
 and they're not really difficult to remember just so long as we don't
 learn them at the beginning, where they confuse our whole understanding of Japanese.
-
----
 
 If we learn "ます" as a so-called "conjugation" and we believe that that
 is the base-form
@@ -7056,8 +6881,6 @@ speech</u>, <u>we can also put it on to the end of the ない-helper adjective, 
 sentence-ender; we put it right at the end of whatever else we're doing
 in order to add formality to the sentence.</u>
 
----
-
 <u>However, we can use both "です" and "ます" with the volitional helper
 verb.</u>
 
@@ -7093,8 +6916,6 @@ helper is just the single kana う</u>(-u), <u>and we put it on to the end of th
 So, "話<u>す</u>" becomes " 話<u>そう</u>", "歩<u>く</u>" becomes
 "歩<u>こう</u>" and so forth.
 
----
-
 What does it mean? <u>Well, the name really tells you what it means.
 "Volition" means "will", so the volitional expresses or invokes the
 will. The most usual use of it is setting the will of a group of people in
@@ -7103,8 +6924,6 @@ mentioned, ましょう is the volitional form of ます)*, "<u>Let's</u> go".
 
 And some people call the たい-helper adjective volitional as well,
 <u>which is confusing because they aren't the same thing.</u>
-
----
 
 <u>And the thing here to remember is that -たい expresses desire, want,
 wanting to do something. The volitional form expresses will. And will and desire aren't the
@@ -7122,8 +6941,6 @@ tidy the room", "let's do our homework."
 
 <u>It's expressing will, not want.</u>
 
----
-
 You'll very often see on Japanese signs things like,
 "ゴミを持ち帰りま<u>しょう</u>" – "<u>let's</u> pick up our trash and
 take it home" – which always seems to me like quite a nice kind of
@@ -7131,8 +6948,6 @@ exhortation, rather different from the Western signs that say, "Pick up your rub
 or we'll confiscate
 
 your car and dye your children purple".
-
----
 
 Now, <u>there are a number of uses of the volitional along with
 particles like -か and -と</u>, but we're not going to go into them here, because I don't think that learning lists of usages is a good way to
@@ -7250,8 +7065,6 @@ to say,</u>
 doesn't imply any doubt about the fact that we can actually do it. It implies doubt about what would be the result when we've done
 it.</u>
 
----
-
 <u>"Try eating" - we know we can eat, but don't know if we'll like
 it.</u>
 
@@ -7260,13 +7073,9 @@ it.</u>
 Eat it and then see what the result is, see if you like it, see if you
 don't like it.
 
----
-
 "山にのぼってみる" means "climb the mountain and see".
 
 See whether it was hard, see what the view's like from the top.
-
----
 
 "ケーキを<u>食べようとする</u>" - "<u>try to eat</u> the cake" - implies
 that we don't know whether
@@ -7288,8 +7097,6 @@ it.
 
 <u>"しようとする" implies that we don't know whether we can do it or
 not, but we are going to try to do it.</u>
-
----
 
 So, an important thing here is to see what the と-particle is doing.
 
@@ -7318,8 +7125,6 @@ relief".</u>
 
 What it means is, <u>"feel relief / be relieved"</u>.
 
----
-
 <u>So what we're doing here is enacting the idea, the feeling, expressed
 in "ホッ", the sigh of relief. Just as in "山にのぼろうとする" we're enacting the feeling, the import of setting our will toward climbing the mountain, that is,
 trying to climb it.</u>
@@ -7337,8 +7142,6 @@ something quite different.
 It means "<u>turn Sakura into a Japanese person</u>".
 
 <u>に is the target of an action.</u>
-
----
 
 A little while ago we had a lesson *(Lesson 8)* in which we talked about
 
@@ -7541,8 +7344,6 @@ other-move versions
 of each other, we can see that they are very closely related
 conceptually to that.
 
----
-
 <u>"れる/"られる"" indicates receiving the action to which it is
 attached. "せる/させる" means causing that action to be performed by somebody
 else.</u>
@@ -7596,8 +7397,6 @@ This becomes clearer in a slightly longer sentence:
 Again, <u>there are two actions going on, and always in a receptive
 sentence the main action, the core action of the sentence, is "れる" –
 "receive": "Sakura received".</u>
-
----
 
 But there is a nested action within this done by the secondary verb,
 "ぬすむ" – "steal".
@@ -7666,8 +7465,6 @@ That's not what it means.
 
 <u>It means that I set up the conditions under which it was able to eat;
 I gave it food; I caused it to eat.</u>
-
----
 
 <u>So "せる/させる" means "cause" a person or a thing to perform an
 action by whatever means, whether that causing is allowing, whether it's
@@ -7742,8 +7539,6 @@ On many occasions, as I demonstrated, it may mean neither "compel" nor
 
 It's a sliding scale between the two; it's subtler and more graduated
 than that.
-
----
 
 Secondly, when the action that is being compelled itself has a を-marked
 object
@@ -7871,14 +7666,10 @@ always going to be the same.</u>
 "I received being made to eat..." – <u>I was the one that received being
 made to eat, and therefore, I must have been also the one that ate.</u>
 
----
-
 So <u>the first verb in the sentence, the verb to which the other two
 are attached, is always going to be performed by the same person as the last verb,
 the receiving. And the compelling of the person to do something is always done by
 someone else.</u>
-
----
 
 So <u>we have three verbs</u>, <u>two</u> of which <u>are attached to
 the person who received the compulsion and who did the action because she received the
@@ -7992,8 +7783,7 @@ animal or a person
 or something, <u>but this means any kind of a being, anything that
 exists.</u>
 
-So, "これ" means "this thing/this being";  
-"それ" means "that thing/that being";
+So, "これ" means "this thing/this being";  "それ" means "that thing/that being";
 
 "あれ" means "that thing over there/that being over there",  
 and "どれ" means "which being/what thing?"
@@ -8013,8 +7803,6 @@ So if we say, "さくらのドレス", we're saying, "Sakura's dress".
 
 If we say, "でんせつのせんし/伝説の戦士", we're saying, "legendary
 warrior/warrior that belongs to the class of legend".
-
----
 
 Now, <u>this is the same の that we see in "この/その/あの/どの".</u>
 
@@ -8061,15 +7849,12 @@ noun into an adjective that you can place before something else.
 
 And this is exactly what's happening here.
 
-So, "<u>こんな</u>" means "<u>like this/this kind of</u>";  
-"<u>そんな</u>" means "<u>that kind of</u>", "<u>あんな</u>" means "<u>that kind of over there/the further-away kind
+So, "<u>こんな</u>" means "<u>like this/this kind of</u>";  "<u>そんな</u>" means "<u>that kind of</u>", "<u>あんな</u>" means "<u>that kind of over there/the further-away kind
 of</u>".
 
 And I'm not going to go into the details of this, <u>but whether we use "そんな" or "あんな"is going to depend on... sometimes the literal position of something but very often on how far
 these things are from what we are talking about, from the present
 circumstance, from something we associate with ourselves.</u>
-
----
 
 So, we could say, "<u>こんな食べ物</u>が好きです" - "I like <u>food like
 this</u>".
@@ -8096,8 +7881,6 @@ thing is something I don't like."
 
 <u>"そんな!" - "That you said such a thing!"</u>
 
----
-
 So <u>"そんな" is essentially a comparing adjectival:</u>
 
 <img src="./media/image715.webp" style="width:6.5in;height:3.63889in" />
@@ -8106,8 +7889,6 @@ we're describing what something is like by comparing it to something
 else that we're referring to, something that's here, something that's
 over there or something that's way over there, either in physical space
 or conceptually.
-
----
 
 <u>"どんな" is asking what kind of a thing something is.</u>
 
@@ -8377,14 +8158,10 @@ being:
 
 "窓が開いている".
 
----
-
 But if we say "窓が開け<u>てある</u>", <u>we are saying that somebody
 opened the window. The window was the mere object of having been opened by somebody
 else. So it loses its status as an honorary animate being. It is treated as a mere object, an inanimate thing</u> –
 "開け<u>てある</u>".
-
----
 
 And the thing to understand here is that <u>even though it's lost its
 status as an animate being, even though we're using the other-move version of the verb, the が-marked actor of this sentence is the window:</u>
@@ -8395,8 +8172,6 @@ status as an animate being, even though we're using the other-move version of th
 
 <u>The window is doing the action, which is "ある": the window is
 existing in a state of having been opened by somebody else.</u>
-
----
 
 And that is the same thing that's happening in our sentence from Alice.
 
@@ -8555,8 +8330,6 @@ And to understand this let's go back to our example
 <img src="./media/image15.webp"
 style="width:3.53646in;height:2.93451in" />
 
----
-
 Now, the somebody who opened it, if we say it instead of from the point
 of view of the window, from the point of view of the person doing the
 action, 👇
@@ -8580,8 +8353,6 @@ window.</u>
 
 And this is what "おく" means – "おく" means "place".
 
----
-
 <u>So you're "placing" the action, you're putting it into place, you're
 setting it up.</u>
 
@@ -8590,15 +8361,11 @@ advance" or "do for another purpose", because you are setting up that
 action and the implication is that you want the effect of that action to
 "remain in place" for whatever future purposes it may have.</u>
 
----
-
 In this case, Alice does not have a future purpose.
 
 <u>So in fact, て-form plus "おく" has a much wider range of meaning
 than the "do in advance" or "do for a purpose"</u> kind of English
 translation that it gets in the textbooks.
-
----
 
 <u>In the case of Alice in this story, she isn't really doing anything
 in advance or for a purpose; she's simply trying to solve the problem of
@@ -8682,8 +8449,7 @@ come in from other
 languages like Chinese, of which there are a huge amount, and English,
 and other languages too come in as nouns.
 
-<u>You can turn them into verbs by putting "する" after them;  
-you can turn them into adjectives with の and -な.</u>
+<u>You can turn them into verbs by putting "する" after them;  you can turn them into adjectives with の and -な.</u>
 
 <img src="./media/image663.webp"
 style="width:2.76042in;height:3.28881in" />
@@ -8732,8 +8498,6 @@ And we also use this "-ても" form when asking for permission, don't we?
 – "Is it all right if I eat the cake? / May I eat the cake?"
 
 Literally, "If I go as far as to eat the cake, will that be all right?"
-
----
 
 "空っぽのびんでも下へ落としては悪いと思った".
 
@@ -8928,8 +8692,6 @@ structure:
 "<u>as for</u> dropping it, that would be bad" -
 下へ落として<u>は</u>わるい
 
----
-
 <u>And then the whole of this double topic-comment structure is bundled
 up into that -と, which really means we can treat the whole thing as a
 kind of quasi-noun – just bundle up into that -と and attribute it to Alice as her thought.</u>
@@ -8987,8 +8749,6 @@ on the list, "somebody said".
 <u>"だって" is actually simply made up of the copula "だ" plus って, which is not the て-form of anything, it's the って which is a
 contraction</u>, as we've talked about before *(Lesson 18)*, <u>of the quotation particle
 -と plus "いう".</u>
-
----
 
 <u>So って means "-という", in other words, "says" a particular
 thing.</u>
@@ -9118,8 +8878,6 @@ rather than space.</u>
 "From that forward / from that forward in time / after that"; "それから"
 – "after that".
 
----
-
 To say "<u>because of that</u>", we say "<u>ですから</u>" or
 "<u>だから</u>", and this is really short for
 
@@ -9154,16 +8912,12 @@ Now, <u>the "but" here is you saying "You said that...". And "だって" is a ra
 saying it, so the implication is that what comes next is going to be
 negating what was said.</u>
 
----
-
 And this works in just the same way as English "but".
 
 If you think about it, <u>"but" is not saying that what came before it
 is untrue. In fact it is accepting that what came before it is true, but it's
 then adding some information that is contrary to the impression given by
 that statement.</u>
-
----
 
 So "さくらがきれいだね" – "Sakura is pretty" –
 
@@ -9197,8 +8951,6 @@ Again, what it's really saying is "You say that and I don't dispute it,
 <u>but here's something we can add to it which undermines the narrative that you are trying
 to put forward."</u>
 
----
-
 So you see, it doesn't literally mean either "but" or "because".
 
 <u>What it means is, "I accept your statement and now I'm going to add something a bit
@@ -9220,8 +8972,6 @@ talked about.</u>
 
 In other words, <u>we are not simply using it to refer back to the last
 statement.</u>
-
----
 
 <u>We're usually attaching it to something in particular within the
 statement we're making.</u>
@@ -9247,8 +8997,6 @@ just means neutrally</u>
 "私<u>だって</u>", <u>because it's very colloquial and because it's
 associated with this slightly negative or contradictory implication</u>, it means "<u>Even</u> I
 can do that".
-
----
 
 <u>And it doesn't have to be negative in the sense of contradicting
 anything.</u>
@@ -9334,8 +9082,6 @@ We do the same thing in every case.
 
 That is the kana that makes it what it is, its active part.
 
----
-
 <u>So we take the "だ" from the だ-engine - the "だ" or the "な" from
 the だ / な-engine. We take the "い" from the い-engine. And from the verb engine, we take that last う-row kana. And we just put -そう onto them</u>, so it's a very simple
 connection.
@@ -9343,8 +9089,6 @@ connection.
 #### With adjectival nouns
 
 And <u>the important thing to remember here is in the case of nouns we can't do it with an ordinary, regular noun. We can only do it with an adjectival noun.</u>
-
----
 
 In other words, <u>if an adjectival noun is an adjectival noun to start
 with, we can turn it into a different adjectival noun with -そう. If it wasn't an adjectival noun to start with, it can't be turned
@@ -9419,8 +9163,6 @@ And this is an important one to remember because, as we've mentioned
 before, <u>Japanese is a lot stricter than English in restricting us to
 saying only things that we can actually know for ourselves.</u>
 
----
-
 <u>So unless you've tasted something, you can't say it's "おいしい". Unless you've done something, you can't say it's "面白い" -
 interesting or amusing.</u>
 
@@ -9451,8 +9193,6 @@ In Japanese it's called <u>"れんようけい/連用形", which means
 And that might sound strange because we know that all four stems
 actually connect things, but while the other three have particular uses, <u>the "れんようけい/連用形", the い-stem, as well as its particular
 uses, can be used to connect almost anything. It can connect verbs to nouns to make new nouns; it can link verbs to verbs to make new verbs; and so on.</u>
-
----
 
 So, <u>we connect -そう to the "連用形", the い-stem</u>, the general-purpose connecting stem of verbs.
 
@@ -9486,8 +9226,6 @@ reporting what I got at second-hand from somebody else"?
 Some people would say that this is also a suffix and we have to observe
 different rules for applying it, <u>but the truth is that it is not a
 suffix.</u>
-
----
 
 <u>The -そう we've just discussed is a suffix. We join it to other words in order to form a new word.</u>
 
@@ -9678,8 +9416,6 @@ up to me and say, "What is that animal?" and I say,
 Now, I've given <u>a complete sentence with "らしい" on the end</u>, and the natural meaning here would be "<u>I heard from those people
 that</u> it was a rabbit."
 
----
-
 Now, you see this is just the same as if in English I say, "<u>It
 appears that</u> it's a rabbit."
 
@@ -9711,8 +9447,6 @@ It's just the same as in English if you said
 information you've heard or that that's the conclusion you're drawing from your
 observations.</u>
 
----
-
 <u>If you want to be completely unambiguous that you're talking about
 hearsay, that you're talking about something you heard from other people</u>,
 then you say,  
@@ -9741,8 +9475,6 @@ We'll get to it in a moment.
 But it really comes into its own when it's being applied to regular
 nouns.
 
----
-
 As you would expect from the fact that <u>it is a -しい adjective</u>
 
 – that's to say, that we would expect it to be expressing a greater
@@ -9753,8 +9485,6 @@ So we can say "あの動物はウサギ<u>らしい</u>" –
 
 "That animal <u>is</u> rabbit<u>-like</u> / that animal<u>'s like</u> a
 rabbit."
-
----
 
 Now, the difference between this and "そう", apart from the fact that
 you can only apply
@@ -9799,8 +9529,6 @@ If we talk about someone who's not a teacher and we say
 <u>We might or might not be conjecturing that she is in fact a
 teacher.</u>
 
----
-
 But if we know that she's a teacher and we say,
 "さくら先生は先生<u>らしい</u>", we mean that she <u>behaves like</u> a teacher.
 
@@ -9809,8 +9537,6 @@ style="width:3.44271in;height:2.45594in" />
 
 <u>She is a teacher and she has the right qualities and manner for being
 a teacher.</u>
-
----
 
 Conversely, we could say, "さくら先生は、先生<u>らしくない</u>" and in
 that case, we're saying, "Well, we know she's a teacher, but she
@@ -9846,8 +9572,6 @@ So if we want to say "child<u>ish</u>", we might say
 exactly that form –  
 "子ども<u>っぽい</u>", "ウサギ<u>っぽい</u>".
 
----
-
 <u>You can't use っぽい at the end of a completed clause. You can only
 attach it to a word.</u>
 
@@ -9857,8 +9581,6 @@ And apart from its colloquial nature, a difference in tendency from
 <u>"らしい" will tend to imply that the quality is what something ought
 to have. -っぽい often tends to imply the opposite.</u> *(basically, it tends
 to imply an undesirable quality)*
-
----
 
 There's no hard-and-fast rule here, but <u>there tends to be a positive inclination in "らしい" and a
 negative one in っぽい</u>,  
@@ -12313,8 +12035,7 @@ And the head of this sentence is very straightforward, isn't it?
 It's "結婚した".
 
 The head verb is simply "した" -- "did" -- but that's making a する-verb
-with "結婚";  
-so, "結婚した".
+with "結婚";  so, "結婚した".
 
 What the sentence is telling us is that somebody got married.
 
@@ -12781,8 +12502,6 @@ it's inconvenient."
 And that "一方で" acts as the conjunction.
 
 And we can, once again, leave off the copula here.
-
----
 
 One other use of "一方" that we should mention is that it can also be
 used after a complete
@@ -13388,8 +13107,6 @@ some, but I think it is good to know and Nihil’s answers are just
 incredible, so they deserve some recognition:)<u>  
 </u>*<img src="./media/image872.webp" style="width:6.5in;height:0.75in" />
 
----
-
 The author actually supplies an English translation, although the book
 is entirely in Japanese, of the title: "Alice and Penguin: The Excellent Detectives".
 
@@ -13431,8 +13148,6 @@ In practice, the difference isn't huge, but it's worth bearing that in
 mind just to see
 
 what the subtler implications might be.
-
----
 
 But the point here is that we're playing with a very small number of
 elements.
@@ -13485,8 +13200,7 @@ In Japanese we can do exactly the same thing.
 So we have "本棚" -- "本" is "book", "棚" is "shelf": "本棚" is
 "bookshelf".
 
-"海草" -- "海/かい" is the 音読み-reading of "海/うみ", "sea";  
-"草/そう" is the 音読み-reading of "草/くさ", "grass", and together they make "海草" -- "seaweed", because "grass" can mean any
+"海草" -- "海/かい" is the 音読み-reading of "海/うみ", "sea";  "草/そう" is the 音読み-reading of "草/くさ", "grass", and together they make "海草" -- "seaweed", because "grass" can mean any
 kind of plant-life, which is why we have Grass Pokemon.
 
 And this also happens in the case of combinations that don't exist in
@@ -13694,8 +13408,6 @@ us.
 
 And we can note here that there's no ambiguity at all in this, because
 "暑いじゃない" is not the negative of "暑い" – that's "暑くない".
-
----
 
 And it can also be put after verbs.
 
@@ -13929,8 +13641,7 @@ coming or not,"
 (in English that's how we'd say it, as opposed to
 "さくらが来るかわからない" --
 
-in English we'd say "I don't know if Sakura's coming";  
-"さくらが来るかどうかわからない" – we'd say in English "I don't know
+in English we'd say "I don't know if Sakura's coming";  "さくらが来るかどうかわからない" – we'd say in English "I don't know
 whether Sakura's coming or not.")
 
 what we're literally saying here is "Sakura coming (question) how
@@ -14377,8 +14088,6 @@ school every day,"
 
 but it's not stating it as strongly as if we'd used "から".
 
----
-
 Now, another confusion, which is not kept such a deep, dark secret by
 the textbooks, but they don't always stress it clearly enough, and it's very important
 because it concerns
@@ -14757,8 +14466,6 @@ We can say "<u>静かに</u>する" -- "do <u>quietly</u> / act
 
 We can say "<u>静かに</u>歩く" -- "walk <u>quietly</u>".
 
----
-
 *(But)* <u>With adverbial nouns, we can drop that に.</u>
 
 *Note: I think Dolly here does NOT mean that we can drop に with 静か
@@ -15097,8 +14804,6 @@ qualifying a noun.
 
 And the noun it's qualifying is "まま": "the unchanged condition of
 being young".
-
----
 
 Now, there's a use of "まま" that you'll probably come across quite
 often, and that is "思いのまま" or "心のまま".
@@ -15454,8 +15159,6 @@ its polarity, to point not to the object inducing desire to do but also to the p
 or animal experiencing the desire to do.
 
 And this goes on to extend to other areas of Japanese.
-
----
 
 For example, the potential.
 
@@ -16043,8 +15746,6 @@ Because of the "ほう", which is telling us that we're talking about the
 side of that character's meat as opposed to some other side, which in
 this case is going to be "my meat".
 
----
-
 "犬は悔しくてたまりません."
 
 "悔しい" is an adjective and it means that something is "irritating" or
@@ -16070,8 +15771,6 @@ was "to an unbearable degree".
 
 The dog was annoyed to an unbearable degree at seeing this other dog
 with what he believed to be a larger piece of meat than his own.
-
----
 
 And then we have a quotation from the dog:  
 "そうだ、あいつを脅かしてあの肉を取ってやろう."
@@ -16261,8 +15960,6 @@ And that's the first moral.
 
 In English, we'd probably put that the other way around and say, "Other people's things appear better than ours, but in fact they're the
 same."
-
----
 
 "また" -- "また" means "again" or in cases like this it means "also".
 
@@ -17139,8 +16836,6 @@ What kind of a person was it?
 An "outside-country" person, a person "from a foreign country" --
 "外国人".
 
----
-
 So, everything in this sentence is modifying whatever comes after it,
 until we get to the A-car, and then we have the first fundamental
 element of the sentence, and then everything after that is then modifying the engine.
@@ -17340,8 +17035,6 @@ we're going to eat, then it'll be understood that the zero pronoun of that sente
 
 thing we're talking about: what we're going to have to eat.
 
----
-
 Could it ever mean "I am an eel"?
 
 Yes, it could.
@@ -17468,8 +17161,6 @@ implement by saying
 
 You will always put the more probable and less absurd interpretation on
 it.
-
----
 
 Language reserves the right, and must reserve the right, to express the
 improbable and the absurd.
@@ -17833,8 +17524,6 @@ someone, or at least it came very easily.
 <u>But we're not saying anything about who gave it to us  
 or where it came from or how it all came about, unlike "くれる" and "あげる", which are bound to a particular giver
 and receiver.</u>
-
----
 
 Now, when we're using it with a *verb*, "もらう" contrasts strongly with
 "くれる"
@@ -18220,8 +17909,6 @@ Remember, *structure doesn't teach us how to understand Japanese.*
 <u>It gives us the basic tools we need in order to pick it up from the
 only place you can really learn how a language works</u> -- and that is <u>direct
 immersion</u>.
-
----
 
 And I'll just add before we go... I'm not teaching 敬語/けいご at this
 point.
@@ -18810,8 +18497,6 @@ Really we're saying "錠前が掛かった" -- the lock was fixed or hooked, but
 
 and it would seem even a little unnatural to say it correctly.
 
----
-
 And because the door was unlocked, "彼女はそのまま中に入っていた" -- she
 went in.
 
@@ -18962,8 +18647,6 @@ So "真っ暗" is "pitch darkness".
 So, "部屋の中は電気がついておらず真っ暗で" --
 
 "As for the inside of the room, the lights were off, it was pitch dark".
-
----
 
 "どうやら先輩はもう寝てしまったらしい"
 
@@ -19467,8 +19150,6 @@ about ourselves, we use them in a self-move manner, those two are the most commo
 
 Actually we can use the other forms, the regular forms, "見られる" and "聞ける", as self-move verbs too, but they can also be used as other-move verbs.
 
----
-
 With "見える" and "見られる", there is a difference in nuance, which is
 that
 
@@ -19510,8 +19191,6 @@ So we say "カエルに見える" -- "looks like a frog" --
 
 or we can say of someone "若く見える" -- "she looks young".
 
----
-
 And we can also use it not just for literally how something sounds to
 our ears
 
@@ -19525,8 +19204,6 @@ So, we're not talking here necessarily about the actual sound.
 It might not be a noise that sounds strange.
 
 It may be something somebody said that sounds strange.
-
----
 
 So we're using either the adverbial form of an adjective or the
 adjective-making targeting particle に to describe how something appears
@@ -19647,8 +19324,6 @@ Adjectives can change the -い to -く, -か or -け, so we can have "美味し�
 Or we can drop the -い altogether and add something else, as for example
 in "美味しそう".
 
----
-
 Nouns, on the other hand, can't modify at all.
 
 You can't do anything with the last kana of a noun or any other part of
@@ -19673,8 +19348,6 @@ And it's important to understand that when we add the logical particle
 or the copula
 
 to a noun we regard those two things joined together as a unit.
-
----
 
 So for example when we add the soft copula "な" to an adjectival noun
 like "綺麗/きれい"
@@ -19701,8 +19374,6 @@ in Western so-called Japanese grammar that it's best left alone.
 
 It has a name in Japanese but since it would take rather a while to
 explain it, I won't go into that here. But it's not anything like "な-adjective".
-
----
 
 Now, the other thing to understand is that when we attach the copula to
 a noun, that combination is in fact a "用言" or active unit.
@@ -19826,8 +19497,6 @@ locality, the boundary within which it takes place, with the other kind
 of "用言", an adjectival, it's telling us the boundary within which that adjectival quality
 prevails.
 
----
-
 Now, we can also say "世界の一番美味しいラーメン".
 
 That's less commonly said, but it could be said.
@@ -19841,8 +19510,6 @@ We know what の does: it links one noun to another.
 So it's not modifying the quality of "美味しい", as で is.
 
 It's modifying "ラーメン".
-
----
 
 And because of this <u>we can also say</u>
 "このラーメンは世界で一番美味しい"
@@ -19865,8 +19532,6 @@ which is another noun, and because "ラーメン" is on the wrong side of
 it, we can't actually use that.
 
 So we have to say "このラーメンは世界で一番美味しい", because で sets the boundary within which "美味しい" prevails.
-
----
 
 Now, since we know that a noun-plus-copula also functions as a "用言",
 an active element, we can also say "世界で一番有名なアンドロイド".
@@ -20455,8 +20120,6 @@ It's not just a passing whim, it's something that one's whole heart is
 set on,  
 something "crammed in".
 
----
-
 We'll come across a few other meanings of "込む" too, especially when
 it's used,  
 as it very often is, as a helper verb put onto the い-stem of another
@@ -20558,8 +20221,6 @@ They mark each noun with its function in the sentence.
 A noun can't actually be more than one part of speech at the same time, so it would just make no sense at all  
 to combine any of these five together with each other.
 
----
-
 But what you can combine them with is non-logical particles, notably the two non-logical topic markers, は and も.
 
 You can combine these because they don't clash logically.
@@ -20589,8 +20250,6 @@ it has to be in every sentence of every kind;
 を is the secondary particle: it marks the direct object.
 
 This means that in any sentence that is directly transitive, を has to be present, whether we can see it or not.
-
----
 
 Now, what do I mean by directly transitive?
 
@@ -20666,8 +20325,6 @@ In some cases English and Japanese will disagree
 about what is directly transitive and what's indirectly transitive, but an awful lot of the time they're in fact in agreement
 
 because these are fairly basic factors of human communication.
-
----
 
 Now, the point here is that these two direct particles --
 
@@ -20813,8 +20470,6 @@ And that's why you can use them that way and why
 you can't combine one logical particle with another logical particle
 
 or one non-logical particle with another non-logical particle.
-
----
 
 Now, there are other particles that can pair with other particles, but again, this whole pairing concept is the wrong way of looking at it.
 
@@ -21029,8 +20684,6 @@ understand
 
 unless we recognize what their actual structure is.
 
----
-
 And there is a whole range of verbs that refer to what in English would
 be called states.
 
@@ -21080,8 +20733,6 @@ understand.
 <u>So the thing to understand here is that in Japanese verbs can and
 often do represent what in English can only be expressed as either states of being or
 passive actions.</u>
-
----
 
 And then there is another group of verbs which is closely related in
 type to this in which
@@ -21252,8 +20903,7 @@ that there is also an invisible は-marked topic:
 <img src="./media/image894.webp"
 style="width:3.53125in;height:3.9555in" />
 
-"<u>zeroは</u>コーヒーが好きだ"; "<u>zeroは</u>頭が痛い";  
-"<u>zeroは</u>おなかが空いた"; "<u>zeroは</u>クレープが食べたい".
+"<u>zeroは</u>コーヒーが好きだ"; "<u>zeroは</u>頭が痛い";  "<u>zeroは</u>おなかが空いた"; "<u>zeroは</u>クレープが食べたい".
 
 "<u>In relation to me</u>, coffee is likeable/pleasing";
 
@@ -21315,8 +20965,6 @@ at all, both its elements have to be outside of the topic.
 We have to have a topic and we also have to have
 
 an A-car, we also have to have a B-engine.
-
----
 
 Therefore, every topic-comment sentence
 
@@ -21439,8 +21087,6 @@ implications
 
 are being made by a particular statement.
 
----
-
 Now, when we treat something as a topic and mark it
 
 with は or も, <u>this can't be new information.</u>
@@ -21525,8 +21171,6 @@ If we choose to stress "I" as the topic and say "私<u>は</u>本を買った", 
 into the new information, and because of this, は has a distinguishing
 function.</u>
 
----
-
 When we use は, we are either establishing or changing the topic.  
 And even establishing a topic is in most cases changing it, because we can assume there was some topic before.
 
@@ -21560,8 +21204,6 @@ which may not in fact have been asked:
 The answer to "What did I do?" is "I bought a book" when you're marking
 "I" with は.
 
----
-
 Now, if you say "私が本を買った", you've changed the emphasis.
 
 <u>You've reversed the emphasis.</u>
@@ -21582,8 +21224,6 @@ book, now I'm giving you the new information:
 
 So while "私は本を買った" is implicitly the answer to the question "What
 did you do?", "私が本を買った" is implicitly the answer to "Who bought the book?"
-
----
 
 It's also important to understand what is the natural, neutral way of
 saying something.
@@ -21633,8 +21273,6 @@ They're taken to be a particular subject in themselves and so we're more
 likely to be
 
 talking about particular flowers instead of flowers in general.
-
----
 
 Now, all the time we're talking about tendencies here, aren't we?
 
@@ -21686,8 +21324,6 @@ with the implication that if the topic were different the comment would
 also be different, because <u>we're using は</u> not も, and <u>は is the exclusive
 topic-marker as opposed to も, which is the inclusive topic-marker.</u>
 
----
-
 Now, it's not only used for differentiation; it's also used because it
 throws emphasis forward. It's also used for emphasis.
 
@@ -21717,8 +21353,6 @@ Actually, it's "trainees like you":
 "おまえみたいな半人前には" and this would made a topic out of "trainees
 like you", and the comment on this would be the logical clause "休みがない" --
 "there are no rests".
-
----
 
 <u>However, the speaker has chosen to do something different. She's chosen to de-emphasize the topic by not marking it with は, but this doesn't stop it being the topic.</u>
 
@@ -21822,8 +21456,6 @@ speakers use "up and "out" -- they even "peace out", whatever that means
 all over the place in all kinds of circumstances and there's only a
 marginal amount of reason to the way they're used.
 
----
-
 Now, because there are more helper verbs, they can be much more
 targeted.
 
@@ -21857,8 +21489,6 @@ And the same with the "説明" here.
 place, so that, after that, each group will understand what's going on, they won't be in the dark
 about it any more.
 
----
-
 Now, we can compare this with another
 
 very common helper verb, which is "しまう"
@@ -21891,8 +21521,6 @@ explanations."
 So, "しまう" has a wide variety of implications,  
 some of them negative, not all of them negative, but "おく" has a completely different range of meaning.
 
----
-
 <u>"しまう" is talking about going ahead and  
 doing something, something happening by accident;</u>
 
@@ -21906,8 +21534,6 @@ won the lottery"
 to it.
 
 <u>It happened, even though you might not have been expecting it or you might not have wanted it. It happened.</u>
-
----
 
 <u>"おく" doesn't have that exclamation mark feeling. It has that workman-like feeling:</u>
 
@@ -22078,8 +21704,6 @@ All kinds of people use it.
 sentence-ender, to "さあ", which comes at the beginning of a sentence and is more of
 a pause-for-thought kind of expression.</u>
 
----
-
 Now, there are also sentence-enders <u>that are not sentence-enders but
 effectively they are</u>, because people do pop them after the engine at
 the end of a sentence.
@@ -22166,8 +21790,6 @@ So, for example, we might say, "遅くなったしさくらが来ないし帰り
 because Sakura isn't coming, I'm going home".
 
 And <u>this is the most standard kind of use of "し".</u>
-
----
 
 But then we might often use it for only one condition, implying others.
 
@@ -23953,8 +23575,6 @@ reason".
 It's not to say it's not happening or it doesn't exist, but there's no
 reason for it.
 
----
-
 So, for example, "そんなにお金の要るわけがない"
 
 <img src="./media/image442.webp"
@@ -24071,8 +23691,6 @@ at the time when she left she decided not to.
 She groped around in the dark to find her 携帯 and then left. And that's
 the story so far.
 
----
-
 So let's see what happened the next day.
 
 <img src="./media/image688.webp"
@@ -24176,8 +23794,6 @@ That's what it was; that was what was going on.
 When she asked about the situation, it was that the senpai had been
 killed in that room.
 
----
-
 "部屋は荒らされており"
 
 <img src="./media/image697.webp"
@@ -24221,8 +23837,6 @@ So this was perhaps or probably a crime of theft, a burglary...
 
 Well, presumably the police.
 
----
-
 Now, the next part comes in quotation marks, those square Japanese quotation marks, and this is something she's thinking to herself.
 
 And we're going to see there are a number of clauses
@@ -24252,8 +23866,7 @@ style="width:3.71354in;height:3.18984in" />
 
 "*<u>きちんと</u>*/ちゃんと戸締りをするようにって".
 
-Now, "ちゃんと" means "properly or correctly";  
-*Note: In the video/picture, Dolly instead gives きちんと instead of
+Now, "ちゃんと" means "properly or correctly";  *Note: In the video/picture, Dolly instead gives きちんと instead of
 ちゃんと.  
 But in basic terms, they seem to mean the same thing - along the lines
 of “properly”, so it should not be a big deal. There probably is some
@@ -24679,8 +24292,6 @@ style="width:2.81771in;height:2.46053in" />
 "腰" is our hips, the bottom end of the torso, so "腰をかける" is to
 "sit down", to hang the bottom end of our torso somewhere.
 
----
-
 Now, one expression that very often confuses people is "かぎをかける".
 
 <img src="./media/image106.webp"
@@ -24790,8 +24401,6 @@ And the same with money.
 
 They take it, they make it adhere to themselves.
 
----
-
 It's a little easier when we use the other-move form, "かける", when we
 say
 
@@ -24836,8 +24445,6 @@ Actually we are going to start manufacturing ourselves quite soon, but I don't t
 and I really don't think it'll be much of a subject for humor.
 
 But there you are. Humans are mysterious creatures.)
-
----
 
 So, back to hooking up.
 
@@ -24958,8 +24565,6 @@ But it's not, in fact, nearly as much of a problem as it appears to be.
 
 First of all, although there are an awful lot of counters, only about a dozen of them are really commonly used *(Thank ye, Lord
 Dio…ε=ε=┌(;￣▽￣)┘)*.
-
----
 
 Secondly, most of the time we can avoid them by using
 
@@ -25087,8 +24692,6 @@ We say "一輪の花", "三匹の猫", just as we would with any other noun:
 
 "魔法の杖" -- "magic wand"; "三匹の猫" -- "three cats".
 
----
-
 But when we say "猫が三匹いる" -- "there are three cats" in English
 
 -- what are we actually saying? --
@@ -25140,8 +24743,6 @@ that is in fact what's happening in the Japanese.
 Now, what about learning the counters and learning the sound-changes of
 the counters, which really tends to worry people.
 
----
-
 Now, as I said, we don't need to learn lists of counters.
 
 We'll pick up counters as we go along in our Japanese immersion.
@@ -25159,8 +24760,6 @@ We have "本" for long round things, "冊" for books.
 That might seem strange because why do we have "冊" for books
 
 and "本" for long round things, when "本" actually means "book"?
-
----
 
 Well, that's because when the word "本" first came into being and meant, among other things, a book, at that time books were long round things.
 They were scrolls.
@@ -25214,8 +24813,6 @@ First of all, if the first kana of a counter can't take a ten-ten
 style="width:3.30729in;height:3.38975in" />
 
 That deals with over half the problem straight away.
-
----
 
 So, if we have the counters like "枚", counter for flat things like
 coins or pieces of paper.
@@ -25488,8 +25085,6 @@ fantasy.
 
 And we don't necessarily expect consistency in fantasy.
 
----
-
 So, the い-stem, as we know, connects the "ます" helper verb.
 
 <img src="./media/image678.webp"
@@ -25518,16 +25113,12 @@ can attach adjectives
 like "やすい": "読みやすい" (easy to read), "にくい": "読みにくい" (hard
 to read).
 
----
-
 We also attach things like "ながら".  
 "ながら" means doing one thing while doing another, so we can say
 "歩きながら読む"
 
 or "読みながら音楽を聴く": so that's "while walking, I read", "while
 reading, I listen to music".
-
----
 
 The "そう" helper, which gives us the meaning of likeness, that also is attached to verbs with the い-stem.
 
@@ -25783,8 +25374,6 @@ And this is very important because
 not only does it give us this whole range of verb-formed nouns, but also it plays a role in other structures which are very rarely
 explained by the textbooks.
 
----
-
 So if we say, for example, "お店にパンを買いに行く" or
 "公園に遊びに行く", <img src="./media/image324.webp"
 style="width:3.45313in;height:3.24837in" />
@@ -25818,8 +25407,6 @@ logical particles,*
 
 So if it's not explained that the "遊び" here and the "買い" here are
 nouns, I'm not sure what most learners think the structure actually is.
-
----
 
 And we'll find in various structures that the noun-form of a verb is
 used
@@ -25930,8 +25517,6 @@ all mean both breath and spirit.
 
 Now, the breath meaning of "気" is no longer active, but it's still this flowing spirit principle within a person.
 
----
-
 If we look at the kanji, interestingly, this part of it 气 *<u>([Radical
 84](https://en.wikipedia.org/wiki/Radical_84))</u>*
 
@@ -25952,8 +25537,6 @@ the scale.
 
 So, to give examples of those two ends of the scale, let's take two
 expressions that you almost certainly know.
-
----
 
 The first is "元気", the second is "やる気".
 
@@ -26502,8 +26085,6 @@ And "what kind of...", we're taught in Genki and other textbooks, is
 more often in cases where either more explanation might be required or
 where the explanation would be perhaps a little less expected.
 
----
-
 So, for example, when a character finds herself in a strange situation
 
 or simply doesn't know what's going on because it's all very strange and
@@ -26699,8 +26280,6 @@ fundamental basic Japanese, I've done a video on that and I'll put a
 link above my head and in the Comments below) ([*<u>Lesson
 17</u>*](https://www.youtube.com/watch?v=ymJWb31qWI8&t=0s)).
 
----
-
 The textbooks do this, which is an extremely destructive thing to do,
 for the reason that, if you go to Japan and don't use です/ます to
 people like your teacher, your employer or strangers that you meet,
@@ -26731,8 +26310,6 @@ don't need to use です/ます, you don't call them
 So why do the textbooks, when they actually put your grasp of Japanese
 structure through the wringer by forcing you to use です/ます too early,
 then proceed to teach you something far ruder than not using です/ます?
-
----
 
 Well, the reason is that they're prepared to sacrifice anything in order
 to structure Japanese as if it were English. In English you use the
@@ -26882,8 +26459,6 @@ If we say "ある国のある村に", we're saying "In a certain village, in a
 certain country" and this is another very usual setting for a story. But
 we're not saying "a certain", because the expression strategy is
 different in Japanese from in English.
-
----
 
 In English we say " a certain..." -- and what do we mean by that?
 
@@ -27384,8 +26959,6 @@ It's sometimes present only as a logical entity.
 But it's always there, and if we don't have it, we don't have a
 sentence. Simple as that.
 
----
-
 What the が-particle does is, it marks the subject of the sentence, that's to say, the thing that we're saying something about.
 
 We're either saying "A is B" or "A does B".
@@ -27443,8 +27016,6 @@ Without subjects and predicates there is no language. Simple as that.
 
 Different languages may deal with them in very different ways, but the
 concepts have to be there.
-
----
 
 Now, what is it that induces Tae Kim-sensei to declare that Japanese is
 so different
@@ -27571,8 +27142,6 @@ aren't true?
 
 And the answer to that is, I'm not saying that at all.
 
----
-
 There is no such thing as truth in language structure or linguistics, just as there is no such thing as truth in science.
 
 Humans have metaphysical minds.
@@ -27657,8 +27226,6 @@ studies/exposure, they will eventually understand how the language truly
 works even if at first they were told conflicting info - due to how our
 brains restructure around and solve language problems by natural
 patterns, logic etc.*
-
----
 
 What Tae Kim does with the が-particle is call it the "identifier
 particle".
@@ -27804,8 +27371,6 @@ But also because the Eihongo Japanese model is so confusing
 and so wedded to the myth of so-called "Japanese conjugation", which
 doesn't exist, that it makes that one eccentricity of "です" look like more than one.
 
----
-
 It looks as if it's all over the place when in fact it's only got one
 eccentricity --
 
@@ -27826,8 +27391,6 @@ another of the absolute pillars of understanding Japanese structure.
 
 And that is, understanding the three engines and the three core
 sentences.
-
----
 
 There are only three ways a logical Japanese sentence can end:
 
@@ -27868,8 +27431,6 @@ You can't do it in an essay or in formal writing or in a legal document
 
 or anything like that, but you can do it in casual speech.
 
----
-
 In Japanese, not only does the copula get dropped, <u>half the particles can get dropped in very casual speech</u>.
 
 And I don't think anybody argues that they aren't necessary.
@@ -27895,8 +27456,6 @@ A Japanese person is not necessarily Sakura.
 Sakura is a Japanese person.
 
 That's what we're being told by a copula sentence.
-
----
 
 Now, if we look at all the elements in Japanese, all the verbal
 elements, there aren't very many.
@@ -28037,8 +27596,6 @@ And you see we've done exactly what we do with adjectives.
 copula form like で, and the last い in かわいい is the plain copula
 form of the adjective as given in lesson 6.*
 
----
-
 If we want to chain <u>two adjectival nouns</u> with their attached
 copula together, <u>we turn the first copula into its て-form</u>, which is "で".
 
@@ -28151,8 +27708,6 @@ actually disrupt our grasp of fundamental core Japanese grammar --
 once we've got used to it it's easy enough to add "です" and "ます" on, but it's best to leave them alone at first because
 
 <u>they do things that no other modern Japanese words do</u>.
-
----
 
 And <u>a thing that "です" does in this case is that it can be added to
 adjectives</u>.
@@ -28410,8 +27965,6 @@ So <u>this, fundamentally, is what the copula does</u>.
 <u>It gives us a very simple, straightforward, unfussy way of putting
 anything into a set at any time, of defining at any time the set to which something belongs.</u>
 
----
-
 <u>Now, the set may only be a set of one. In that case the equals sign
 works both ways.</u>
 
@@ -28461,8 +28014,6 @@ immersion, because after a while it all becomes clear through usage and experien
 that have a separate copula.</u>
 
 Japanese obviously is one of these, and Spanish is another.
-
----
 
 <u>The Spanish language has two copulas, "ser" and "estar"</u>:
 
@@ -28582,8 +28133,6 @@ that it probably has a stem, has petals, has leaves, grows in the earth,
 etc. etc.
 
 <u>So the set something belongs to is crucial to its existence as that particular being and not another being.</u>
-
----
 
 <u>But understanding that the state of being and the set to which
 something is attributed are related semantically doesn't mean that we ought to confuse the
@@ -28825,8 +28374,6 @@ A little bit further down the scale, we have things like saying
 So that's one type, and although it may take a little while to get used
 to the expressions, once you know them they're no more difficult than anything else.
 
----
-
 <u>The other thing that gets left out a lot is anything that attaches to
 a noun.</u>
 
@@ -28844,8 +28391,6 @@ sentence</u>, <u>sometimes a non-logical particle, and sometimes a copula</u>.
 Now, <u>just about all of these can be dropped at some time. If it's clear without the marker what role a noun is playing in the
 sentence</u>, <u>we can in casual speech</u>, not in formal speech, but in casual
 speech, <u>we can leave off that marker.</u>
-
----
 
 <u>The markers that get left off most often are が, を</u>, and <u>the non-logical topic marker は</u>, and also
 <u>the copula "だ".</u>
@@ -28904,8 +28449,6 @@ easily.
 <u>As I said before, particles and the copula get left off where it's obvious what the nouns were without marking them.</u>
 That's when they get left off.
 
----
-
 Now, <u>if a noun comes at the end of the sentence, we know that it's
 not a verb sentence. We know that it's not an adjective sentence. We know that it's a noun-plus-copula sentence.</u>
 
@@ -28922,8 +28465,6 @@ is that you can in casual speech always drop the copula and still be
 understood, so if you're speaking at the kind of casual level where you probably
 would be dropping it, then when you include it is when you want to stress what you're
 saying.</u>
-
----
 
 <u>It's not really as simple as that, because a lot of people don't drop
 it, not everybody drops it all the time.</u> It's a bit more complex than
@@ -28958,8 +28499,6 @@ verb sentences and the "です" copula to the end of noun-plus-copula sentences 
 丁寧語.</u>
 
 It's as simple as that.
-
----
 
 Now, <u>there are various rules about when you can and can't drop things like を out of a casual sentence.</u>
 
@@ -29009,8 +28548,6 @@ bit, you'll get used to the places where you can naturally drop
 things. If you're not going to be using Japanese a lot, why do you want to sit down and learn a bunch of rules in order that you can pretend that you've naturally acquired
 Japanese when not only haven't you, but you've no intention of doing so?</u>
 
----
-
 <u>So my advice to you is “Learn Japanese naturally”. Don't try to memorize sets of rules when all they could possibly do
 is make you seem as if you're more used to Japanese than you actually are. But in practice they're not even going to do that, because you will
 make mistakes. The important thing to understand is how things get dropped in
@@ -29027,8 +28564,6 @@ clauses.
 style="width:3.84896in;height:3.80578in" />
 
 <u>People often end a sentence with a て-form or a "because" or a "but" kind of ending.</u>
-
----
 
 And <u>what they're doing on these occasions is leading into a second clause that would add some more information but they're not stating that clause.</u>
 
@@ -29113,8 +28648,6 @@ and the copula</u>.
 <u>Static words are nearly all nouns, and they never change at all.</u>
 They can't change in any way.
 
----
-
 Now, <u>all the words that can change change in exactly the same
 way</u>.
 
@@ -29190,8 +28723,6 @@ them into で or -だ.</u>
 <u>And finally, す in the て-form does exactly what it does in forming
 the い-stem in the regular stem system: it becomes し.</u>
 
----
-
 So, there we have the second verb-stem system, <u>the て-stem</u>, and
 <u>we use this not only for  
 -て and -た, but also to add helpers like the conditional -たら and
@@ -29207,8 +28738,6 @@ style="width:2.71354in;height:3.50356in" />
 
 <u>You can form adjective stems by dropping the い, just as we drop the
 る in ichidan verbs, or by changing that い to one of three か-row kana, か, け or く.</u>
-
----
 
 And as we said before, <u>there's a relationship between か-row kana and
 い</u>, so with the て-stem of verbs, verbs ending in く, the き turns into い,
@@ -29282,8 +28811,6 @@ something</u>).
 
 <img src="./media/image82.webp"
 style="width:3.20313in;height:3.46492in" />
-
----
 
 <u>So, as you see, adjectives have a stem-system of their own to which
 we attach a variety of helpers, like a smaller version of the one verbs
@@ -29393,8 +28920,6 @@ informal conversation and writing.</u>
 
 It's an indispensable part of the language.
 
----
-
 To give an example of its <u>formal use</u>, a dictionary definition of
 the word "車窓" --
 
@@ -29472,8 +28997,6 @@ Now, "タバコは不要だ" would mean the same thing essentially
 confirms my observation from above, except that here it straight-up
 removes the は particle, likely because it is not a logical particle.*
 
----
-
 <u>The only difference here is that "など" is throwing that slightly disparaging light on cigarettes.</u>
 
 So the way we could read it is something like, in English, "I don't need
@@ -29507,8 +29030,6 @@ like</u> my big sister).
 Now, of course, <u>that's not literally what she means. She doesn't mean she hates "stuff like" her big sister, but by using this expression --"stuff like you", "stuff like my big
 sister" -- you're throwing a very disparaging light on what it is you're talking
 about.</u>
-
----
 
 <u>It can be milder:</u> we can say, "サッカー<u>なんか</u>興味がない"
 
@@ -29580,8 +29101,6 @@ style="width:3.13021in;height:3.01999in" />
 
 <u>So in very casual and (I would say) rather sloppy speech, you can hear "なんか" at the beginning of a sentence and then several times during the sentence: "なんか this, なんか
 that".</u>
-
----
 
 <u>And when it's being used like that, it's really being used like
 "kinda" or "like" in English.</u>
@@ -29672,8 +29191,6 @@ style="width:3.57813in;height:3.54945in" />
 So <u>in this sense it's rather like the first one</u> we looked at, <u>the "what a (this)" or "what a (that)", which comes at the
 beginning.</u>
 
----
-
 <u>It can also be used at the end to express surprise or in some cases
 disbelief or doubt.</u>
 
@@ -29685,8 +29202,6 @@ What's that "なんて" doing?
 
 Well, <u>it's turning the whole thing into an expression</u>, <u>rather like the "what a (this)" or "what a (that)" expressions. So what we're saying is something like "Gosh, imagine seeing a
 swallow in winter!"</u>
-
----
 
 <u>And this use of "なんて" on the end, after the engine of a
 statement, can be used as part of a longer sentence.</u>
@@ -29703,16 +29218,12 @@ So, if you're not familiar with those, I'll put a link above my head
 
 and in the information section below.
 
----
-
 Now, <u>we can take out the "なんて" here and then of course we'd have
 to put in a particle</u>
 
 and say, "腹を立てる<u>のは</u>君らしくない".
 
 <u>But the "なんて" is expressing our surprise about this because it's not like the person concerned.</u>
-
----
 
 <u>And note that this can't be the belittling "なんて", which attaches
 to nouns. This is attaching to a complete statement, so we're expressing our surprise about someone being angry and then adding the comment that it's not like her.</u>
@@ -29734,8 +29245,6 @@ Now, <u>the "なんて" here could be replaced simply with "-という"</u>:
 
 So what's the difference between using the regular "-という" and using
 "なんて"?
-
----
 
 Well, "山田<u>という</u>人は知らない" is like saying in English simply
 
@@ -29829,8 +29338,6 @@ state of waiting. And of course this doesn't have to be waiting, it can be
 anything, but the implication is, just do it for a bit, just exist in that
 state for a short time.</u>
 
----
-
 <u>If we don't say "ちょっと"</u> (and we don't necessarily)
 
 <u>there's nothing to indicate a short time, but that is always the
@@ -29892,12 +29399,8 @@ So, "起きなさい" is "get up / wake up";
 "落ち着きなさい" (calm down, settle down), <u>we're attaching "なさい" to the い-stem of "落ち着く", which means "calm down" or "settle down" and turning it into a
 command.</u>
 
----
-
 <u>"なさい" is the sort of command given by parents to children, teachers to a class, that sort of thing. It's not offensive if it's given by someone who's entitled to give
 it.</u>
-
----
 
 So, for example, in the anime "借りぐらしのアリエッティ", Arietty's father says "寝なさい".
 
@@ -29942,8 +29445,6 @@ So how do we tell the two apart? Fortunately, it's very easy.
 style="width:3.29688in;height:3.33146in" />
 
 <u>It always is.</u>
-
----
 
 <u>If it's not attached to the い-stem but attached to the entire
 logical clause as in "それを食べるな", then it is not an abbreviation of
@@ -30022,8 +29523,6 @@ style="width:4.53646in;height:3.06372in" />
 *Note: Obviously, as shown, the くれ is a form of **くれる**; not
 くる/来る (that one has こい/来い)*
 
----
-
 And, as you see, <u>it's a particularly touchy kind of word to use, because you're asking for a favor but you're demanding it, you're commanding someone to do a favor down to you.</u>
 
 Now, for completeness, I'd say that there are two other ways of
@@ -30059,8 +29558,6 @@ with prayers and petitions and requests, can also form a command.</u>
 
 <img src="./media/image1103.webp"
 style="width:6.13021in;height:1.72848in" />
-
----
 
 And the main reason I mention these is because <u>if you come across
 them in your immersion and you see something that usually is doing
@@ -30182,15 +29679,11 @@ style="width:2.83854in;height:3.1396in" />
 <u>We see it used in contexts where we're simply being objective, such as academic papers, newspaper reporting, that kind of thing. We'll also see it used in other contexts regardless of what register the writing is in because it has a particular
 quality.</u>
 
----
-
 <u>As we know, "だ" and "です" can only be used at the end of a logical
 clause. They are logical-clause endings and they can't be used to pre-modify
 a noun. If we want to pre-modify a noun with another noun marked by the
 copula, we can only do that if it's an adjectival noun, because adjectival
 nouns can use the pre-modifying version of the copula, which is "な".</u>
-
----
 
 We can say "花が<u>綺麗だ</u>" (flower <u>pretty-is</u>)
 
@@ -30243,14 +29736,10 @@ It's not quite the same, in Japanese or English.
 
 <u>In order to do this we have to use the copula and we have to use it as a pre-modifier, so we have to use "である". It's our only choice. We can't use "だ" or "です" because they can only be used at the end of a logical clause. And we can't use "な" because "大学生" is not an adjectival noun.</u>
 
----
-
 So we say "大学生<u>である</u>さくら". *(Sakura <u>who is</u> a
 university student)*
 
 And you'll see that sometimes, especially in written material.
-
----
 
 <u>But there are cases where you really don't have the choice at
 all. For example, if you want to say "the state of being round"</u>, you would say "円形<u>である</u>さま".
@@ -30337,8 +29826,6 @@ saying that
 
 <u>that person over there belongs to the set of one which is Sakura. We're not talking about other Sakuras. We're talking about this particular Sakura.</u>
 
----
-
 ##### What the particle で is / does
 
 <u>So now, what does the particle "で" actually do?</u>
@@ -30347,8 +29834,6 @@ I've made a video about that and I'll link it. *(Lesson 55)*
 
 <u>Fundamentally the particle "で" defines the limit or field or
 parameter within which an action takes place or a state of being prevails.</u>
-
----
 
 <u>So the simplest use of "で" is to say where an action takes
 place:</u>
@@ -30365,8 +29850,6 @@ world</u>) --
 
 <u>the world marked by "で" marks the field, the area  
 within which this ramen is the first, number one.</u>
-
----
 
 <u>And it gets extended a bit further in other cases. It could be the material something's made with, the tool something is
 made by, etc. In all cases it singles out a particular parameter from other
@@ -30425,8 +29908,6 @@ So <u>"綺麗" is not a 形容動詞;</u> "<u>綺麗な</u>" or "<u>綺麗だ</u
 
 <u>And the "動詞" part, the verb part, is the copula.</u>
 
----
-
 <u>But I do not model the copula as a verb. And the reason for that is that in our three-engine structure I restrict the term "verb" to those entities that end in う-row
 kana and do all the things that those entities do: we have the four stems,
 etc.</u>
@@ -30464,8 +29945,6 @@ And I use and recommend the three-engine model.
 
 <u>If you prefer another model, you're free to use it.</u>
 
----
-
 <u>The other reason I maintain that distinction is because it's very
 important not to confuse "で" which is the て-form of the copula with the
 particle "で", and it's very important not to confuse the concept of the copula with the verb of being, "ある".</u>
@@ -30479,8 +29958,6 @@ or people who are very familiar with English, <u>because in English the copula a
 
 They're the same word, but they're not the same concept.
 
----
-
 <u>So when we say that "だ" and "です" mean "is", this is a confusing way of looking at it. They don't mean "is" in all circumstances; they mean "is" when it's the copula.</u>
 
 So if we say "That animal <u>is</u> a rabbit", this is <u>the
@@ -30490,8 +29967,6 @@ copula</u>.
 
 <img src="./media/image613.webp"
 style="width:4.16146in;height:3.20666in" />
-
----
 
 If we say "There <u>is</u> a rabbit", <u>that's not the copula, it's the
 verb of being. We're saying a rabbit exists, there in that place.</u>
@@ -30549,8 +30024,6 @@ style="width:1.89368in;height:2.29688in" />
 <u>And like them it's something of a fossil, one of those elements that's not quite at home in modern
 Japanese. But it's used quite a lot, so we need to understand it.</u>
 
----
-
 The first unusual thing about it is that unlike most helpers, <u>it doesn't attach to one of the verb stems.</u>
 
 <img src="./media/image912.webp"
@@ -30571,15 +30044,11 @@ often it's</u> "見るまい".
 
 <u>With the two irregulars</u>, "来る" and "する", <u>they can be</u> "来るまい" and "するまい", <u>but they can also be</u> "こまい" and "しまい".
 
----
-
 Now, <u>strictly speaking, certainly in the past, using ichidan
 verbs in their entirety with "まい" on the end was probably
 ungrammatical, but now it's so widely done that it's generally accepted.</u>
 
 You'll see it everywhere on the television news or anywhere.
-
----
 
 So what is this "まい"?
 
@@ -30595,8 +30064,6 @@ Well, <u>what "まい" actually is is the volitional form.</u>
 style="width:2.72396in;height:2.73499in" />
 
 Now, <u>adjectives don't usually have volitional forms, but in this case we do, and it has certain uses.</u>
-
----
 
 <u>Like "ない", "まい" is an adjective, but unlike "ない" and just about every other adjective, it doesn't
 morph in any way. You don't say "まくて" or "まかった". You only ever use it in its simple, unchanged form, "まい",</u>
@@ -30693,8 +30160,6 @@ So <u>we don't say "さくらはすぐに帰ろう". That doesn't mean "Sakura w
 because that's the way we do it.  
 <u>We do it with the volitional copula when we're making that kind of
 conjecture.</u>
-
----
 
 <u>But with "まい" we can attach it directly to the verb</u>
 
@@ -30858,8 +30323,6 @@ sequence".
 <u>So what it means is "next thing in sequence / next thing in
 order". And one more thing we need to know about this word is that it generally works by attaching to another noun. And this gives us a kind of compound.</u>
 
----
-
 <u>So if we attach "時計" to "腕", "腕" is telling us about the
 "時計". "腕時計" is an "arm-clock" (a wristwatch).</u>
 
@@ -30881,8 +30344,6 @@ understandable</u>)...
 
 <u>As soon as it becomes understandable, I'll call you."</u>
 
----
-
 <u>What you see that we have here the い-stem of "分かる"</u> (do
 understandable),  
 <u>which is "分かり", and we're creating a compound noun, which means "next thing in sequence after doing understandable is that I'll call
@@ -30892,8 +30353,6 @@ you</u> /
 situation, I'll call you."</u>
 
 *=分かり次第お電話します*
-
----
 
 "食事の用意が出来次第食べる."
 
@@ -30954,8 +30413,6 @@ hand</u>).
 Reading <u>a book follows directly from hand-touch of a book</u>,
 literally.
 
----
-
 <u>"手当たり次第" can be used in all kinds of constructions:</u>
 
 I eat <u>whatever comes to hand</u>; I read <u>whatever comes to
@@ -30981,13 +30438,9 @@ So if we say "<u>あなた次第</u>です", we're essentially saying
 <u>Now, this wouldn't be expressed in English as "depends on", and in fact if we wanted to say "it all depends on you" in
 Japanese, we'd have to use a different kind of construction altogether.</u>
 
----
-
 Within the Japanese meaning spectrum, <u>what "あなた次第だ" means is "it follows directly from you": It's up to you, it's not up to anyone else, it doesn't follow from
 me, it doesn't follow from anybody else, it follows directly from you,
 it's up to you.</u>
-
----
 
 <u>The important thing to understand here is that while the English meaning spectrum and the Japanese meaning spectrum
 differ, in Japanese terms we're dealing with the same fundamental idea all
@@ -31009,8 +30462,6 @@ style="width:3.78646in;height:3.47973in" />
 of a construction, then it would mean the quality of the goods, just as "天気次第" means the quality of the weather, the type of weather, and "気分次第" means the quality of somebody's mood, the type of
 mood. So, "品次第" means the type of goods, the quality of goods.</u>
 
----
-
 <u>Now, we can still use the "depending" translation here and not the "according to" translation.</u>
 
 We could say, "The price <u>depends on the quality</u> of the goods".
@@ -31022,8 +30473,6 @@ We could say, "The price <u>depends on the quality</u> of the goods".
 style="width:3.73438in;height:2.45966in" />
 
 <u>We can't use "depend" here in English, but as you see as far as Japanese goes it's exactly the same idea.</u>
-
----
 
 <u>"身分" isn't quite translatable, but it means one's position in life,
 one's status, and it can, particularly in modern times, mean how much money one
@@ -31061,8 +30510,6 @@ Or "夜は<u>次第に</u>長くなる"
 <u>And this always implies a process taking place over time either in definite stages or not, but taking place over time, bit by
 bit.</u>
 
----
-
 <u>And because this is put forward as a "grammar point", it can be a bit
 confusing. What we need to notice is that not every use of "次第" that is
 followed by に corresponds to this so-called grammar point.</u>
@@ -31075,8 +30522,6 @@ style="width:3.73438in;height:2.45966in" />
 
 <u>that isn't an example of this. It is being used adverbially, but what's modifying "暮らす" is not "次第" on its own but the
 compound "身分次第".</u>
-
----
 
 <u>So these are the fundamental uses of "次第".</u>
 
@@ -31165,8 +30610,6 @@ so this isn't something that we're not already familiar with.
 
 <u>When you have "か" in a sentence where there would also be a が, we never say "がか" or "かが". "か" displaces が, but the が is still logically there. That's what "しか" also does.</u>
 
----
-
 <u>But the other thing "しか" does is a little bit more unusual.</u>
 
 <img src="./media/image596.webp"
@@ -31187,8 +30630,6 @@ style="width:3.16667in;height:3.2719in" />
 
 <u>The object is the only thing there now that isn't selected.</u>
 
----
-
 <u>This is exactly what "しか" does. While が, you might say, selects an object, a noun, and marks it as the A-car, the subject of the sentence, "しか" selects that noun, inverts the selection and marks that as the A-car of the sentence. So everything other than that selected noun is now the A-car of the sentence.</u>
 
 So, "さくら<u>しか</u>いない" literally means
@@ -31204,8 +30645,6 @@ style="width:3.86979in;height:3.11351in" />
 
 <u>So again, we're selecting the deer, inverting the selection to everything other than the deer, and then that becomes the A-car of the sentence, which is "not
 scolded".</u>
-
----
 
 Now, <u>there's also an implicit relevance clause in this</u>, so when we say "さくらしかいない"  
 <u>we don't mean there's nothing here but Sakura:</u> no trees, no
@@ -31254,8 +30693,6 @@ If we say "タオルが<u>二枚</u>ある", we're saying "towel*(=subject)* <u>
 
 So when we say "タオルが<u>一枚</u>しかありません", <u>the subject is "towels"</u>, <u>then we have the counter "一枚" and that is marked by "しか". So we're selecting one flat thing, one towel, and then inverting the selection to all towels.</u>
 
----
-
 <u>Not all flat things, because we've already marked the subject as
 "towel". So we're inverting the counter, which is working adverbially, from one towel to every towel but that one towel.</u>
 
@@ -31284,8 +30721,6 @@ we just say "この古い車<u>しかない</u>", which means in natural English
 
 "<u>all cars other than</u> this old car <u>non-exist</u>".
 
----
-
 <u>But we can also put that "しかない" at the end of a logical
 clause or a verb standing in for a logical clause. Now, this isn't strictly grammatical, but colloquially it often
 happens.</u>
@@ -31303,8 +30738,6 @@ exist</u>".
 Well, of course it does exist, <u>this is very colloquial</u>, but as far as we're concerned it doesn't exist:
 
 <u>there's nothing for it but to run</u> *(away)*.
-
----
 
 <u>In English</u> we might say, "<u>It's run or nothing</u>", and again, <u>that's ungrammatical and for the same reason that the Japanese is ungrammatical, that "run" isn't a noun. But, when that thing's coming after you, who cares about
 grammar?.</u>
@@ -31386,25 +30819,17 @@ And, as we see, <u>the adjective "たい"</u>,
 cake. The cake carries the が-particle, so that is what the adjective is
 describing.</u>
 
----
-
 And confusion ensues *(Lesson 9)* when we actually translate this as
 literally meaning <u>  
 "I want to eat cake", because that's not what it means. **It means** "cake is want-inducing (to me)".</u> *(私は)
 ケーキが食べたい。*
 
----
-
 <u>But we also know that this adjective of subjectivity, like other
 adjectives of subjectivity, like "怖い" (frightening), and also potentials like できる or
 食べられる -- because potential is also a kind of subjectivity.</u>
 
----
-
 <u>It's something peculiar to the individual, whether they can or can't
 do a particular thing. It's not inherent in the thing itself. That would be "可能性".</u>
-
----
 
 <u>We know that all of these generally point at the thing that's
 possible, the thing that induces the desire to eat, the thing that's scary, etc. But also the polarity can be flipped. And it's flipped particularly when there isn't an actual cause, an
@@ -31490,8 +30915,6 @@ it's me, 'I want to eat bread'."
 
 <u>Well, we know that this isn't the case. We know that in those cases it's the bread that's the subject; it's the bread that's making me want to eat.</u>
 
----
-
 And if we start saying  
 "That the polarity can flip, doesn't that either break the model of
 Japanese structure  
@@ -31554,8 +30977,6 @@ And the answer to this is really very simple.
 <u>And what's going on in a sentence like "パンを食べたい" is that  
 **"たい" is no longer being attached simply to the verb "食べる".**</u>
 
----
-
 <u>We're not saying "パンを" and then "食べたい",</u>
 
 **<u>we're saying "パンを食べ..." and "たい" is being attached to that
@@ -31565,8 +30986,6 @@ entire unit.</u>**
 "たい" to that entire unit.</u>**
 
 <u>That's what makes sense of these constructions.</u>
-
----
 
 And while "パン<u>を</u>食べたい" <u>is a less common way of putting
 it</u>, and in general
@@ -31606,8 +31025,6 @@ an impulse desire. If we look at bread and we want to eat it</u>, "Ah,
 
 (<u>bread's making me want to eat it</u>).
 
----
-
 <u>But we're talking here about things that are more abstract, things
 that are less impulsive. And in the case of people, it's more respectful to say</u>
 
@@ -31617,8 +31034,6 @@ that are less impulsive. And in the case of people, it's more respectful to say<
 <u>that makes me want to defend her, like a piece of bread that we might
 want to eat, we're saying that the action of defending her is something I want to
 do, which is more dignified in the case of a person.</u>
-
----
 
 <u>But in the case of, say, the country, or peace, or justice, or even a
 house or a park,</u>
@@ -31630,16 +31045,12 @@ our own,</u>**
 is ours. So we talk about that action **as our own** rather than something
 induced by the external cause.</u>
 
----
-
 If we do say "パン**<u>を</u>**食べたい", <u>this is likely to be in conditions where we're talking a little bit
 more generally, we're not talking about that particular lovely smell of bread by
 which the bread is making us want to eat it. We're not talking about some candy we've just seen that's making us
 want to eat it.</u>
 
 **<u>We're talking about the general desire to eat bread.</u>**
-
----
 
 So **<u>we're more likely to say</u>** "<u>パン**を**</u>食べたい時"
 (when I want to eat <u>bread</u>*=Direct Object*)
@@ -31825,8 +31236,6 @@ despite what the textbooks say.
 
 <u>In Japanese the null subject is determined entirely from context. And when context doesn't make it clear, it generally defaults to
 "I".</u>
-
----
 
 <u>This is almost exactly what English "it" does, except that "it" in
 English isn't zeroed.</u>
@@ -32029,8 +31438,6 @@ style="width:4.45313in;height:3.48971in" />
 <u>This was when Japan was modernizing, and a lot of the reason it came
 in was to help in translating Western literature.</u>
 
----
-
 Now, <u>what this means is that in most cases Japanese punctuation
 doesn't have such fixed and structural meanings as the equivalent punctuation does
 in English and other European languages.</u>
@@ -32081,12 +31488,8 @@ So, <u>are we saying here that I bought something at the market? No,
 we're not saying that. Are we saying that I dropped something in the river?  
 No, that's not what we're saying in this sentence.</u>
 
----
-
 <u>Both of those things are just modifying "お菓子". They're telling us what kind of an "お菓子" it was: the one I bought at the market and done dropped in the river. So all we have here is a single noun, "お菓子", that's been heavily
 modified by logical clauses that aren't working as complete logical clauses.</u>
-
----
 
 <u>We can then add a logical particle to that "お菓子" and make it into
 a whole logical clause.</u>
@@ -32127,8 +31530,6 @@ very strict rule of Japanese
 that <u>what ends any logical clause is the B-engine, aside from any
 sentence-ender particles</u>) --
 
----
-
 <u>or it has to end in a clause connector that completes the clause and
 leads into the next clause. This may be the て-form, it may be a word like "から" or
 "けれど",</u>
@@ -32161,8 +31562,6 @@ it with a lot of salt.*
 <u>It's not telling us what it was that we bought in the market and
 dropped in the river, but it could perhaps be presuming that. But we know that it's not in fact a logical clause because it doesn't end in a clause connector and it doesn't end with
 a "まる / 。". It goes straight into a noun.</u>
-
----
 
 <u>And this is how we can tell the difference between a modifier and a
 logical clause. And we know when the entire sequence, the entire sentence, is over because it's going to have that "まる / 。".</u>
@@ -32204,8 +31603,6 @@ statements.</u>
 
 So if we say, "The coffee is hot", that's a statement, but if we say, "Is the coffee hot?" that's a question.
 
----
-
 <u>In Japanese we don't have this differentiation. Statements and questions are structured exactly the same.</u>
 
 Now, <u>in formal Japanese</u> we have <u>the question-marking particle
@@ -32213,8 +31610,6 @@ Now, <u>in formal Japanese</u> we have <u>the question-marking particle
 
 But <u>in informal Japanese we can use "か" but mostly we don't. Sometimes we use the question-marker "の", but that's ambiguous
 because "の" can also be a statement marker.</u>
-
----
 
 <u>The only way you can really tell a question from a statement in
 Japanese is the rising intonation, which of course you can't hear in text. And so the question mark has become a very useful tool for indicating
@@ -32242,8 +31637,6 @@ style="width:3.67708in;height:3.17135in" />
 saying. We don't use them for what somebody's thinking, as we sometimes do in
 English.</u>
 
----
-
 Now, sometimes you'll see <u>double quotation marks</u> like this,
 『　』
 
@@ -32268,8 +31661,6 @@ Nobody seems to tell you.
 <u>What it is actually doing is either emphasizing that word or
 phrase or telling us that it's being used in a special sense.</u>
 
----
-
 <u>So what these little marks are really doing is something like putting something into italics in English.</u>
 
 And I suspect they came into Japanese
@@ -32279,8 +31670,6 @@ literature.
 
 <u>There's no way of really writing Japanese characters in italics. There is no italic format for Japanese, so this is what's used
 instead.</u>
-
----
 
 <u>This emphasis and the indication that something's being used in a
 special sense can also be indicated by katakana, but you will see this from time to
@@ -32381,8 +31770,6 @@ ice cream <u>is the pinnacle of</u> summer /
 *Note: Of course, this is just a natural Eng translation, hence why it
 is hard to pin-point 限る here.*
 
----
-
 And this can be used in all kinds of different expressions, for example:
 
 "運動なら水泳に<u>限る</u>"  
@@ -32408,8 +31795,6 @@ And again, in loose English this would be
 What we're actually saying is
 
 "She is <u>the very limit of</u> people who wouldn't do such a thing".
-
----
 
 So just like ice cream being <u>the best thing</u> in summer  
 or calling <u>at the very maximum extent</u> of your voice,  
@@ -32472,8 +31857,6 @@ as</u> I know", <u>Japanese achieves the same broad pattern by modifying the nou
 And as we talked about last week *(Lesson 90)*,  
 <u>modification does an awful lot of the heavy lifting in Japanese that's done by other strategies in English.</u>
 
----
-
 Now, another common expression which can be a bit confusing is the kind
 of expression
 
@@ -32515,8 +31898,6 @@ be at at the time"</u>, but
 
 <u>of course in Japanese as in other languages, place can also mean a
 time or an occasion.</u>
-
----
 
 So, "<u>その場限り</u>ことを言う" means  
 she says things that <u>just arise out of the particular occasion and
@@ -32615,8 +31996,6 @@ and what is likely to happen and what is unlikely to happen.
 <u>First of all, it's absolutely true to say that there is an influx of
 English words into Japanese, and there are four main reasons for this.</u>
 
----
-
 <u>The first is that English, of course, is the international
 language.</u>
 
@@ -32632,8 +32011,6 @@ style="width:2.78646in;height:3.18339in" />
 and "le football" for over half a century, and I don't think it's really done much harm
 to French.</u>
 
----
-
 <u>Now secondly, English has become the language of technology, and technology, in particular digital technology, has changed the life of humans radically over the last few
 decades and introduced a lot of new terminology into their lives.</u>
 
@@ -32641,8 +32018,6 @@ decades and introduced a lot of new terminology into their lives.</u>
 style="width:2.21354in;height:2.49978in" />
 
 And because most of this technology has been developed in America, the language in which the new terminology exists is largely English.
-
----
 
 <u>And the other reason -- again, these are all connected -- is that
 English, being the international language, has high prestige in various
@@ -32658,8 +32033,6 @@ and possibly echoing English words
 <u>because English is something that's foreign to Japanese people but at the same time something they do actually
 know a bit of, so it's a kind of friendly bit of foreign. And using English words can have various effects: it can seem cute, it can seem clever, it can seem cool. And this is a common phenomenon.</u>
 
----
-
 <u>When French was more of a high prestige language and most English speakers learned it, you got very much the same phenomenon.</u>
 
 People would throw in bits of French into conversation, authors would use bits of French in books
@@ -32668,8 +32041,6 @@ and it would be to look a bit clever, sometimes to look funny.
 
 <u>High-prestige languages tend to get words borrowed by other
 languages.</u>
-
----
 
 <u>Now, none of this, as you see, is actually unique to Japanese.</u>
 
@@ -32691,11 +32062,7 @@ lots of syllables.</u>
 
 So it all rather sticks out like a sore thumb, more to foreigners by a long way than to actual Japanese natives.
 
----
-
 <u>But a thing to bear in mind here is that on the whole English loan words don't replace their Japanese equivalents, where there were Japanese equivalents to start with. They tend to run alongside them, perhaps have a slightly different implication or just a different feel about them.</u>
-
----
 
 <u>There are a few exceptions to this, like for example the word
 "ライオン", which tends to be the main word for a lion in Japanese now.</u>
@@ -32742,8 +32109,6 @@ text or an average person's conversation is very small.</u>
 Is it rising? Well, probably a bit, but it's not really making very
 significant inroads.
 
----
-
 <u>And the other thing to remember is that in Japanese foreign words
 come in as nouns.</u>
 
@@ -32760,14 +32125,10 @@ But this is really very much an exception.
 
 You can only find a tiny handful of words that do that in Japanese.
 
----
-
 <u>Nearly all the English words that come in, just like the Chinese
 words that came in in the past, come in as nouns, regardless of what they were in the
 original language. So, if you want to use them as verbs, you have to add "する". If you want to use them as adjectives, they have to be adjectival
 nouns or you just have to use の.</u>
-
----
 
 So, structurally, even if English words increased exponentially, which isn't really very likely, they wouldn't have any impact on the structure of Japanese.
 
@@ -32796,8 +32157,6 @@ decline.</u>
 
 We don't know.
 
----
-
 <u>But the thing is that Japanese assimilates foreign words easily. It doesn't integrate them into the structure, but it does make them a part of the language and it does “Japanesify”
 them. English as a cultural phenomenon makes surprisingly few inroads into
 the Japanese mind.</u>
@@ -32805,8 +32164,6 @@ the Japanese mind.</u>
 Japanese people are notorious for not learning English.
 
 <u>Japanese are worse at English than most other language groups. Most Japanese people, if you talk to them, will have a surprisingly large English vocabulary but a surprisingly small grasp of the actual English language.</u>
-
----
 
 And I think there's a reason for this, <u>and that is that Japanese is closer than any other non-English
 language to being culturally self-sufficient.</u>
@@ -32835,8 +32192,6 @@ into using the language.*
 <u>Most people, even if they're based in major languages like French or
 German, kind of need English for cultural sustenance: for using the Internet, for participating in the popular culture of
 the modern world.</u>
-
----
 
 <u>Now, the popular culture of the modern world is far and away
 dominated by English,</u>
@@ -32870,8 +32225,6 @@ English.
 <u>Japan is a popular-culture powerhouse to an extent that is only
 exceeded by English and not approached by any other language. This makes them culturally self-sufficient in a way that no other language group (with the possible exception of Chinese)
 really is.</u>
-
----
 
 <u>So, when is Japanese going to turn into some kind of hybrid
 English? It's not going to happen. It's not actually going to happen to most of the other languages that have an influx of English coming into them. But Japanese is actually safer than the rest.</u>
@@ -32914,8 +32267,6 @@ whereas we all know what "くせ / 癖" means
 <u>-- it means a "habit or idiosyncrasy" -- but it's not very clear what that has to do with the expression
 "くせに". And the answer is: nothing. Some Japanese etymological sources tell us that this "くせ" was actually a different "くせ" originally, but nobody really seems to know for sure. But the point is that it really has very little to do with the modern usage.</u>
 
----
-
 <u>All we really need to know is that "くせに" is a contrastive conjunction like "のに".</u>
 
 <img src="./media/image746.webp"
@@ -32927,8 +32278,6 @@ I'll put a link here, but I'm going to assume that you basically know what it is
 does.
 
 <u>"のに" and "くせに" are contrastive conjunctions, which means that they're like "でも" or "けれど". They join two clauses in a manner that means "despite Clause A, Clause B / even though Clause A, Clause B".</u>
-
----
 
 <u>Now, "くせに" has two things in common with "のに". One is that it's generally negative in its implications, and the other is that the second clause quite often gets omitted. So we're saying, "although Clause A..." and then not going on to say what clause B is. We're just implying it. "のに" does that quite often and so does "くせに".</u>
 
@@ -32947,8 +32296,6 @@ style="width:3.58854in;height:2.98429in" />
 style="width:4.11979in;height:3.77648in" />
 
 <u>And, as we say, it's making this kind of contrast, the contrast between what we expect of a certain type and what they actually do, and it's a negative contrast.</u>
-
----
 
 So, for example, we might say, "お金持ちの<u>くせに</u>ケチだ"
 
@@ -32991,12 +32338,8 @@ In English probably a non-structural but natural translation would be
 
 "And you're supposed to be a man".
 
----
-
 <u>And this can cause confusion because it can lead to constructions that confuse us about what's really
 going on and which way "くせに" is pointing.</u>
-
----
 
 So, for example, "男の<u>くせに</u>泣かないでよ".
 
@@ -33036,8 +32379,6 @@ and if we don't understand that
 
 it can confuse us about the use of "くせに".
 
----
-
 Another thing that can be confusing is that
 
 <u>the connection may go the other way around.</u>
@@ -33051,8 +32392,6 @@ Generally speaking, <u>we take the qualities of a person, which are fundamentall
 <u>Despite the fact that</u> you're a man, you're hiding in the corner /
 
 <u>Despite the fact that</u> you're rich, you're stingy.
-
----
 
 <u>But it can go the other way around too.</u>
 
@@ -33072,16 +32411,12 @@ It's meaning:
 “Here's this person going around being all enthusiastic, and he's
 useless, he can't do anything’.
 
----
-
 <u>So it can also work that way around and we need to be aware of
 that,</u>
 
 because that again can fool us.
 
 <u>Most of the time the contrastive conjunction goes the way around we've been talking about, but it doesn't have to.</u>
-
----
 
 Now, if this was a textbook or a JLPT instruction
 
@@ -33105,16 +32440,12 @@ with a noun you use の, with an adjectival noun you use -な, with an adjective
 <u>None of this, of course, is necessary if you've done structural
 Japanese.</u>
 
----
-
 <u>"くせ", whatever it is, whatever its etymology, is a noun. We pretty much know that, because anything that isn't a verb or an adjective is a noun in Japanese.</u>
 
 <img src="./media/image844.webp"
 style="width:4.38358in;height:3.66146in" />
 
 <u>What comes before "くせ" is modifying "くせ", it's telling us what kind of "くせ" we're talking about.</u>
-
----
 
 <u>And it does that in exactly the same way that every modifier always
 modifies a noun.</u>
@@ -33136,8 +32467,6 @@ that's following it just as we always do:
 
 That's what an adjective does.
 
----
-
 So we might say "<u>若い</u>くせにお年寄りに席を譲らない"
 
 (even though she<u>'s young</u>, she doesn't give up her seat to older
@@ -33150,8 +32479,6 @@ noun as we always do.</u>
 style="width:5.20313in;height:3.79839in" />
 
 So I think now that you won't have any problems with "くせに".
-
----
 
 If you have any problems or questions, about that or anything else, please put them in the Comments below and I will answer as usual.
 
@@ -33210,8 +32537,6 @@ causing you trouble, bringing you to a halt in understanding things in your imme
 
 or add them to my list of things to deal with.
 
----
-
 Right, so, "ほど" and "くらい".
 
 <u>They're both nouns, of course. Practically everything in Japanese that isn't a verb or an
@@ -33227,8 +32552,6 @@ style="width:3.15104in;height:3.32311in" />
 
 <u>However, the main difference between them is that "ほど" tends to imply that the amount or degree involved is
 great,</u>
-
----
 
 <u>and "くらい" either marks it as indefinite, as something we're not
 sure about, or in some cases which we'll talk about a bit later, that it is
@@ -33264,8 +32587,6 @@ Now, <u>what's "それ" referring to in a case like this? It can be referring to
 
 but also, just as in English, <u>"それ" (or "that") can simply mean an amount that we might have expected.</u>
 
----
-
 <u>So, again, the thing modifying "ほど", the "それ", represents a great amount, an upper limit, and then we're falling short of that upper limit marked by
 "ほど".</u>
 
@@ -33280,8 +32601,6 @@ in English --
 So if we say in English "it's not that bad", we mean
 
 <u>it's not very bad, it's not as bad as it might have been.</u>
-
----
 
 And the same with "<u>それほど</u>悪くない".
 
@@ -33322,8 +32641,6 @@ of course, is rudeness.
 
 This is rudeness <u>to the upper limit of</u> unpleasantness /
 dislikeableness.
-
----
 
 And these <u>"ほど"s where we use an adjectival noun and add
 "なほど"</u> --
@@ -33380,8 +32697,6 @@ style="width:3.0625in;height:3.22145in" />
 
 (scenery that's beautiful <u>to the extent of</u> being unbelievable).
 
----
-
 <u>And this "ほど" which is used for exaggeration, for literary
 purposes, just for making a point very strongly,</u>
 
@@ -33420,8 +32735,6 @@ But wouldn’t worry much.*
 extent, and make it vague, make it clear that we're not talking about an exact amount or an
 exact degree.</u>
 
----
-
 <u>And the only thing to bear in mind here is that sometimes Japanese people will use this when in fact the thing in question is
 exact.</u>
 
@@ -33430,8 +32743,6 @@ So, for example, we might say, "どの<u>くらい</u>掛かりますか?"
 
 <u>And we may be asking for an estimate, if it's the sort of thing where
 you ask for an estimate, but we may also be asking the price in a case where we can expect the seller to know the exact price, but somehow it seems a bit less pressing to ask for an approximate price rather than the exact one.</u>
-
----
 
 <u>And people will also sometimes do this when they're talking about a time of arrival or... anything. And this is partly because Japanese people are on the whole very
 precise, so if they think there might be any chance of the time being slightly
@@ -33456,8 +32767,6 @@ style="width:3.41146in;height:3.15399in" />
 something and when one is really saying that not only is the "くらい"
 small, but even that small "くらい" wasn't forthcoming. And when it's used like that it's often accompanied by another "at
 least" expression like "少なくとも" or "せめて", and often marked at the end by a marker of regret such as "のに".</u>
-
----
 
 So, we might say,
 "少なくとも「ありがとう」<u>ぐらい</u>言ってくれてもいいのに", which literally is "at least <u>as little as</u> thank you if you kindly
@@ -33557,8 +32866,6 @@ when we're talking about the more usual meanings of "どうも", when it means "
 <u>It does become more of a critical issue when we look at another
 meaning that it has which seems to be quite unrelated but actually isn't.</u>
 
----
-
 <u>When we look in a dictionary, we find a lot of definitions for
 "どうも":</u>
 
@@ -33583,8 +32890,6 @@ And it is.
 <u>The trouble here is that unless we know a little more about the
 history that doesn't take us far enough.</u>
 
----
-
 <u>"どうも" actually begins in the Edo era and it's a contraction of the expression "どうも言えぬ". And that means "in any way" -- the "どうも" part means "in any way"
 -- and "言えぬ" means "unable to say".</u>
 
@@ -33606,8 +32911,6 @@ And I've made a recent video about "ほど" as well, so I'll link that.
 <u>"どうも言えぬほど" means "to the extent that I'm not able in any way
 to say".</u>
 
----
-
 <u>And now we start to see how this applied to the commonest uses of
 "どうも". "どうもありがとうございます" means not just "Thank you" but "I'm thankful to a degree (ほど) that I am unable in any means to
 express / I'm inexpressibly grateful".</u>
@@ -33622,16 +32925,12 @@ So, "<u>どうも</u>すみません" (I'm <u>very</u> sorry);
 
 "<u>どうも</u>ありがとうございます" (Thank you <u>very much</u>).
 
----
-
 <u>And this gets attached to basic set expressions like 挨拶 to the point where it can be used to replace the 挨拶 even in cases where it wouldn't be clear what the 挨拶 is. So we can use "どうも" to replace goodbye and hello 挨拶. We're just saying "very much":</u> "I'm <u>very</u> happy to be
 seeing you";
 
 "I'm <u>very much</u> looking forward to meeting again".
 
 <u>It's just become a kind of general 挨拶 stand-in.</u>
-
----
 
 <u>And it's a very useful one because being somewhat effusive, it seems pleasant and polite, it's not over-formal, it's not
 over-informal, it's just a very useful expression to throw in in place of an
@@ -33640,8 +32939,6 @@ sense, so we can say "どうも" for "I'm sorry", and "どうも" for "thank
 you".</u>
 
 So these are the commoner uses.
-
----
 
 Now, the other meanings in the dictionary: somehow, in spite of oneself, no matter how hard one might try to or try not to -- that kind of thing.
 
@@ -33673,8 +32970,6 @@ style="width:3.67188in;height:3.31881in" />
 
 I can't possibly say why that is, but <u>somehow</u> that's the case.
 
----
-
 <u>And from there on, if we can't do something or we don't end up doing
 something, and no matter how hard we try to do it or not do it, it doesn't come
 about...</u>
@@ -33699,8 +32994,6 @@ style="width:3.20313in;height:1.60613in" />
 
 <u>It's rather like "日本 / にほん", which also can be said as
 "にっぽん". "やはり" can be said as "やっぱり".</u>
-
----
 
 <u>And the most usual way in which we hear this is meaning "just as we thought, just as we understood".</u>
 
@@ -33766,8 +33059,6 @@ archaic settings etc.*
 
 <u>But these are the kanji: "やはり". As you see, we have an arrow and we have the kanji for stretching or straining or tightening.</u>
 
----
-
 <u>And these kanji aren't in fact the original kanji and were apparently only used for the sound. So the folk etymology here isn't historically accurate.</u>
 
 But what it states is that the kanji, which are for pulling an arrow
@@ -33803,8 +33094,6 @@ style="width:2.77083in;height:3.36919in" />
 <u>Now, what we do about this depends on us. We may then decide not to go in; we may decide to go in. But either way, we've been pulled back to that "やっぱり", that
 original focus.</u>
 
----
-
 So what about these other dictionary definitions?
 
 <img src="./media/image634.webp"
@@ -33812,8 +33101,6 @@ style="width:4.05729in;height:3.37051in" />
 
 <u>As is often the case with English dictionary definitions, these aren't really things that "やはり / やっぱり" actually
 means so much as English expressions whose meaning spectrum overlaps with that of "やはり" at certain points.</u>
-
----
 
 So, <u>when we take the words "either" and "also",</u>
 
@@ -33840,14 +33127,10 @@ B: Well.. (stressing the point by saying that we're returning back to
 that focus)  
 I didn't see it <u>either</u>."
 
----
-
 "僕も<u>やはり</u>行きました" (I went <u>too</u> / I <u>also</u> went).
 
 Again, <u>the other person has said that they went and we stress the も by saying "やはり"</u>, <u>returning to the original focus of this part of the conversation, to the fact that you went,</u> "well, '<u>やはり</u>' -- <u>original
 focus</u> -- I went <u>too</u>."
-
----
 
 And it can be used for concepts beyond even what the dictionaries draw
 it out to.
@@ -33867,8 +33150,6 @@ So, <u>going back to what might have been our original focus, if we'd
 had one,</u>
 
 "<u>やっぱり</u>雨が降り出した" or as you might say in English, "<u>Just as you might have expected</u>, it rained".
-
----
 
 So I hope that helps with these very common words.
 
@@ -34010,8 +33291,6 @@ up.
 desire", so it means having things go or wanting things to go in
 accordance with one's will / in accordance with one's wishes.</u>
 
----
-
 <u>And that can be anything from selfish desire to, when you're in the water perhaps, wanting your body to move in the way that you want it to move,</u>
 
 which it doesn't always do when you're in the water.
@@ -34049,8 +33328,6 @@ style="width:3.75521in;height:3.64087in" />
 So we can see that obviously as the most common usage, the usage people probably think of most often, <u>which is "with great effort / with great trouble / having taken the
 effort (to do something)".</u>
 
----
-
 We might say "<u>せっかく</u>東京に来た, we ought to go to Sanrio
 Puroland", <img src="./media/image775.webp"
 style="width:4.01563in;height:3.56332in" />
@@ -34062,8 +33339,6 @@ and see Hello Kitty and My Melody and Pom Pom Purin
 and all the wonderful people that live there, the Little Twin Stars.
 
 <u>If you ever "せっかく" get to Tokyo, you really must go there.</u>
-
----
 
 But back to the subject in hand.
 
@@ -34091,8 +33366,6 @@ scenery).
 style="width:3.67708in;height:3.11926in" />
 
 <u>And again, "せっかく" in this case doesn't mean hard work, it doesn't mean rarity in the sense of not coming very often, it just means that that scenery is something beautiful and unique and irreplaceable and it's being ruined by the billboards.</u>
-
----
 
 <u>And there isn't really a word to replace "せっかく" in English.</u>
 
@@ -34146,16 +33419,12 @@ style="width:2.32813in;height:2.57256in" />
 <u>It can be "いえ" but it can also be "うち", and both of them mean
 "house". This is the only way we can use this kanji.</u>
 
----
-
 <u>The other "うち" is this one - 内, and I don't think we should really regard them as different words,
 because it's a native Japanese word that had the Chinese kanji imposed at a
 later date and, as is often the case, the kanji helps a little bit to
 differentiate exactly what we mean.</u>
 
 But only a little bit here.
-
----
 
 So, <u>when "うち" means "house" *(家)*, the difference between "いえ" and "うち" is that "いえ" refers to the physical building, the actual house. "うち" refers to what you might call the spiritual interior of the
 house: the family, the life that takes place in the house.</u>
@@ -34195,8 +33464,6 @@ style="width:2.91146in;height:2.85547in" />
 <u>So "うち" can mean "me", particularly feminine, particularly the Kansai dialect, although it's not restricted to
 that.</u>
 
----
-
 <u>And this is very interesting because it's rather similar to when "こちら" is used to mean "me"; again, what "こちら" means is "this side (the side that includes
 me)".</u>
 
@@ -34206,8 +33473,6 @@ in the light of the fact that
 
 <u>the distinction between the individual and the family or group to
 which an individual belongs is much less marked in Japanese than in Western culture and in the past was even less marked than it is now.</u>
-
----
 
 <u>When Japanese people talk about, say, "my little sister", generally speaking they won't say "僕の妹"
 or "私の妹".</u>
@@ -34236,12 +33501,8 @@ And this has wide-ranging implications for Japanese culture
 
 and also for the Japanese language.
 
----
-
 <u>For example, words like "くれる" and "あげる", which are
 generally explained to mean giving something up from oneself or receiving something down to oneself, is not strictly limited to the self.</u>
-
----
 
 <u>It's actually referring to the "うち", which could be oneself but could also be the group to which one belongs. So, when we talk about someone "くれる"-ing to one's sister or one's
 friend this is because we regard the sister or the friend as part of our
@@ -34252,8 +33513,6 @@ therefore it's giving down to "us".
 <u>And you'll sometimes see "くれる" used even where there is no strict connection between the speaker and the person
 receiving, but if the speaker is identifying with that person, regarding them at
 this point at least as more "うち" than "そと" then "くれる" is appropriate.</u>
-
----
 
 So we can see that this whole concept of "うち / そと", which has wide-ranging cultural implications which I won't go into, also has implications for the grammatical structures we use.
 
@@ -34267,8 +33526,6 @@ So we can say "多くの<u>うち</u>から選ぶ", which means "choose from a l
 style="width:3.76563in;height:3.80445in" />
 
 <u>So "うち" here refers to the group from which one's choosing.</u>
-
----
 
 <u>And it can become a little more abstract than that. It can be referring to an "うち" of time, an enclosure of time, and again, an enclosure defined by its contents.</u>
 
@@ -34317,8 +33574,6 @@ And what that means is literally
 "<u>in the house of now</u> / <u>in the enclosure of now</u>".
 
 <u>It doesn't necessarily mean "this absolute instant", but it does mean "while now continues".</u>
-
----
 
 What does "now" mean in this case?
 
@@ -34373,8 +33628,6 @@ style="width:3.13021in;height:2.87096in" />
 <u>"その" often implies something related to what we're talking
 about. And it's one of the strategies that's used in view of the fact that Japanese doesn't use pronouns all that
 often.</u>
-
----
 
 A somewhat more abstract usage is, for example, in a dictionary definition like "<u>立ち会う</u>", which means
 
