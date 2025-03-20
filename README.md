@@ -462,157 +462,108 @@ I'm just hosting the original Google Docs version on this site, all credit goes 
             - [So, what does そのうち mean?](#so-what-does-%E3%81%9D%E3%81%AE%E3%81%86%E3%81%A1-mean)
 
 
-## **1. The Basic Types of Sentences**
+## **1. Les principaux types de phrases**
 
-[<u>Lesson 1: Japanese made easy! What schools never teach. The core
-Japanese sentence -organic
-Japanese</u>](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&ab_channel=OrganicJapanesewithCureDolly)
+[<u>Leçon 1 : Le japonais en toute simplicité ! Ce que les écoles n'enseignent jamais. La phrase japonaise de base - le japonais organique</u>](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&ab_channel=OrganicJapanesewithCureDolly)
 
-The most basic thing about Japanese is the Japanese core sentence. Every
-Japanese sentence fundamentally has the same core. What does it look
-like? It looks like this.
+La chose la plus élémentaire en japonais est la phrase de base japonaise. Toutes les phrases japonaises ont fondamentalement le même noyau. À quoi ressemble-t-il ? Elle ressemble à ceci.
 
-We're going to picture it as a train. Every Japanese sentence has these
-two elements:  
-<u>the main carriage, A</u> and <u>the engine, B</u>.
+Nous allons l'imaginer comme un train. Chaque phrase japonaise comporte ces deux éléments :  
+<u>le wagon principal, A</u> et <u>le moteur, B</u>.
 
-<u>The engine is what makes the sentence move, what makes it work. The carriage has to be there because without the carriage there's
-nothing for the engine to move</u>. Those two things are the core of
-every Japanese sentence.
+<u>Le moteur est ce qui fait avancer la phrase, ce qui la fait fonctionner. Le wagon doit être présent, car sans wagon, le moteur n'a rien à faire avancer.</u> Ces deux éléments constituent le cœur de chaque phrase japonaise.
 
-We can say more about A; we can say more about B; we can combine logical
-sentences together to make complex sentences.  
-<u>But every Japanese sentence conforms to this basic type.</u>
+On peut en dire davantage sur A ; on peut en dire davantage sur B ; on peut combiner des phrases logiques pour créer des phrases complexes.  
+<u>Mais toute phrase japonaise respecte ce modèle de base.</u>
 
-So, what are A and B? Let's begin by reminding ourselves that in any
-language there are only two kinds of sentences: "A is B" sentences and
-"A does B" sentences.
+Alors, que sont A et B ? Commençons par nous rappeler que dans toutes les langues, il n'existe que deux types de phrases : les phrases du type « A est B » et les phrases du type « A fait B ».
 
-An example of an “A does B” sentence is "Sakura walks". *<u>Note: (or
-rather “Sakura throws a ball”)</u>*
+Un exemple de phrase du type « A fait B » est « Sakura marche ». *<u>Note : (ou plutôt « Sakura lance une balle »)</u>*
 
-An example of an “A is B” sentence is "Sakura is Japanese".
+Un exemple de phrase du type « A est B » est « Sakura est japonaise ».
 
-And we can put these into the past tense; we can put them in the
-negative; we can turn them into questions; we can say more about A; we
-can say more about B.  
-But, <u>ultimately, every sentence boils down to one of these:  
-an “A is B” or an “A does B” sentence.</u>
+On peut les mettre au passé, à la forme négative, les transformer en questions ; on peut en dire davantage sur A, on peut en dire davantage sur B.  
+Mais <u>en fin de compte, toute phrase se réduit à l'un de ces deux types :  
+une phrase du type « A est B » ou du type « A fait B ».</u>
 
-So let's look at how we do this in Japanese.
+Voyons maintenant comment cela fonctionne en japonais.
 
-### Verb sentences
+### Phrases verbales
 
-In Japanese, if we want to say "Sakura walks" (A does B: Sakura walks),
-then A is Sakura, the main carriage, and B is walks, the thing she does,
-the engine of the sentence.
+En japonais, si nous voulons dire « Sakura marche » (A fait B : Sakura marche), alors A est Sakura, le wagon principal, et B est « marche », l'action qu'elle réalise, le moteur de la phrase.
 
 <img src="./media/image1056.webp"
 style="width:5.69792in;height:3.20004in" />
 
-Walk in Japanese is "あるく". We need one more thing to make the core
-Japanese sentence, and <u>that is the linchpin of every sentence, が</u>
-(ga).
+« Marcher » en japonais se dit « あるく ». Nous avons besoin d'un élément supplémentaire pour former le cœur d'une phrase japonaise, et <u>cet élément est la clé de voûte de chaque phrase : が (ga).</u>
 
-<u>が is the center of Japanese grammar.</u> <u>Every Japanese sentence
-revolves around が.</u>  
-<u>In some sentences we're not going to be able to see the が, but it's
-always there, and it's always doing the same job.</u> <u>It links
-together A and B and turns them into a sentence.</u>  
-So, our core “A does B” sentence is "<u>さくらが</u>あるく" =
-"<u>Sakura</u> walks".
+<u>が est le centre de la grammaire japonaise.</u> <u>Toute phrase japonaise tourne autour de が.</u>  
+<u>Dans certaines phrases, nous ne verrons pas explicitement が, mais il est toujours là, jouant toujours le même rôle.</u>  
+<u>Il relie A et B, et en fait une phrase.</u>  
+Ainsi, notre phrase centrale de type « A fait B » devient : « <u>さくらが</u>あるく » = « <u>Sakura</u> marche ».
 
-### Copula sentences
+### Phrases avec la copule
 
-Now let's take an A is B sentence: "Sakura is Japanese", or, as we say,
-"Sakura is a Japanese person". So, A again is Sakura, B is
-にほんじん/日本人, which means Japanese person, and <u>once again we
-need が to link them together. So we're going to picture the A car, the main carriage, with a が on
-it, because the main carriage, the subject of the sentence, always carries a が, to link
-it to the engine.</u>
+Maintenant, prenons une phrase du type « A est B » : « Sakura est japonaise », ou plutôt, comme nous allons le dire, « Sakura est une personne japonaise ». Ainsi, A est de nouveau Sakura, B est にほんじん／日本人, qui signifie « personne japonaise », et <u>une fois encore, nous avons besoin de が pour les relier ensemble. Nous allons donc imaginer que le wagon A, le wagon principal, porte toujours un が, car le wagon principal, sujet de la phrase, porte toujours が pour être relié au moteur.</u>
 
-So, さくらが日本人 – and we need one more thing.
+Ainsi, さくらが日本人 – et il nous faut encore autre chose.
 
-There's one other thing that I want you to make friends with, and that's
-だ (da).
+Il y a une autre chose que je souhaite vous faire connaître, c'est だ (da).
 
-"さくらが日本人だ" = "Sakura is a Japanese person".
+« さくらが日本人だ » = « Sakura est une personne japonaise ».
+<img src="./media/image635.webp" style="width:5.34896in;height:2.99287in" />
 
-<img src="./media/image635.webp"
-style="width:5.34896in;height:2.99287in" />
+Vous avez peut-être déjà rencontré ce だ sous sa forme polie, です (desu), mais il existe de très bonnes raisons d'apprendre d'abord la forme simple.
 
-Now, you may have met this だ in its fancy form, です, but there are
-very good reasons
+Nous allons donc apprendre だ.
 
-for learning the plain, simple form first.
+Si vous observez だ, il ressemble à un signe égal enfermé dans une boîte vers la gauche.
 
-So we're going to learn だ.
+C'est un excellent moyen mnémotechnique pour se souvenir de son rôle, car <u>だ nous indique que A est B.</u>
 
-Now if you look at だ, it's like an equals sign boxed off to the left.
+Pourquoi est-il enfermé vers la gauche ?
 
-And this is a perfect mnemonic for what it does, because <u>だ tells us
-that A is B.</u>
+Parce qu’il ne fonctionne que dans un sens.
 
-Why is it boxed off to the left?
+Réfléchissez-y logiquement : さくらが日本人だ signifie « Sakura = personne japonaise ».
 
-Because it only works one way.
+Mais cela ne fonctionne pas dans l'autre sens : toutes les personnes japonaises ne sont pas Sakura.
 
-Think about this logically: さくらが日本人だ means “Sakura = Japanese
-person.”
+Sakura est une personne japonaise, mais une personne japonaise n'est pas nécessairement Sakura.
 
-But it doesn't work the other way: Japanese people are Sakura – they're
-not all Sakura.
+### Phrases adjectivales
 
-Sakura is a Japanese person, but a Japanese person is not necessarily
-Sakura.
+Nous avons maintenant une phrase du type « A est B » et une phrase du type « A fait B ».
 
-### Adjective sentences
+Il existe une forme supplémentaire de la phrase japonaise centrale, car elle possède en réalité trois formes.
 
-So now we have an “A is B” sentence and an “A does B” sentence.
+La troisième forme intervient lorsque nous utilisons un mot descriptif, c'est-à-dire un adjectif.
 
-There is one more form of the Japanese core sentence, for it has three
-forms.
+<u>En japonais, les mots descriptifs se terminent par い</u> (i), tout comme en anglais ils se terminent souvent par des sons semblables (« happy », « sunny », « cloudy », « silly »).
 
-The third form is when we have a describing word, an adjective.
+En japonais, c'est exactement pareil :
+joyeux – うれしい/嬉しい ; triste – かなしい/悲しい ; bleu – あおい/青い.
 
-<u>In Japanese, describing words end with い</u> (i), just as they often
-do in English: happy, sunny, cloudy, silly.
+Il n’est pas nécessaire d’apprendre tous ces adjectifs maintenant, mais nous devons connaître l’existence des adjectifs japonais en い, car ils forment ce troisième type de phrase.
 
-In Japanese it's just the same:  
-happy – うれしい/嬉しい; sad – かなしい/悲しい; blue – あおい/青い.
+Prenons un exemple simple : ペン (pen est facile à retenir, puisque cela signifie « stylo ») :
 
-Now, we don't have to learn all these, but we do need to know about
-Japanese adjectives
+« ペンが赤い/あかい » = « le stylo est rouge ».
 
-ending in い because they make the third kind of sentence.
+Vous remarquerez que cette phrase ne contient pas だ.
 
-So let's take an easy one: ペン (that's a nice easy word because it
-means pen) –
+Pourquoi ?
 
-"ペンが赤い/あかい" = "pen is red".
+<u>Parce que l’adjectif en い あかい/赤い (« rouge ») ne signifie pas seulement « rouge », mais contient implicitement « est rouge ». La fonction de だ, la fonction « égal », est déjà intégrée à ces adjectifs en い.</u>
+<img src="./media/image573.webp" style="width:5.90104in;height:3.33158in" />
 
-Now, you notice that we don't have a だ on this sentence.
+Voici donc les trois formes des phrases japonaises :
 
-Why is that?
+<u>Elles commencent toutes par le sujet de la phrase, elles sont toutes reliées par が</u>,
+et elles peuvent se terminer de trois façons différentes : par un verbe finissant en う, par la copule だ, ou par un adjectif en い.
 
-<u>Because the い-adjective あかい/赤い (red) – it doesn't mean red, it
-means is-red. The だ function, the equals function, is built into those
-い-adjectives.</u><img src="./media/image573.webp"
-style="width:5.90104in;height:3.33158in" />
-
-So those are the three forms of Japanese sentence.
-
-<u>They all start with the subject of the sentence, they're all
-connected with が</u>, and  
-they can end in three ways: with a verb, which will end in う, with the
-copula だ, or with an い
-
-because the last word is an adjective. And now you know the basics of
-Japanese.
-
-<img src="./media/image475.webp"
-style="width:5.88021in;height:3.3236in" />
-
+Maintenant, vous connaissez les bases du japonais.
+<img src="./media/image475.webp" style="width:5.88021in;height:3.3236in" />
 ## **2. The Invisible Carriage and the を Particle**
 
 [<u>Lesson 2: Core Secrets. Japanese made easy - unlocking the "code".
