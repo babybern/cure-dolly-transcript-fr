@@ -564,517 +564,378 @@ et elles peuvent se terminer de trois façons différentes : par un verbe finiss
 
 Maintenant, vous connaissez les bases du japonais.
 <img src="./media/image475.webp" style="width:5.88021in;height:3.3236in" />
-## **2. The Invisible Carriage and the を Particle**
+## **2. Le chariot invisible et la particule を**
 
 [<u>Lesson 2: Core Secrets. Japanese made easy - unlocking the "code".
 Learn Japanese from
 scratch</u>](https://www.youtube.com/watch?v=P3n8n0u3LHA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=2&ab_channel=OrganicJapanesewithCureDolly)
 
-### The Invisible Carriage
+### Le chariot invisible
 
-In the last lesson, we learned that every Japanese sentence has the same
-core: the main carriage and the engine, also known as A and B, also
-known as the thing we are talking about and the thing we are saying
-about it. And I told you that we can have a lot more carriages as
-sentences become more complex, but they still always have the same core.
+Dans la leçon précédente, nous avons vu que toutes les phrases japonaises partagent le même cœur : le wagon principal et le moteur, aussi appelés A et B, ou encore ce dont on parle et ce qu’on en dit. Et je vous avais dit que l’on pouvait ajouter beaucoup d’autres wagons à mesure que les phrases deviennent plus complexes, mais le cœur reste toujours le même.
 
-Now we are going to look at some of those extra carriages.
+Maintenant, nous allons voir certains de ces wagons supplémentaires.
 
-Previously, I stated that while every sentence has the same two core
-elements, you can't always see both of them. You can always see the
-engine, but sometimes you can't see the main carriage.
+Précédemment, j'ai indiqué que même si chaque phrase possède ces deux éléments essentiels, il n’est pas toujours possible de les voir explicitement tous les deux. Vous pouvez toujours voir le moteur, mais parfois le wagon principal reste invisible.
 
-Why not?
+Pourquoi ?
 
-<u>When you can't see the main carriage, it’s been replaced by the
-invisible carriage.</u>
+<u>Lorsque vous ne pouvez pas voir le wagon principal, c’est parce qu’il a été remplacé par le wagon invisible.</u>
 
-So, what is the invisible carriage? In English, the closest equivalent
-is "it".
+Alors, qu’est-ce que ce wagon invisible ? En français, l’équivalent le plus proche est « ça » ou « il ».
 
-<img src="./media/image76.webp"
-style="width:6.40625in;height:3.59631in" />
+<img src="./media/image76.webp" style="width:6.40625in;height:3.59631in" />
 
-So, let's begin by seeing what "it" does in English. Let's look at this
-example:
+Voyons d’abord comment « ça » fonctionne en français avec cet exemple :
 
-> "The ball rolled down the hill.
->
-> When the ball got to the bottom, the ball hit a sharp stone.
->
-> The ball was punctured and all the air came out of the ball."
+> « Le ballon a roulé en bas de la colline.  
+> Quand le ballon est arrivé en bas, le ballon a heurté une pierre pointue.  
+> Le ballon a été crevé, et tout l’air du ballon est sorti. »
 
-Now, would anybody ever say this?
+Est-ce que quelqu’un parlerait ainsi ?
 
-Of course they wouldn't, because once we have established what we are
-talking about, we replace it with "it".
+Bien sûr que non, car une fois établi ce dont on parle, on le remplace par « ça » ou « il ».
 
-Instead we say, > "The ball rolled down the hill.
->
-> When it got to the bottom, it hit a sharp stone.
->
-> It was punctured and all the air came out of it."
+On dirait plutôt :
 
-“It” means nothing because it can mean absolutely anything.
+> « Le ballon a roulé en bas de la colline.  
+> Quand il est arrivé en bas, il a heurté une pierre pointue.  
+> Il a été crevé, et tout l’air en est sorti. »
 
-If I say "it", I may be talking about a flower or about the sky.
+« Ça » ne signifie rien par lui-même, car il peut représenter absolument n’importe quoi.
 
-I may be talking about a tree, or my finger, or the Eiffel Tower or the
-Andromeda galaxy.
+Si je dis « ça », je pourrais parler d’une fleur ou du ciel.
 
-"It" in itself doesn't mean anything: <u>you know what "it" is from
-context.</u>
+Je pourrais parler d’un arbre, de mon doigt, de la tour Eiffel ou même de la galaxie d’Andromède.
 
-Now, let's suppose a small child tries to say this and says, > "Ball rolled down hill,
->
-> got to bottom, hit sharp stone,
->
-> got punctured, all the air came out."
+« Ça » lui-même ne veut rien dire : <u>vous comprenez ce qu’est « ça » grâce au contexte.</u>
 
-Now, is that difficult to understand?
+Imaginons maintenant qu’un jeune enfant dise :
 
-No, it isn't difficult at all, is it?
+> « Ballon roulé en bas colline,  
+> arrivé en bas, heurté pierre pointue,  
+> crevé, tout l’air sorti. »
 
-Because in fact we don't need to use "it" every time, over and over
-again, to understand what’s being said.
+Est-ce difficile à comprendre ?
 
-While English grammar demands we do, but there's no actual communicative
-need to include “it” everytime.
+Pas du tout, n’est-ce pas ?
 
-Japanese doesn’t have “it”. *(I guess what is meant is in the
-substituting sense as above)*
+Car en fait, on n’a pas besoin de répéter constamment « ça » pour comprendre ce qui est dit.
 
-So, if a small child, or even an adult, comes down to the kitchen at
-night and someone sees her, she might say, "Got really hungry. Came for something to eat."
+Même si la grammaire française l’exige, il n’y a aucune nécessité réelle à répéter constamment le pronom « ça ».
 
-Again, there's nothing confusing or difficult about this.  
-She means, "I got really hungry. I came down for something to eat."
+Le japonais n’a pas ce « ça ». *(Je veux dire dans le sens substitutif présenté ci-dessus.)*
 
-<u>In English this isn't a proper sentence, but in Japanese it is.</u>
-<u>All those little pronouns, like "it", "she", "he", "I", "they", in
-Japanese can be replaced by the invisible carriage, the zero pronoun.
-But the important thing to remember is that they are still there.</u>
+Ainsi, si un enfant ou même un adulte descend à la cuisine la nuit et qu’on le voit, il pourrait dire simplement : « Très faim. Venu chercher à manger. »
 
-So let's look at this at work in Japanese.
+Encore une fois, rien de confus ni compliqué ici.  
+Cela signifie : « J’ai très faim. Je suis venu chercher quelque chose à manger. »
 
-I might say, "ドリーだ", and that means "I am Dolly".
+<u>En français, ce ne sont pas des phrases grammaticalement correctes, mais en japonais, elles le sont.</u>  
+<u>Tous ces petits pronoms, comme « ça », « elle », « il », « je », « ils/elles », peuvent être remplacés en japonais par le wagon invisible, le pronom zéro. Mais il est important de se rappeler qu’ils sont toujours présents implicitement.</u>
 
-Initially this looks as if it only has an engine and no main carriage,
-but actually the main carriage is simply the invisible carriage.
+Voyons maintenant comment cela fonctionne en japonais.
 
-The full sentence is really, "(<u>zeroが</u>)ドリーだ".
+Je pourrais dire : « ドリーだ », ce qui signifie « Je suis Dolly ».
+
+À première vue, cela ressemble à une phrase avec seulement un moteur et aucun wagon principal, mais en réalité le wagon principal est simplement le wagon invisible.
+
+La phrase complète serait en fait : « (<u>zéroが</u>)ドリーだ ».
 
 <img src="./media/image981.webp" style="width:6.5in;height:4.43056in" />
 
-We can say that "I" is the default value of the zero pronoun, the
-invisible carriage.
+On peut dire que « je » est la valeur par défaut du pronom zéro, du wagon invisible.
 
-However, the context can define it as anything.
+Cependant, le contexte peut définir autre chose.
 
-For example, if we hear a rustling in the woods and look over in the
-direction of it, and I say, "ウサギだ!", that means "(<u>zeroが</u>)ウサギだ!" "It is a
-rabbit!"
+Par exemple, si on entend un bruissement dans les bois, qu'on regarde dans cette direction et que je dis : « ウサギだ！ », cela signifie « (<u>zéroが</u>)ウサギだ！ », « C’est un lapin ! ».
 
-It, that thing we just looked toward, rustling in the trees, that's a
-rabbit.
+« Ça », cette chose vers laquelle nous venons de regarder, bougeant dans les arbres, c’est un lapin.
 
 <img src="./media/image621.webp" style="width:6.5in;height:4.69444in" />
 
-If I say, "土曜日だ" (土曜日/どようび means Saturday), I'm saying "(It)
-is Saturday".
+Si je dis « 土曜日だ » (土曜日/どようび signifie samedi), je dis en réalité : « (C’est) samedi ».
 
-What's "it"? Today is.
+Qu’est-ce que « c’est » ? Aujourd’hui.
 
-All these sentences are full, complete Japanese sentences, with a
-が-marked subject/
-
-A carriage/main carriage, and an engine.
+Toutes ces phrases sont des phrases japonaises complètes, possédant un sujet marqué par が (un wagon principal) et un moteur.
 
 <img src="./media/image485.webp" style="width:6.5in;height:4.33333in" />
 
-### The を particle
 
-I'm going to introduce you to one more kind of carriage and that is an
-を car.
+### La particule を
 
-This means a noun marked by the particle を, pronounced "o".
+Je vais maintenant vous présenter un autre type de wagon : le wagon を.
 
-And if you know the English grammatical term "object", which means the
-thing we're doing
+Cela désigne un nom marqué par la particule を, prononcée « o ».
 
-something to, it's a good mnemonic to remember that "o" stands for
-"object".
+Si vous connaissez le terme grammatical français « objet », qui signifie « la chose sur laquelle on fait quelque chose », vous avez un bon moyen mnémotechnique : rappelez-vous simplement que « o » correspond à « objet ».
 
-So the を car looks like this, and as you see, it's white.
+Le wagon を ressemble à ceci, et comme vous pouvez le voir, il est blanc :
 
-<img src="./media/image81.webp"
-style="width:5.68229in;height:3.5059in" />
+<img src="./media/image81.webp" style="width:5.68229in;height:3.5059in" />
 
-It's white because it's not part of the core train.
+Il est blanc, car il ne fait pas partie du train central.
 
-<u>The core train always consists of just two elements, the engine and
-the main carriage.</u>
+<u>Le train central est toujours composé uniquement de deux éléments : le moteur et le wagon principal.</u>
 
-When we see white cars, we know that they're telling us something more
-about the engine or about the main carriage.
+Lorsque nous voyons des wagons blancs, nous savons qu'ils donnent des informations supplémentaires sur le moteur ou sur le wagon principal.
 
-So let's take a sentence here: "わたしがケーキを食べる".
+Prenons cette phrase : « わたしがケーキを食べる ».
 
-This means "I eat cake".
+Cela signifie « Je mange du gâteau ».
 
-<img src="./media/image144.webp"
-style="width:5.76563in;height:2.87198in" />
+<img src="./media/image144.webp" style="width:5.76563in;height:2.87198in" />
 
-Now, the core sentence here is "I eat".
+Ici, la phrase centrale est « je mange ».
 
-Those are the two black carriages.
+Ce sont les deux wagons noirs.
 
-The white carriage, "ケーキを", is telling us more about the engine.
+Le wagon blanc, « ケーキを », nous donne plus d'informations sur le moteur.
 
-The core sentence is "I eat" and "ケーキを" is telling us what it is
-that I eat.
+La phrase centrale est donc « je mange », et « ケーキを » indique ce que je mange exactement.
 
-Now, the interesting thing here is that we may often see this said like
-this: "ケーキをたべる".
+Maintenant, chose intéressante, on rencontre souvent cette phrase sous la forme simplifiée suivante : « ケーキをたべる ».
 
-And you already know what's going on when this happens.
+Et vous savez déjà pourquoi cela arrive.
 
-This is another case where we have the invisible A car.
+C'est un autre cas où le wagon principal A devient invisible.
 
 <img src="./media/image280.webp" style="width:6.5in;height:3.29167in" />
 
-<u>We can't have a sentence without a が. We can't have an action being done without a doer.</u>
+<u>Il ne peut pas y avoir de phrase sans が. Il ne peut pas y avoir d’action réalisée sans quelqu’un ou quelque chose pour la réaliser.</u>
 
-If we say "ケーキをたべる", what we're really saying is
-"(zeroが)ケーキをたべる".
+Si on dit « ケーキをたべる », ce que l'on dit réellement est « (zéroが) ケーキをたべる ».
 
-And the default value for "zero", for the invisible carriage, is
-"わたし".
+La valeur par défaut de ce « zéro », ce wagon invisible, est « わたし ».
 
-So usually this is going to be "I eat cake", although if you were
-talking about someone
+Donc généralement, cette phrase signifie « Je mange du gâteau », mais si vous étiez en train de parler d'une autre personne, cela pourrait signifier que cette autre personne mange du gâteau.
 
-else at the time, it might mean that that person eats cake.  
-*Note: Just in case - as can be seen from from the pictures, every
-particle attaches to/assigns itself to the word BEFORE it, Not after
-it.*
+*Note : Au cas où – comme visible dans les images, chaque particule japonaise s’attache toujours au mot précédent (et non pas au suivant).*
 
-## **3. The は Particle**
 
-[<u>Lesson 3: WA-particle secrets schools don't ever teach. How WA can
-make or break your
-Japanese</u>](https://www.youtube.com/watch?v=U9_T4eObNXg&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=3&ab_channel=OrganicJapanesewithCureDolly)
+## **3. La particule は**
+
+[<u>Leçon 3 : Les secrets de la particule WA que les écoles n'enseignent jamais. Comment WA peut améliorer ou ruiner votre japonais</u>](https://www.youtube.com/watch?v=U9_T4eObNXg&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=3&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Welcome to Lesson 3. Some of you who have done some Japanese already
+Bienvenue dans la leçon 3. Certains d’entre vous, qui ont déjà un peu étudié le japonais, se demandent peut-être comment j’ai réussi à passer deux leçons entières sans utiliser ni même mentionner la particule は *(toujours prononcée « wa »)*.
 
-may be wondering how I've managed to get through two entire lessons
-without using
+Je suis bien consciente que la plupart des cours commencent directement par は dès le début :
 
-or even mentioning the は *(always read as wa)* particle.
+« わたしはアメリカ人だ », « ペンはあおい ».
 
-I'm well aware that most courses start you on は from the beginning.
+Mais c’est une très mauvaise idée, car cela empêche totalement de comprendre clairement le rôle réel des particules et la structure logique des phrases japonaises.
 
-"わたしはアメリカ人だ" "ペンはあおい."
+Cependant, nous sommes maintenant prêts à découvrir la particule は, comprendre ce qu’elle fait, et tout aussi important, ce qu’elle ne fait pas.
 
-And this is really a very very bad idea because it leaves you completely
-unclear
+<u>La particule は ne peut jamais faire partie de la phrase centrale. Elle ne peut jamais être un wagon noir</u>, <u>le wagon principal A</u> (ce dont on parle) <u>ni le moteur B</u> (ce qu’on en dit).
 
-about what the particles really do and about the logical structure of
-sentences.
+<img src="./media/image292.webp" style="width:4.57813in;height:3.41158in" />
 
-However, we're now ready to look at the は particle and find out what it
-does and, just as important, what it doesn't do.
-
-<u>The は particle can never be a part of the core sentence. It can never be one of the black carriages</u>, <u>the main car A</u>
-(the thing we are saying something about) <u>or the engine B</u> (the
-thing we are saying about it).
-
-<img src="./media/image292.webp"
-style="width:4.57813in;height:3.41158in" />
-
-<u>It can't be a white car either, because white cars like the を (wo)
-car, are part of the logical structure of the sentence.</u>
+<u>Elle ne peut pas non plus être un wagon blanc, car les wagons blancs, comme le wagon を, font partie de la structure logique de la phrase.</u>
 
 <img src="./media/image274.webp" style="width:6.5in;height:3.625in" />
 
-<u>And a は-marked noun is never part of the logical structure of a
-sentence. は is a non-logical particle.</u>
+<u>Et un nom marqué par は ne fait jamais partie de la structure logique d'une phrase. は est une particule non logique.</u>
 
-So if は is not a black car or a white car, what kind of a carriage is
-it?
+Alors, si は n’est ni un wagon noir, ni un wagon blanc, quel genre de wagon est-ce ?
 
-Well, it's not a carriage at all. A は-marked noun looks like this…
+En fait, ce n’est pas du tout un wagon. Un nom marqué par は ressemble à ceci…
 
-<img src="./media/image325.webp"
-style="width:2.51563in;height:2.5293in" />
+<img src="./media/image325.webp" style="width:2.51563in;height:2.5293in" />
 
-That's right, it's a flag.
+Exactement, c’est un drapeau.
 
-Why do we depict it as a flag? Because that is what は does.
+Pourquoi le représente-t-on comme un drapeau ? Parce que c’est précisément le rôle de は.
 
-<u>It flags something as the topic of the sentence. It doesn't say anything about it. That's what the logical sentence is
-there for. Wa simply flags the topic.</u>
+<u>Elle marque quelque chose comme étant le thème de la phrase. Elle ne dit rien sur ce thème. C’est la phrase logique qui est là pour ça. は signale simplement le thème.</u>
 
-Now, some of the textbooks will tell you that a sentence like
-"わたしはアメリカ人だ" literally
+Certains manuels indiquent qu’une phrase telle que « わたしはアメリカ人だ » signifie littéralement « Quant à moi, je suis américain(e) », et c’est exactement correct.
 
-means "As for me, I am an American", and that is exactly correct.
+Si ces manuels respectaient vraiment cette logique jusqu’au bout, nous n’aurions pas les problèmes que nous rencontrons souvent aujourd’hui.
 
-If they would stick with that logic and carry it through, we wouldn't
-have the trouble we have.
+Ainsi, « わたし/私は » signifie bien « quant à moi ». « アメリカ人だ » signifie « = américain(e) » ou « suis américain(e) ».
 
-So, "わたし/私は" means "as for me". "アメリカ人だ" means "=American" or
-"am American".
+Comme vous pouvez le constater, avec une phrase comme celle-ci, quelque chose manque, aussi bien en japonais qu’en français.
 
-So as you see, with a sentence like this something is missing, both from the Japanese and the English.
+On ne peut pas dire « quant à moi, suis américain(e) ». De même, on ne peut pas avoir une phrase sans un wagon A, sans un sujet marqué par が.
 
-We can't say "as for me, am American". Neither can we have a sentence
-
-without an A car, without a が-marked doer.  
-So if we put the A car in, it makes sense in both English and Japanese.
+Donc, si nous remettons le wagon A, la phrase a du sens à la fois en français et en japonais :
 
 <img src="./media/image493.webp" style="width:6.5in;height:3.625in" />
 
-"私は(<u>zeroが)</u>アメリカ人だ" – "As for me, (<u>I)</u> am an
-American."
+« 私は(<u>zéroが</u>)アメリカ人だ » – « Quant à moi, (<u>je</u>) suis américain(e). »
 
-Now, some of you may be saying, "Isn't it over-complicated?  
-Can't we just pretend that 'わたしは' is the main car of the sentence?"
+Certains d’entre vous pourraient se dire : « N’est-ce pas trop compliqué ?  
+Ne peut-on pas simplement prétendre que 'わたしは' est le wagon principal de la phrase ? »
 
-And the answer to that is "<u>No</u>".
+La réponse est clairement « <u>Non</u> ».
 
-Because although it works in this case and some other cases, it doesn't work in every case and that is why we really mustn't do it.
+Car bien que cela fonctionne dans ce cas précis et quelques autres, cela ne fonctionne pas toujours, ce qui explique pourquoi il ne faut vraiment pas adopter cette approche simplifiée.
 
-Let's take an example. There's an old joke among Japanese learners and
-it's only possible
+Prenons un exemple. Il existe une vieille blague connue des apprenants du japonais, blague qui n’est possible qu’à cause de la façon très mauvaise dont le japonais est souvent enseigné.
 
-because of how badly Japanese is taught.
+La blague est la suivante : un groupe de personnes mange au restaurant et discute de ce qu’elles vont manger. Quelqu'un dit alors :  
+« わたしはうなぎだ ».
 
-The joke is: A group of people are dining in a restaurant and they're
-discussing what they're going to eat, and somebody says,
-"わたしはうなぎだ".
+うなぎ (*unagi*) signifie « anguille », donc la blague est que cette personne a littéralement dit : « Je suis une anguille ».
 
-Unagi/うなぎ means eel, so the joke is that this person has literally
-said, "I am an eel".
+Après tout, si « わたしはアメリカ人だ » signifie « Je suis américain(e) », alors « わたしはうなぎだ » doit logiquement signifier « Je suis une anguille ».
 
-After all, if "わたしはアメリカ人だ" means "I am an American", then "わたしはうなぎだ" must mean "I am an eel".
+La logique est absolument parfaite – <u>sauf que « わたしはアメリカ人だ » ne signifie pas « Je suis américain(e) ». Cela signifie « Quant à moi, je suis américain(e) ».</u>
 
-That's absolutely perfect logic – <u>except that
-"わたしはアメリカ人だ" doesn't mean "I am an American". It means "As for me, I am an
-American".</u>
+Comme nous l'avons vu, la valeur par défaut du wagon invisible, le pronom zéro, est « 私/わたし », mais ce n’est pas sa seule valeur. Sa valeur dépend du contexte.
 
-As we know, the default value of the invisible car, the zero pronoun, is
-"私/わたし", but that isn't its only value. Its value depends on context.
+Dans la phrase « わたしはアメリカ人だ » (« Quant à moi, je suis américain(e) »), la valeur du pronom zéro est effectivement « 私 ».
 
-In "わたしはアメリカ人だ" ("As for me, I am an American")
+Mais dans la phrase « わたしはうなぎだ », c’est-à-dire « わたしは(<u>zéroが</u>)うなぎだ », le zéro n’est pas « 私 ». Le zéro signifie ici « ça ».
 
-the value of the zero pronoun is indeed "私/わたし".
+« Ça » désigne la chose dont on parle, le sujet de la conversation : ce que nous allons manger au dîner.
 
-But in "わたしはうなぎだ", which is "わたしは(<u>zeroが)</u>うなぎだ",
-zero is not "私". Zero is "it".
+<img src="./media/image373.webp" style="width:5.71354in;height:3.21387in" />
 
-"It" is the thing we are talking about, the subject of the conversation:
-what we are eating for dinner.
+Ce point aura un impact important sur beaucoup d’autres phrases, à mesure que notre japonais deviendra plus avancé.
 
-<img src="./media/image373.webp"
-style="width:5.71354in;height:3.21387in" />
+Ce que nous allons faire maintenant, c’est prendre un autre wagon et observer comment tout cela fonctionne ensemble avec は.
 
-And this is going to affect all kinds of sentences as we become more
-advanced in Japanese.
+Le wagon que nous allons introduire aujourd'hui est un wagon blanc : le wagon に (*ni*).
 
-So what we are going to do now is take another one of the cars
+Ce wagon forme un trio logique avec が (*ga*) et を (*wo*).
 
-and look at that and then see how it all works together with は.
+Dans les phrases de type « A fait B », が indique qui réalise l’action, を indique l’objet qui subit l’action, et <u>に indique la cible ou la destination ultime de cette action</u>.
 
-The car we're going to introduce today is a white car, and this is the
-に (ni) car.
+Cependant, nous n’avons pas toujours un を ni toujours un に.
 
-It makes a kind of trio with が (ga) and を (wo).
+<img src="./media/image331.webp" style="width:4.77604in;height:2.67586in" />
 
-In "A does B" sentences, が tells us who does the doing, を tells us
-what it is done to, and <u>に tells us the ultimate target of that doing</u>.
+Prenons cette phrase avec を : « わたしがボールをなげる ».
 
-Now, we don't always have a を; we don't always have a に.
+ボール signifie « balle » et なげる signifie « lancer ». Donc, cette phrase signifie « Je lance une balle ».
 
-<img src="./media/image331.webp"
-style="width:4.77604in;height:2.67586in" />
+La phrase centrale est « je lance » – « わたしがなげる »,  
+et le wagon blanc を nous indique ce que je lance exactement : une balle.
 
-But let's take this を sentence: "わたしがボールをなげる"
+<img src="./media/image309.webp" style="width:4.92381in;height:3.00602in" />
 
-ボール is ball and なげる means throw. So this is, "I throw a ball".
+Si nous disons maintenant : « わたしがボールをさくらになげる »,  
+cela signifie : « Je lance une balle à Sakura » (ou vers Sakura).
 
-The core sentence is "I throw" – "わたしがなげる",  
-and the white car tells us what I threw: it was a ball.
+<u>Sakura est la destination, la cible, de mon action de lancer.</u>
 
-<img src="./media/image309.webp"
-style="width:4.92381in;height:3.00602in" />
+<img src="./media/image888.webp" style="width:5.78646in;height:3.23578in" />
 
-Now, if we say, "わたしがボールをさくらになげる",  
-this means "I throw a ball at Sakura" (or "to Sakura").
+<u>Il est très important de noter que ce sont les particules logiques – が, を et に – qui déterminent ce qui se passe dans la phrase. L’ordre des mots n’a pas la même importance qu’en français. Ce qui compte, c’est la particule logique.</u>
 
-<u>Sakura is the destination, the target, of my throwing.</u>
+Ainsi, si je dis : « わたしにさくらがボールをなげる », cela signifie « Sakura me lance la balle ».
 
-<img src="./media/image888.webp"
-style="width:5.78646in;height:3.23578in" />
+<img src="./media/image165.webp" style="width:5.07292in;height:2.82649in" />
 
-And <u>it's very important to note here that it is the logical particles
-– が, を and に – that tell us what is happening. The order of the words doesn't really matter the way it does in
-English. What matters is the logical particle.</u>
+Si je dis : « ボールがわたしにさくらをなげる », je dis littéralement : « La balle me lance Sakura ». Ça n’a pas vraiment de sens, sauf peut-être dans un roman fantastique.
 
-So if I say, "わたしにさくらがボールをなげる", I'm saying, "Sakura throws the ball at me".
+<img src="./media/image859.webp" style="width:4.92708in;height:2.72203in" />
 
-<img src="./media/image165.webp"
-style="width:5.07292in;height:2.82649in" />
+<u>En japonais, nous pouvons dire absolument ce que nous voulons, à condition d’utiliser correctement la logique des particules.</u>
 
-If I say, "ボールがわたしにさくらをなげる", I'm saying, "The ball throws Sakura at me". It doesn't make any sense, but
+Maintenant, introduisons la particule は dans cette phrase :
 
-we might want to say it in a fantasy novel or something.
+« わたし<u>は</u>さくらにボールをなげる ».  
+Cette phrase complète serait : « わたし<u>は</u>(zéroが)さくらにボールをなげる ».
 
-<img src="./media/image859.webp"
-style="width:4.92708in;height:2.72203in" />
-
-<u>We can say whatever we like in Japanese so long as we have the logic
-of the particles correct.</u> But now let's introduce は into this
-sentence:
-
-"わたし<u>は</u>さくらにボールをなげる." This is
-"わたし<u>は</u>(zeroが)さくらにボールをなげる".
-
-As we know, what it means is "As for me, I throw the ball at Sakura".
+Comme nous le savons maintenant, cela signifie « Quant à moi, je lance la balle à Sakura ».
 
 <img src="./media/image99.webp"
 style="width:5.80729in;height:3.21344in" />
 
-Now let's give the は to the ball:
-"ボールは私がさくらに<u>(zeroを)</u>なげる"
+Maintenant, donnons la particule は à la balle :  
+« ボールは私がさくらに<u>(zéroを)</u>なげる »
 
-What we are saying now is "As for the ball, I throw it at Sakura".
+Ce que nous disons désormais est : « Quant à la balle, je la lance à Sakura ».
 
-<img src="./media/image882.webp"
-style="width:5.82813in;height:3.2332in" />
+<img src="./media/image882.webp" style="width:5.82813in;height:3.2332in" />
 
-The important thing to notice here is that when we change a logical
-particle from
+Ce qui est très important à noter ici, c'est que lorsque nous déplaçons une particule logique d’un nom à un autre, nous changeons ce qui se passe réellement dans la phrase.  
 
-one noun to another we change what's actually happening in the sentence, <u>but when we change the non-logical particle は from one noun to
-another – I can change it from me to the ball – it makes no difference to the
-logic of the sentence. It makes a difference to the emphasis: I'm now talking about the
-ball, "as for the ball..."</u>
+<u>Mais lorsque nous déplaçons la particule non-logique は d’un nom à un autre – ici, je peux la déplacer de « moi » à « la balle » – cela ne change absolument pas la logique de la phrase. Cela change simplement l’accentuation : je parle maintenant de la balle, « quant à la balle… »</u>
 
-What happens to the ball is that I throw it at Sakura, but who is doing
-what, and
+Ce qui arrive à la balle, c’est que je la lance à Sakura. Mais savoir qui fait quoi, avec quoi et à quoi cela est fait, <u>rien de tout cela ne change lorsque vous modifiez la particule は</u>.
 
-what they are doing it with and what they are doing it to, <u>none of that changes when you change the は particle</u>
+Et c’est précisément là toute la différence entre une particule logique et une particule non-logique.
 
-and that's the difference between a logical and a non-logical particle.
+## **4. Les temps verbaux en japonais**
 
-## **4. Japanese Verb Tenses**
-
-[<u>Lesson 4: Japanese past, present, and future tense. How Japanese
-verb tenses really
-work</u>](https://www.youtube.com/watch?v=lU5rmrAORDY&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=4&ab_channel=OrganicJapanesewithCureDolly)
+[<u>Leçon 4 : Passé, présent et futur en japonais. Comment fonctionnent réellement les temps verbaux japonais</u>](https://www.youtube.com/watch?v=lU5rmrAORDY&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=4&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Today we're going to talk about tenses.
+Aujourd'hui, nous allons parler des temps verbaux.
 
-Up to now, we've only been using one tense, and that is the one
-represented by
+Jusqu’à présent, nous n’avons utilisé qu’un seul temps, représenté par la forme neutre du dictionnaire des verbes : 食べる/たべる – manger ; 歩く/あるく – marcher, et ainsi de suite.
 
-the plain dictionary form of verbs: 食べる/たべる - eat; 歩く/あるく -
-walk, and so forth.
+Pour parler un japonais naturel, nous avons besoin de trois temps.
 
-To use natural-sounding Japanese, we need three tenses.
+Vous pourriez penser qu'il s'agit du passé, du présent et du futur, mais en réalité, ce n’est pas le cas.
 
-You might think they would be past, present and future, but in fact
-they're not.
+### Le temps « non-passé »
 
-### The non-past tense
+Le temps que nous avons utilisé jusqu’ici n’est pas un temps présent.
 
-The one we've been using up to now is not a present tense.
+Il s'appelle le temps « non-passé », et beaucoup pensent que cela est déroutant.
 
-It's called the non-past tense, and a lot of people think this is
-confusing.
+Pourquoi le japonais n'a-t-il pas simplement un temps présent comme en français,  
+au lieu d'avoir quelque chose de vague et mystérieux comme un « non-passé » ?
 
-Why can't Japanese have a simple present tense like English
+<img src="./media/image760.webp" style="width:2.90104in;height:2.72771in" />
 
-instead of something vague and mysterious like a non-past tense?
+En réalité, ce n’est pas déroutant du tout. Ce qui rend les choses confuses, pour une fois, ce n’est pas la manière étrange dont le japonais est enseigné, mais plutôt la façon étrange dont les langues européennes (comme l’anglais ou le français) sont enseignées.
 
-<img src="./media/image760.webp"
-style="width:2.90104in;height:2.72771in" />
+En vérité, le temps non-passé japonais ressemble beaucoup au temps non-passé anglais (ou français).
 
-Well, actually it isn't confusing at all, and what makes it confusing
-is, for a change, not the fact that Japanese is taught in a strange way, but the fact that English is taught in a strange way.
+Qu’est-ce que le temps non-passé anglais ?
 
-The truth is that the Japanese non-past tense is very similar to the
-English non-past tense.
+Eh bien, c'est la forme neutre des verbes dans le dictionnaire : manger, marcher, etc.
 
-What is the English non-past tense?
+Pourquoi l'appeler un temps « non-passé » ?
 
-Well, it is the plain dictionary form of English words: eat, walk, etc.
+Prenons un exemple concret :
 
-Why do I call it a non-past tense?
+Supposez que vous receviez un message sur votre 携帯 (*keitai*, téléphone portable) disant : « J'ai marché jusqu'au café et maintenant je mange du gâteau et je bois du café. »
 
-Well, let's take an example.
+Que pourriez-vous immédiatement en conclure sur l'expéditeur de ce message ?
 
-Suppose you get a message on your 携帯/けいたい (phone) saying, "I walked to the cafe and now I eat cake and drink coffee".
+Eh bien, vous devineriez que ce n’est pas un francophone natif, n’est-ce pas ?
 
-What would you know about the person who sent that message?
+Parce qu'aucun francophone natif ne dirait : « Je mange du gâteau et je bois du café »  
+quand il veut dire en réalité : « Je suis en train de manger du gâteau et de boire du café ».
 
-Well, you'd know that it was not a native English speaker, wouldn't you?
+Alors, quand dit-on réellement « Je mange du gâteau » en français ?
 
-Because no native English speaker says "I eat cake and I drink coffee"
-when they mean
+On le dirait par exemple pour parler d'une habitude : « Je mange du gâteau. Je ne suis pas le genre de personne qui n'en mange jamais. Moi, j'en mange. Dès qu'il y a du gâteau, j'en prends. Mais ça ne signifie pas que je suis en train d'en manger à cet instant précis. »
 
-"I am eating cake and drinking coffee right now".
+Dans quels autres cas utilise-t-on la forme neutre (non-passé) en français ou en anglais ?
 
-When do we say "I eat cake"?
+Parfois pour parler d’événements futurs : « La semaine prochaine, je pars à Tokyo. »  
+« Le mois prochain, j'ai un examen. »
 
-Well, we might say it when we mean that we eat cake sometimes: "I eat
-cake.
+Parfois, on l’utilise même pour quelque chose qui se passe en ce moment, mais c’est assez rare. Par exemple, dans une description littéraire : « Le soleil descend sur la mer, et un petit robot joyeux court sur la plage. »
 
-I'm not one of these people who doesn't eat cake. I do eat cake.
+Mais ce n’est généralement pas ainsi qu’on l’utilise dans la langue courante, n’est-ce pas ?
 
-Whenever there's any cake around, I eat it.
+Ainsi, le temps non-passé japonais fonctionne de manière très similaire au temps non-passé anglais.
 
-But that doesn't mean I'm eating cake right at this moment."
+Si vous comprenez l’un, vous pouvez facilement comprendre l’autre.
 
-When else do we use the English non-past plain form of verbs?
+<u>La plupart du temps, le temps non-passé japonais fait référence à des événements futurs.</u>
 
-Well, sometimes we use them for future events: "Next week I fly to
-Tokyo."
+« いぬがたべる » → « Le chien mangera »  
+« さくらがあるく » → « Sakura marchera »
 
-"Next month I have an exam."
+<img src="./media/image867.webp" style="width:3.89063in;height:2.52891in" />
 
-And sometimes we use them for something that's going on right now, but
-not mostly.
+L'utilisation que nous en avons faite jusqu’à présent – « Sakura marche » – est possible, mais ce n’est pas la manière la plus naturelle.
 
-For example, in a literary description: "The sun sinks over the sea
-
-and a small happy robot runs across the beach."
-
-But that isn't the way we use it most of the time in everyday speech, is
-it?
-
-So, the Japanese non-past tense is very similar in the way it functions
-to the English non-past tense.
-
-If you understand one you can pretty much understand the other.
-
-<u>Most of the time, the Japanese non-past tense refers to future
-events.</u>
-
-"いぬがたべる" - "The dog will-eat"; "さくらがあるく" - "Sakura
-will-walk."
-
-<img src="./media/image867.webp"
-style="width:3.89063in;height:2.52891in" />
-
-The way we've been using it up to now - "Sakura walks" - is possible, but it isn't the most natural way.
-
-We've been using it that way because it was the only tense we knew.
+Nous l'avons utilisée ainsi parce que c'était le seul temps que nous connaissions.
 
 ### Continuous actions and ている
 
