@@ -2932,403 +2932,381 @@ pour exprimer “devenir”.</u>
 
 Donc c’est **une forme importante à apprendre**.
 
-#### に in the case of adjectives (aka using them as adverbs)
+#### に avec les adjectifs (ou comment les utiliser comme adverbes)
 
-<u>And I should just add here than in the case of an adjective it works
-slightly differently.</u>
+<u>Je devrais juste ajouter ici que dans le cas d’un adjectif, cela fonctionne un peu différemment.</u>
 
-So if we want to say "Sakura is beautiful", we say "さくらがうつくしい"
+Si l’on veut dire « Sakura est belle », on dit 「さくらがうつくしい」  
+(「うつくしい」 signifie “est-belle”),  
+mais si l’on veut dire **« Sakura est devenue belle »**,  
+<u>on ne peut pas utiliser 「に」 car 「うつくしい」 n’est pas un nom.</u>
 
-("うつくしい" means "is-beautiful"), but if we want to say "Sakura became beautiful", <u>we can't use に because "うつくしい" isn't a noun.</u>
+Ce n’est pas une **carriage**, <u>c’est un moteur</u>, n’est-ce pas ?  
+*Note : うつくしい est un adjectif en い, donc un moteur.*
 
-It isn't a carriage, <u>it's an engine</u>, isn't it? *Note: うつくしい
-is an adjectival/い-engine.*
+Alors que fait-on ?
 
-So what do we do?
-
-What we do is what we discussed last week: <u>we turn that adjective
-into its stem.</u>
-
-So <u>we take off the い (-i) and add く(-ku).</u> *Note: The stem is
-うつくし, and then add く.*
+On fait ce dont nous avons parlé la semaine dernière :  
+<u>on transforme cet adjectif en sa forme de base (radical).</u>  
+<u>On enlève le 「い」 final et on ajoute 「く」</u> (*-ku*).  
+*Note : le radical est 「うつくし」, auquel on ajoute 「く」.*
 
 <img src="./media/image559.webp" style="width:6.5in;height:3.59722in" />  
-*Note: the く is turning うつくしい into an adverb/adverbial noun. More
-on that in Lesson 41.*
+*Note : le 「く」 transforme 「うつくしい」 en adverbe / adjectif adverbial. On verra cela plus en détail dans la leçon 41.*
 
 <img src="./media/image248.webp" style="width:6.5in;height:0.90278in" />
 
-And that's all we need to do.
+Et c’est tout ce qu’il y a à faire.
 
-That's how we use it: "さくらがうつくしくなった" – "Sakura became
-beautiful".
+C’est comme ça qu’on l’utilise :  
+「さくらがうつくしくなった」 = **Sakura est devenue belle**
 
-"なった" is the past of "なる" because "なる" is a godan verb  
-(it has to be a godan verb because it doesn't end in -いる or -える, it
-ends in -ある).
+「なった」 est le passé de 「なる」, car 「なる」 est un **verbe godan**  
+(il doit l’être car il ne se termine pas en 「-いる」 ou 「-える」, mais en 「-ある」).
 
-So now we know some ways of expressing subtler concepts like intention,
-purpose, transformation – and we have leveled up.
+---
 
-### The へ Particle
+Et voilà !  
+Nous connaissons maintenant plusieurs façons
 
-Before we finish, I'm just going to give you one more carriage that we
-haven't seen before, and that's the へ-car. And this is very, very simple.
+### La particule 「へ」
 
-The particle "へ" – as you see, this is the kana へ (he), but when we use it as a particle we just pronounce it え.
+Avant de conclure, je vais vous présenter **une dernière voiture** que nous n’avons pas encore vue, et c’est la **voiture へ**.  
+Et c’est très, très simple.
 
-And it's a very simple particle. It's a one-trick pony.
+La particule 「へ」 — comme vous le voyez, c’est le kana へ (he),  
+mais **lorsqu’il est utilisé comme particule, on le prononce simplement 「え」.**
 
-And it duplicates one, and only one, of the uses of "に".
+C’est une particule **très simple**, une sorte de **poney à un seul tour** 🐴
 
-So when we say where we're going - "A is going to B" – we mark B with
-に.
+Et elle **duplique un seul et unique usage de 「に」**.
 
-<u>We can also mark it with へ.</u>
+Donc, lorsque nous disons où nous allons — “A va vers B” — nous marquons **B** avec 「に」.
 
-<img src="./media/image1075.webp"
-style="width:3.44792in;height:3.01026in" />
+<u>Mais on peut aussi le marquer avec 「へ」.</u>
 
-<u>And that's the only thing へ does.</u> As I say, it's a one-trick
-pony.
+<img src="./media/image1075.webp" style="width:3.44792in;height:3.01026in" />
 
-<u>It can't even mark the place where something has gone to and still
-is. It only ever marks the place a thing is going to.</u> *Note: a
-direction, more on that in 8b.*
+<u>Et c’est la seule chose que fait 「へ」.</u>  
+Comme je l’ai dit, c’est un poney à un seul tour.
 
-"へ" is very simple and it's good to have another particle, another carriage, added to your arsenal, isn't it?
+<u>Il ne peut même pas marquer un lieu où quelque chose est allé et s’y trouve encore.</u>  
+<u>Il marque **uniquement** le lieu vers lequel quelque chose se **dirige**.</u>  
+*Note : il s’agit d’une **direction**, on en verra plus dans la leçon 8b.*
 
-## **8b. Particles explained.** 
+---
 
-[<u>Lesson 8b: Japanese particles explained. How they REALLY
-work.</u>](https://www.youtube.com/watch?v=dwcTI9qvO-U&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=10)
+「へ」 est très simple,  
+et c’est toujours agréable d’ajouter **une nouvelle particule**,  
+**une nouvelle voiture** à votre arsenal, n’est-ce pas ? 🚋✨
 
-こんにちは.
+## **8b. Les particules expliquées**
 
-Today we're going to get the key to every Japanese sentence.
+[<u>Leçon 8b : Les particules japonaises expliquées. Comment elles fonctionnent VRAIMENT.</u>](https://www.youtube.com/watch?v=dwcTI9qvO-U&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=10)
 
-We're going to do a round-up of the logical particles – and <u>the
-logical particles are the linchpins of Japanese.</u>
+こんにちは。
 
-With a full understanding of what they do you can understand every
-Japanese sentence.
+Aujourd’hui, nous allons découvrir **la clé de toute phrase japonaise**.
 
-Without it, you can't.
+Nous allons faire un tour d’horizon des **particules logiques** –  
+et <u>les particules logiques sont les éléments centraux du japonais.</u>
 
-And that's why the Japanese taught by the textbook which doesn't explain
-the logical particles correctly leaves most learners non-functional in
-Japanese even after they've passed exams.
+Avec une compréhension complète de ce qu’elles font,  
+vous pouvez comprendre **toute phrase japonaise**.  
+Sans ça, vous ne pouvez pas.
 
-So, I'm going to do a round-up of the logical particles we've learned so
-far and I'm going
+C’est pourquoi l’enseignement du japonais basé sur des manuels  
+qui n’expliquent pas correctement les particules logiques  
+laisse la plupart des apprenants **incapables de fonctionner réellement en japonais**,  
+même après avoir réussi des examens.
 
-to introduce the last major logical particle, which is the で-particle.
+---
 
-I'm going to do this with an analogy of detective work, <u>because the
-logical particles essentially interrogate the nouns in the sentence and
-show how they relate to each other and to the verb of the sentence, and they give the structure of the
-sentence.</u>
+Je vais donc faire un tour d’horizon des particules logiques que nous avons vues jusqu’à présent,  
+et je vais introduire la dernière **grande particule logique** : la particule **で**.
 
-<img src="./media/image1146.webp"
-style="width:2.55208in;height:3.62549in" />
+Pour cela, je vais utiliser une analogie avec le travail de détective,  
+<u>parce que les particules logiques sont en réalité une forme d’interrogatoire des noms dans la phrase :  
+elles montrent **comment les éléments sont reliés entre eux** et au verbe,  
+et elles donnent à la phrase sa structure.</u>
 
-And this is what a logical particle is.
+<img src="./media/image1146.webp" style="width:2.55208in;height:3.62549in" />
 
-People sometimes ask "What do you mean by a logical particle?"
+Et c’est **précisément ce qu’est une particule logique**.
 
-<img src="./media/image55.webp"
-style="width:3.38021in;height:3.43438in" />
+---
 
-We've already discussed the difference between a logical particle and a
-non-logical topic-marker.
+Les gens demandent parfois :  
+**« Que veux-tu dire par particule logique ? »**
 
-<u>A logical particle tells us how the sentence logically holds
-together. It tells us who does what to whom, with what, where, when and so
-forth. The は-particle doesn't do this, it just tells us what is the topic
-we're speaking about.</u>
+<img src="./media/image55.webp" style="width:3.38021in;height:3.43438in" />
 
-There are other particles that I would call a-logical.
+Nous avons déjà vu la différence entre une **particule logique**  
+et un **marqueur de thème non-logique**.
 
-They're not non-logical topic markers, but they're not logical particles
-either.
+<u>Une particule logique nous dit comment la phrase tient logiquement :  
+elle nous dit **qui fait quoi, à qui, avec quoi, où, quand, etc.**  
+La particule 「は」 ne fait pas cela : elle se contente de marquer le sujet de la conversation.</u>
 
-For example, <u>the particle -と adds two nouns together.</u>
+---
 
-So if we say "さくらとメアリーがあるいていた", we're saying "Sakura and
-Mary were walking".
+Il existe d’autres particules que j’appellerais **a-logiques**.  
+Elles ne sont pas des marqueurs de thème,  
+mais elles ne sont pas non plus des particules logiques.
 
-<u>The が-particle tells us who was doing the walking. The と-particle simply adds those two together. It doesn't tell us
-anything about what they were doing, where they were going, or anything
-else.</u>
+Par exemple :  
+<u>la particule 「と」 sert simplement à ajouter deux noms ensemble.</u>
 
-<img src="./media/image86.webp"
-style="width:5.94271in;height:2.93326in" />
+Donc si on dit 「さくらとメアリーがあるいていた」,  
+on dit : **Sakura et Mary marchaient.**
 
-So, <u>the logical particles are the ones that tell us what is actually
-happening in the sentence.</u>
+<u>La particule 「が」 nous dit qui faisait l’action (marcher).  
+La particule 「と」 ne fait qu’additionner deux noms.  
+Elle ne dit rien sur ce qu’elles faisaient, où elles allaient, etc.</u>
 
-The other thing to remember about logical particles is that <u>they
-always attach to a noun.</u>
+<img src="./media/image86.webp" style="width:5.94271in;height:2.93326in" />
 
-If you see a logical particle attaching to anything, you know that that
-word is in fact functionally a noun.
+---
 
-And <u>we must always see the noun plus the particle attaching to it as
-an inseparable pair.</u>
+<u>Les particules logiques sont celles qui nous disent ce qui se passe réellement dans la phrase.</u>
 
-The two work together.
+Un autre point important :  
+<u>les particules logiques **s’attachent toujours à un nom**.</u>
 
-<img src="./media/image1141.webp"
-style="width:3.98438in;height:3.31141in" />
+Donc si vous voyez une particule logique attachée à quelque chose,  
+vous savez que ce mot **fonctionne comme un nom**.
 
-They are a question and an answer which form a fundamental unit of a
-Japanese sentence.
+<u>Et il faut toujours considérer le **nom + la particule** comme un **paquet inséparable**.</u>
 
-All right. So let's look at this.
+Les deux fonctionnent ensemble :
 
-### Particle が
+<img src="./media/image1141.webp" style="width:3.98438in;height:3.31141in" />
 
-The head of the Logical Particle Detective Agency is Detective が.
+Ils forment une **question et une réponse**,  
+un **élément fondamental** d’une phrase japonaise.
 
-<img src="./media/image541.webp"
-style="width:1.774in;height:2.64107in" />
+---
 
-He is the Chief.
+Très bien. Voyons tout cela.
 
-<u>He has to be in every case. There can't be a sentence without が</u>, as we already know,
-<u>although sometimes you can't see him</u> because he's in disguise,
-just like Sherlock Holmes is sometimes in disguise.
+### Particule 「が」
 
-He also has powers that the other logical particles do not have.
+Le chef de l’agence des Détectives des Particules Logiques, c’est le détective **が**.
 
-<u>He can work in A-is-B sentences, that is, descriptive sentences, sentences that tell us what something is, what its qualities are.</u>
+<img src="./media/image541.webp" style="width:1.774in;height:2.64107in" />
 
-<u>The other particles can't do that.</u>
+C’est **le Chef**.
 
-They can only work in A-does-B sentences, that is, sentences with a verb
-engine.
+<u>Il doit être présent dans chaque affaire. Il ne peut pas y avoir de phrase sans 「が」</u>, comme nous le savons déjà,  
+<u>même si parfois on ne peut pas le voir</u> — parce qu’il est déguisé,  
+tout comme Sherlock Holmes l’est parfois.
 
-To put it another way, while Detective Ga works in the office with
-descriptive work, the other detectives only work on cases, on actual actions, on
-incidents, on verb-ending clauses.
+Il a aussi des pouvoirs que les autres particules logiques n’ont pas.
 
-So, let's look at them all at work on a verb-ending clause.
+<u>Il peut intervenir dans les phrases de type “A est B” — c’est-à-dire les phrases descriptives,  
+celles qui nous disent ce qu’est une chose ou quelles sont ses caractéristiques.</u>
 
-Each of them has its own specific questions.
+<u>Les autres particules ne peuvent pas faire ça.</u>
 
-Detective が asks the fundamental question: "Who did it?"
+Elles ne peuvent intervenir que dans les phrases de type “A fait B” — c’est-à-dire les phrases avec un verbe moteur.
 
-This is the fundamental question of any sentence, and for that reason, only Detective が's carriage can be black.
+Pour le dire autrement :  
+**alors que le détective が travaille aussi dans les bureaux sur les cas descriptifs**,  
+**les autres détectives ne travaillent que sur le terrain, sur les cas d’action**,  
+sur les **phrases avec un verbe à la fin**.
+
+---
+
+Voyons maintenant leur fonctionnement dans une phrase avec un verbe moteur.
+
+Chacun d’eux pose une question spécifique.
+
+🕵️‍♂️ Le détective **が** pose la question fondamentale :  
+**“Qui a fait ça ?”**
+
+C’est **la question essentielle** dans toute phrase,  
+et pour cette raison, **seule la voiture de が peut être noire** :
 
 <img src="./media/image266.webp" style="width:6.5in;height:1.22222in" />
 
-Because <u>the core of every sentence is "who did the action?"</u>
+<u>Parce que le cœur de chaque phrase est : “Qui a fait l’action ?”</u>
 
-So が asks, "Who was the actor? Who dunnit?" and that forms the core of
-the sentence.
+Donc 「が」 demande :  
+**“Qui est l’acteur ? Qui est le coupable ?”**  
+et cela forme **le noyau de la phrase**.
 
-The other logical particles ask other questions about the incident which
-give us
+Les autres particules logiques posent d'autres questions sur l’incident,  
+ce qui nous permet d’avoir **une image complète de l’événement**.
 
-a complete picture of the event.
+👉 Mais on ne verra pas forcément toutes ces particules dans une seule phrase.
 
-We won't usually see all of them in any one sentence.
+### Particules 「を」「に」「へ」
 
-### Particles を, に, へ
+<u>Le détective 「を」 pose la question : « À qui cela a-t-il été fait ? Qui a reçu l’action ? »  
+Le détective 「に」 demande : « Où est-il allé ? » ou « Où est l’arme ? »</u>
 
-<u>Detective を asks "Who was it done to? Who was the receiver of the
-action?" Detective に asks "Where did he go?" or "Where is the weapon?"</u>
+「に」 demande où quelqu’un ou quelque chose est allé, ou bien où il se trouve.
 
-に asks where someone or something went to or where it is.
+<u>Le détective 「へ」 demande : « Dans quelle direction est-il allé ? »</u>
 
-<u>Detective へ asks "In what direction did he go?"</u>
+C’est très proche de la question de 「に」, n’est-ce pas ?
 
-Now, this is very close to Detective に's question, isn't it?
+Mais on ne sait pas forcément **où** il est allé, donc la réponse pourrait être : nord, sud, est ou ouest,  
+<u>et c’est ce genre de question que 「に」 ne peut pas poser.</u>
 
-But we may not actually know where he went, so the answer to that
-question could be north, south, east or west, <u>and that's the kind of
-question that に can't ask.</u>
+Ou encore : « Il est allé en direction de la maison de Sakura » —  
+et ça, c’est très proche de ce que demande 「に」.
 
-Or it could be "He went in the direction of Sakura's house", and that's
-very close
+Donc, ils se chevauchent pas mal.
 
-to the question that に does ask.
+---
 
-So they overlap to quite a degree.
+### Particule 「で」
 
-### Particle で
+Regardons maintenant le détective 「で」.
 
-Now let's look at Detective で.
-
-<u>Detective で asks the question "Where was it done?" and the question "With what was it done? What was the weapon?"</u>
+<u>Le détective 「で」 pose la question : « Où cela a-t-il été fait ? » et « Avec quoi cela a-t-il été fait ? Quelle était l’arme ? »</u>
 
 <img src="./media/image832.webp" style="width:6.5in;height:3.36111in" />
 
-If we say "(zeroが)こうえんにいる", we're saying "(I) am in the park".
+Si l’on dit「(zeroが)こうえんにいる」, on dit : « (Je) suis dans le parc ».
 
-But if we want to say "(I) am *playing* <u>in</u> the park", we have to
-say  
-"(zeroが)こうえん<u>で</u>*あそんで*いる", because <u>to express that we are doing something in a place rather than
-just being there, we have to use で.</u>
+Mais si on veut dire : « (Je) *joue* dans le parc »,  
+on doit dire「(zeroが)こうえん<u>で</u>あそんでいる」,  
+car <u>pour exprimer qu’on fait quelque chose **dans** un lieu (et pas simplement qu’on s’y trouve), on doit utiliser 「で」.</u>
 
 <img src="./media/image718.webp" style="width:6.5in;height:3.58333in" />
 
-And <u>we also use で to express the means (in terms of a noun) by which
-we do something.</u>
+<u>On utilise aussi 「で」 pour exprimer le **moyen** (via un nom) par lequel on fait quelque chose.</u>
 
-So if we say "(zeroが)こえうんにいく", we're saying "(I) go to the
-park".
+Par exemple, 「(zeroが)こうえんにいく」 veut dire « (Je) vais au parc ».
 
-But if we say "(zeroが)バス<u>で</u>こうえんにいく", <u>we're saying the
-means by which we go to the park, in this case a bus.</u>
+Mais si l’on dit 「(zeroが)バス<u>で</u>こうえんにいく」,  
+<u>on précise le moyen utilisé pour aller au parc, ici : le bus.</u>
 
 <img src="./media/image696.webp" style="width:6.5in;height:3.59722in" />
 
-If we say that we knocked in a hammer with a nail or ate food with
-chopsticks, <u>we use で for the thing we did it with.</u>
+Si on dit qu’on a enfoncé un clou avec un marteau ou qu’on a mangé avec des baguettes,  
+<u>on utilise 「で」 pour l’outil ou l’objet avec lequel on a fait l’action.</u>
 
-If we say "*(zeroが)*にほんごをはなす", we're saying "(I) speak
-Japanese",  
-but if we say "*(zeroが)*にほんご<u>で</u>はなす", we're saying
+Si on dit 「(zeroが)にほんごをはなす」, on dit : « (Je) parle japonais »  
+mais si on dit 「(zeroが)にほんご<u>で</u>はなす」, on dit :
 
-"(I) speak with Japanese/<u>Japanese is the means by which</u> (I)
-speak".
+« (Je) parle **en japonais** / <u>le japonais est le moyen</u> par lequel je parle ».
 
-So this is equivalent in English to saying "I speak in Japanese", but as
-you can see, the Japanese construction is more logical because that actually is what
-we're doing, <u>we're speaking by the means of Japanese.</u>
+Cela équivaut en anglais à dire « I speak in Japanese »,  
+mais comme on peut le voir, la formulation japonaise est plus logique :  
+<u>on parle **par le moyen du japonais**.</u>
 
-The other question, of course, that <u>Detective に</u> can ask is  
-<u>"Who was the target of an action done to something else?"  
-</u>but we've already discussed that in the に lesson. *(Lesson 8)*
+---
 
-So this covers all the basic functions of the main logical particles,
-and as you can see, these are the particles that tell us what's going on in any Japanese
-sentence.
+L’autre question que peut poser le détective 「に」 est :  
+<u>« Qui était la cible d’une action faite à quelque chose d’autre ? »</u>  
+mais on en a déjà parlé dans la leçon sur 「に」 *(leçon 8)*.
 
-If we understand them, we can understand the sentence; if we don't
-understand them, we can't.
+---
 
-So if we get confused by the logical particles, which we will if we take
-the textbooks seriously, we'll have a lot of trouble understanding
-Japanese.
+Donc cela couvre toutes les fonctions de base des principales particules logiques,  
+et comme on peut le constater, ce sont **elles** qui nous disent ce qu’il se passe dans une phrase japonaise.
 
-<u>Don't confuse the particles and they won't confuse you.</u>
+👉 Si on les comprend, on comprend la phrase.  
+❌ Si on ne les comprend pas, on ne comprend pas la phrase.
+
+Et si on se laisse embrouiller par les particules logiques — ce qui risque d’arriver si on suit les manuels —  
+on va avoir du mal à comprendre le japonais.
+
+<u>Ne confondez pas les particules, et elles ne vous embrouilleront pas.</u>
 
 ## **9. The Subject of the Japanese Sentence & Expressing Desire: ほしい, たい, たがる**
 
-[<u>Lesson 9: How textbooks DESTROY your Japanese: No 1 Secret! +
-Expressing desire: hoshii, tai,
-tagaru</u>](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11)
+[<u>Lesson 9: How textbooks DESTROY your Japanese: No 1 Secret! + Expressing desire: hoshii, tai, tagaru</u>](https://www.youtube.com/watch?v=vk3aKqMQwhM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=11)
 
 ### The Subject and ego in Japanese vs English
 
-Japanese and English have very different world-outlooks. In some ways
-they are diametrically opposed. <u>English is a very ego-centric
-language.</u>
+Japanese and English have very different world-outlooks. In some ways they are diametrically opposed.  
+<u>English is a very ego-centric language.</u>
 
-And this isn't some kind of a moral statement: <u>I'm talking about
-grammar. English wants to have an "ego" as the main actor, the center of every
-sentence, if it possibly can.</u> Preferably "me", if not "me" then
-someone else, and if not a person then at least an animal.
+And this isn't some kind of a moral statement:  
+<u>I'm talking about grammar. English wants to have an "ego" as the main actor, the center of every sentence, if it possibly can.</u>  
+Preferably "me", if not "me" then someone else, and if not a person then at least an animal.
 
 It has to be some kind of "ego" actor.
 
-***Dolly seems to refer to Subject as the Actor sometimes and uses them
-interchangeably it seems, so just keep that in mind that by Actor she
-SHOULD mean Subject.** This use may become confusing later in the
-Passive/Receptive if you know some basic linguistics… but maybe just a
-“me” problem…*
+***Dolly seems to refer to Subject as the Actor sometimes and uses them interchangeably it seems, so just keep that in mind that by Actor she SHOULD mean Subject.**  
+This use may become confusing later in the Passive/Receptive if you know some basic linguistics… but maybe just a “me” problem…*
 
-<u>Japanese doesn't work like that at all. It's very happy to have
-non-sentient beings as the main actor of a sentence. You might call this
-a more animist way of looking at language.</u>
+<u>Japanese doesn't work like that at all. It's very happy to have non-sentient beings as the main actor of a sentence.  
+You might call this a more animist way of looking at language.</u>
 
-Now, this may sound rather abstract, but it's not abstract at all. Let's
-get into some concrete examples. I'm going to begin with my favorite
-example, and if you've heard it before, don't go away because we're
-going much deeper this time.
+Now, this may sound rather abstract, but it's not abstract at all. Let's get into some concrete examples.  
+I'm going to begin with my favorite example, and if you've heard it before, don't go away because we're going much deeper this time.
 
-My favorite example is: "わたしは<u>コーヒーが</u>すきだ."
+My favorite example is: **"わたしは<u>コーヒーが</u>すきだ."**
 
-Now, we can have the "わたし" or we can not have it *(or rather do not
-need to have it)*;
-
+Now, we can have the "わたし" or we can not have it *(or rather do not need to have it)*;  
 it will be understood whether we say it or not.
 
-<img src="./media/image236.webp"
-style="width:5.28646in;height:3.62691in" />
+<img src="./media/image236.webp" style="width:5.28646in;height:3.62691in" />
 
-What the textbooks and the schools and everybody else tells you is that
-this means
+What the textbooks and the schools and everybody else tells you is that this means:  
+**"I like coffee."**  
+And "I like coffee" may well be what we would say in English if we wanted to say something similar,  
+<u>but it's not what this sentence means.</u>  
+And if you've followed the course up to this point, you can see why it isn't.
 
-"I like coffee". And "I like coffee" may well be what we would say in
-English if we wanted to say something similar, <u>but it's not what this
-sentence means.</u> And if you've followed the course up to this point,
-you can see why it isn't.
+<u>The first and most important point here is – look where the が is.  
+The が is marking the coffee.  
+We know that the main actor</u> *(Subject in Active voice)*, <u>the doer or the be-er of a sentence, is always marked by が,  
+so we know that the main actor of this sentence is not "わたし" – "I", it is the coffee, which is marked by が.</u>
 
-<u>The first and most important point here is – look where the が is.
-The が is marking the coffee. We know that the main actor</u> *(Subject in Active voice)*, <u>the doer or the be-er of a sentence, is always marked by が</u>, so we know that the main actor of this sentence <u>is not "わたし"
-–"I"</u>, <u>it is the coffee, which is marked by が.</u>
+<img src="./media/image390.webp" style="width:4.88542in;height:3.21102in" />
 
-<img src="./media/image390.webp"
-style="width:4.88542in;height:3.21102in" />
+<u>"わたし" could have an invisible が after it, but in this case it can't</u>, because  
+<u>we already know what the が is – it's the coffee.  
+So the coffee is being or doing something.</u>
 
-<u>"わたし" could have an invisible が after it, but in this case it
-can't</u>, because
-
-<u>we already know what the が is, it's the coffee. So the coffee is
-being or doing something. In English</u> we are told that it is an "A <u>does</u> B" sentence,
+In English we are told that it is an "A <u>does</u> B" sentence,  
 but we only have to look at it to see that <u>it isn't</u>.
 
 <u>It ends with "だ"</u> – it's an "A <u>is</u> B" sentence, isn't it?
 
-<img src="./media/image732.webp"
-style="width:4.66259in;height:3.17858in" />
+<img src="./media/image732.webp" style="width:4.66259in;height:3.17858in" />
 
 <u>The coffee is "すき".</u>
 
-So, what does "すき" mean? <u>"すき" is a noun, and it's one of those
-adjectival nouns that we've talked about before.</u> So it's telling us
-something about the nature or condition of the coffee. In this case,
-<u>what it's telling us is that the coffee is pleasing. That's the core
-of the sentence: "Coffee is pleasing."</u>
+So, what does "すき" mean?  
+<u>"すき" is a noun, and it's one of those adjectival nouns that we've talked about before.</u>  
+So it's telling us something about the nature or condition of the coffee.  
+In this case, <u>what it's telling us is that the coffee is pleasing.  
+That's the core of the sentence: "Coffee is pleasing."</u>
 
 <img src="./media/image350.webp"
 style="width:5.38021in;height:3.5437in" />
 
-<u>The "わたしは", implicit or explicit, is telling us in whose case it
-is pleasing:</u>
+<u>The "わたしは", implicit or explicit, is telling us in whose case it is pleasing:</u>  
+"<u>As for me</u>, coffee is pleasing."  
+<u>Now, this is very very very important. Because if we don't know that, if we really believe that this sentence means "I like coffee", our grasp of が and を is completely messed up.</u>
 
-"<u>As for me</u>, coffee is pleasing." <u>Now, this is very very very
-important. Because if we don't know that, if we really believe that this
-sentence means  
-"I like coffee", our grasp of が and を is completely messed up.</u>
+<u>If the actor of this sentence was "わたし", it would have to be marked by が.  
+If the thing that the actor was acting upon, by liking it, was the coffee, then it would have to be marked by を.</u>
 
-<u>If the actor of this sentence was "わたし", it would have to be
-marked by が. If the thing that the actor was acting upon, by liking it, was the
-coffee, then it would have to be marked by を.</u>
+So we have two particles, and two most fundamental particles, completely confused in our mind.  
+We now believe that sometimes が can mark the object of the sentence instead of the subject,  
+the thing acted upon instead of the be-er or doer of the sentence.  
+And we now believe that the object of the sentence, the thing being acted on, can sometimes be marked by が instead of を.  
 
-So we have two particles, and two most fundamental particles, completely
-confused in our mind. We now believe that sometimes が can mark the
-object of the sentence instead of the
+<u>And none of this is true. It never can. That can never happen.  
+And if that could happen, Japanese would become chaos.  
+And that's exactly what it does become in the minds of many students.</u>
 
-subject, the thing acted upon instead of the be-er or doer of the
-sentence. And we now believe that the object of the sentence, the thing
-being acted on, can sometimes
+So, as we see in this sentence,  
+<u>"わたし" is the non-logical topic of the sentence. It's marked by は.  
+It's not the actor. It's not the subject.  
+"コーヒー" is not the object, which would be marked by を if it was.  
+It is the subject.  
+And "すき" is not a verb meaning "to like"; it's an adjective meaning "to be pleasing".</u>
 
-be marked by が instead of を. <u>And none of this is true. It never
-can. That can never happen. And if that could happen, Japanese would
-become chaos. And that's exactly what it does become in the minds of
-many students.</u>
-
-So, as we see in this sentence, <u>"わたし" is the non-logical topic of
-the sentence. It's marked by は. It's not the actor. It's not the subject. "コーヒー" is not the object, which would be marked by を if it
-was. It is the subject. And "すき" is not a verb meaning "to like"; it's an adjective meaning
-"to be pleasing".</u>
-
-So every single word in this sentence is being misdescribed by the
-standard explanation.
+So every single word in this sentence is being misdescribed by the standard explanation.
 
 And this kind of misunderstanding throws Japanese into complete chaos.
 
@@ -3340,50 +3318,39 @@ Once your understanding of the particles is messed up, it's messed up.
 
 But as it happens there are a lot.
 
-All kinds of different sentence structures in Japanese throw up this
-same misunderstanding.
+All kinds of different sentence structures in Japanese throw up this same misunderstanding.
 
-For example, if we say "ほんがわかる", or "わたしはほんがわかる", we're
-saying  
-<u>the book is understandable</u>, but the English texts tell you that
-this means "I understand the book", and in this case it's even less
-forgivable, because there isn't really an equivalent to "すき" in
-English, but there is an equivalent to "わかる".
+For example, if we say **"ほんがわかる"**, or **"わたしはほんがわかる"**,  
+we're saying <u>the book is understandable</u>,  
+but the English texts tell you that this means **"I understand the book"**,  
+and in this case it's even less forgivable, because there isn't really an equivalent to "すき" in English,  
+but there is an equivalent to "わかる".
 
-It means "understandable" or "clear".
+It means **"understandable"** or **"clear"**.
 
 <img src="./media/image1156.webp"
 style="width:4.02604in;height:3.65928in" />
 
-We could say "In relation to me, or just to me, the book is
-understandable", <u>and then we wouldn't be completely messing up what が does or thinking that a
-noun that should be marked by を can be marked by が, at random.</u>
+We could say "In relation to me, or just to me, the book is understandable",  
+<u>and then we wouldn't be completely messing up what が does or thinking that a noun that should be marked by を can be marked by が, at random.</u>
 
-So why, at least in this case, don't the schools and textbooks simply
-translate it as it really is?
+So why, at least in this case, don't the schools and textbooks simply translate it as it really is?
 
-"<u>To me, the book is understandable / Speaking of me the book is
-understandable</u>."
+"<u>To me, the book is understandable / Speaking of me the book is understandable</u>."
 
-<u>Because this prejudice for putting an ego at the center of every
-sentence is so strong that it takes precedence over learning Japanese correctly.</u>
+<u>Because this prejudice for putting an ego at the center of every sentence is so strong that it takes precedence over learning Japanese correctly.</u>
 
 And these are not just a few random cases.
 
-Later on, we're going to look at the potential form *(lesson 10)* and
-we're going to look at the receptive form *(lesson 13)*, which is
-misdescribed as passive, and both of them are going to throw up forms of
-this same problem.
+Later on, we're going to look at the potential form *(lesson 10)* and we're going to look at the receptive form *(lesson 13)*, which is misdescribed as passive, and both of them are going to throw up forms of this same problem.
 
-Since they are both fairly large subjects in themselves, I'm not going
-to talk about them now.
+Since they are both fairly large subjects in themselves, I'm not going to talk about them now.
 
 But let's talk about the way we desire things in Japanese.
 
 Let's talk about how Japanese handles desire.
 
-Whether we want something or want to do something,  
-how do we talk about this in Japanese?
+Whether we want something or want to do something, how do we talk about this in Japanese?
 
 ### Expressing desire with ほしい
 
@@ -3391,23 +3358,18 @@ Well, suppose we want something.
 
 Let's say "こねこがほしい".
 
-<img src="./media/image17.webp"
-style="width:4.81771in;height:3.33621in" />
+<img src="./media/image17.webp" style="width:4.81771in;height:3.33621in" />
 
 "こねこ" is a kitten: "こ/子" is child or small thing and "ねこ" is cat.
 
 And "ほしい" is translated in English as "want".
 
-Now, if you look at it, the first thing you can see is that <u>it's not
-a verb. It's an adjective.</u>
-
+Now, if you look at it, the first thing you can see is that <u>it's not a verb. It's an adjective.</u>  
 It ends in "い", not in "う".
 
-And the second thing you can see, which is the most important, is that
-<u>the が-marked actor of this sentence is not me, who wants the cat. It's the cat, who is wanted.</u>
+And the second thing you can see, which is the most important, is that <u>the が-marked actor of this sentence is not me, who wants the cat. It's the cat, who is wanted.</u>
 
-<img src="./media/image522.webp"
-style="width:3.29688in;height:3.00666in" />
+<img src="./media/image522.webp" style="width:3.29688in;height:3.00666in" />
 
 So, what does "ほしい" mean?
 
@@ -3415,24 +3377,15 @@ Well, quite simply, it means "is wanted". *Note: It is an adjective.*
 
 "In relation to me, the cat is wanted." *Note: わたしはねこがほしい.*
 
-And again, if we seriously believe that this means "I want a cat", we're
-thinking that
+And again, if we seriously believe that this means "I want a cat", we're thinking that  
+the が can mark the object of a sentence, the object of the action, the thing we're doing it to.
 
-the が can mark the object of a sentence, the object of the action, the
-thing we're
-
-doing it to.
-
-So again, <u>we're being confused about the role が plays in a sentence,
-we're confused about the role を plays in a sentence, because the cat
-should be marked by を if it meant</u>
-
+So again, <u>we're being confused about the role が plays in a sentence, we're confused about the role を plays in a sentence, because the cat should be marked by を if it meant</u>  
 "I want a cat".
 
 <u>And we're confused between the verbs and adjectives.</u>
 
-So again <u>Japanese becomes a strange guessing game in which particles
-and kinds of word can change their meaning at random.</u>
+So again <u>Japanese becomes a strange guessing game in which particles and kinds of word can change their meaning at random.</u>
 
 ### Expressing wanting to do something with たい
 
