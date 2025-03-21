@@ -937,1884 +937,2000 @@ L'utilisation que nous en avons faite jusqu’à présent – « Sakura marche �
 
 Nous l'avons utilisée ainsi parce que c'était le seul temps que nous connaissions.
 
-### Continuous actions and ている
+### Actions continues et ている
 
-If we want to say something more natural, like "Sakura is walking", what
-do we do?
+Si nous voulons dire quelque chose de plus naturel, comme « Sakura est en train de marcher », que faisons-nous ?
 
-Well, what do we do in English?
+Eh bien, que faisons-nous en français ?
 
-In English we say, don't we, "Sakura IS walking".
+En français, on dit : « Sakura EST en train de marcher ».
 
-We use the word "to be".
+Nous utilisons le verbe « être ».
 
-You can "BE walking".
+On peut « ÊTRE en train de marcher ».
 
-"Sakura IS walking"; "We ARE walking."
+« Sakura EST en train de marcher » ; « Nous SOMMES en train de marcher ».
 
-Fortunately, in Japanese we don't have all these different forms of the
-word "to be".
+Heureusement, en japonais, nous n'avons pas toutes ces formes différentes du verbe « être ».
 
-We use the same word every time, and the word is "いる".
+On utilise le même mot à chaque fois, et ce mot est « いる ».
 
-"いる" means "be" <u>in relation to animals and people</u>, and to make this continuous present tense, we always use "いる".
+« いる » signifie « être » <u>en relation avec les animaux et les personnes</u>, et pour former le temps présent continu, on utilise toujours « いる ».
 
-So, "Sakura is walking" – "さくらがあるいている".
+Donc, « Sakura est en train de marcher » → « さくらがあるいている »
 
-"Dog is eating" – "いぬがたべている"
+« Le chien est en train de manger » → « いぬがたべている »
 
 <img src="./media/image615.webp" style="width:6.5in;height:3.65278in" />
 
-Now, let's notice that in a sentence like "いぬがたべている,"
+Maintenant, remarquons que dans une phrase comme « いぬがたべている »,
 
-we have something we haven't yet seen, and that's a white engine.
+il y a quelque chose que nous n’avons pas encore vu : un **moteur blanc**.
 
-<u>A white engine is an element that could be an engine but in this case it's NOT the engine of this sentence. It's modifying, or telling us more about, one of the core elements of
-the sentence.</u>
+<u>Un moteur blanc est un élément qui pourrait être un moteur, mais qui, dans ce cas, ne l’est pas. Il modifie, ou apporte une précision sur l’un des éléments principaux de la phrase.</u>
 
-<img src="./media/image1041.webp"
-style="width:4.98438in;height:3.02824in" />
+<img src="./media/image1041.webp" style="width:4.98438in;height:3.02824in" />
 
-So, the core of this sentence is "いぬがいる" - "the dog is".
+Le cœur de cette phrase est « いぬがいる » – « le chien est là / existe ».
 
-But the dog isn't just existing – the dog is doing something.
+Mais le chien n’est pas simplement en train d’exister – il est en train de faire quelque chose.
 
-And that white engine tells us what it is doing.
+Et ce moteur blanc nous dit ce qu’il est en train de faire.
 
-It is "eating".
+Il est « en train de manger ».
 
-And we're going to see this white engine structure over and over again
-as we go deeper into Japanese.
+Et nous allons rencontrer cette structure de moteur blanc encore et encore à mesure que nous approfondirons notre apprentissage du japonais.
 
-And just as in English we don't say "the dog is eat", we use a special form of the verb that goes along with the verb of
-being.
+Et tout comme en français on ne dit pas « le chien est manger »,  
+on utilise une forme spéciale du verbe qui va avec le verbe « être ».
 
-So in English we say "is walking", "is eating".
+Ainsi, en français on dit : « est en train de marcher », « est en train de manger ».
 
-In Japanese we say "食べている/たべている", "歩いている/あるいている".
+En japonais, on dit : « 食べている / たべている », « 歩いている / あるいている ».
 
-Now, how do we form this "て-form”, which is the form we use for making
-the continuous present?
+Alors, comment forme-t-on cette **forme en て**, qui est la forme utilisée pour exprimer le présent continu ?
 
-With a word like "食べる/たべる", it's very easy indeed.
+Avec un verbe comme « 食べる / たべる », c’est très facile.
 
-All we have to do is take off the "る" and put "て" in its place.  
-たべる becomes たべて.
+Il suffit d’enlever le « る » et de le remplacer par « て ».  
+たべる devient たべて.
 
-The bad news is that with other verbs, we do have slightly different
-ways of attaching the  
-"て". Apart from the plain る-form, there are four other ways.
+La mauvaise nouvelle, c’est qu’avec d’autres verbes, il existe différentes manières de former la forme en て.
 
-The textbooks will say five, but in fact two of them are so similar that
-we can treat them as four.
+En plus de la forme simple en « る », il existe **quatre** autres manières d’attacher le « て ».
 
-And I've made a video on exactly what these ways are *(Lesson 5, so the
-next lesson).*
+Les manuels diront qu’il y en a cinq,  
+mais en réalité deux d’entre elles sont si proches qu’on peut les regrouper.
 
-And it makes it much simpler than most explanations.
+Et j’ai fait une vidéo sur ces différentes façons de faire *(leçon 5, donc la prochaine leçon)*.
 
-So it's very important to watch that so that you can learn
+Elle rend les choses bien plus simples que la plupart des explications.
 
-how to form the continuous present tense.
+Il est donc très important de regarder cette vidéo pour apprendre  
+comment former correctement le temps présent continu.
 
-The good news: it's perfectly regular.
+La bonne nouvelle : c’est parfaitement régulier.
 
-Once you know the ending of a verb you also know how to put the "て"
-onto it.
+Une fois que vous connaissez la terminaison d’un verbe,  
+vous saurez automatiquement comment lui ajouter « て ».
 
-The only one that's a bit tricky is る-ending verbs, but the video will
-explain that.
+Le seul cas un peu délicat concerne les verbes en « る »,  
+mais la vidéo expliquera cela clairement.
 
-### Past tense
+### Le passé
 
-So, how do we put things into the past tense?
+Alors, comment mettre une phrase au passé en japonais ?
 
-Fortunately that's very easy indeed.
+Heureusement, c’est très simple.
 
-<u>All we do is add "た" – that's the whole thing.</u>
+<u>Il suffit d’ajouter « た » – c’est tout.</u>
 
-So, "いぬがたべる" – "dog will-eat" / "いぬがたべた" – "dog ate".
+Par exemple :  
+« いぬがたべる » → « le chien mangera » / « いぬがたべた » → « le chien a mangé ».
 
-Now, there are different ways of attaching "た" to different kinds of
-verb, verbs with different endings, but the good news here is that they
-are exactly the same as the ways that you attach "て".
+Maintenant, il existe différentes façons d’ajouter « た » selon le type de verbe, en fonction de sa terminaison,  
+mais la bonne nouvelle, c’est que **ce sont exactement les mêmes règles que pour attacher « て »**.
 
-So once you've learned the ways that "て" attaches, you've also learned the ways that "た" attaches.
+Donc, une fois que vous avez appris comment former la forme en て,  
+vous saurez aussi former le passé en た.
 
-So if you watch that て-form video *<u>(Lesson 5)</u>*, you'll be able
-to do both the continuous present and the past.
+Autrement dit, si vous regardez la vidéo sur la forme en て *<u>(Leçon 5)</u>*,  
+vous serez capable de faire à la fois le **présent continu** et le **passé**.
 
-Now, there's one more thing about time expressions that is useful to
-learn now.
+---
 
-If we want to make it clear, when we say "私はケーキを食べる", that
-we're talking about
+### Les expressions temporelles
 
-a future event, we can say "明日/あした" (which means "tomorrow")
-"あしたケーキを食べる".
+Voici encore une chose utile à apprendre maintenant à propos des expressions de temps.
 
-That's all we have to do.
+Si nous voulons préciser qu’une phrase comme « わたしはケーキを食べる »  
+(par défaut : « Je mangerai du gâteau ») se réfère à un **événement futur**,  
+il suffit d’ajouter « 明日 / あした » (demain) au début :
 
-### Time expressions
+→ « あしたケーキを食べる »
 
-We just say "tomorrow" before we say the rest of the sentence, just as
-we do in English.
+Et c’est tout ce qu’il faut faire.
 
-"Tomorrow I'm going to eat cake" – "あした*(zeroが)*ケーキを食べる".  
-*Note: Sometimes I add zeroが even when Dolly does not say it in the
-transcript, BUT she shows it in the videos, I obviously only add it then
-if it is shown by her, I do not do it on my own…*
+« Demain, je mangerai du gâteau » → « あした*(zéroが)*ケーキを食べる »
 
-Now, "tomorrow" is what we call a "<u>relative</u> time expression"
-because it's relative to today.
+*Note : Parfois j’ajoute « zéroが » même si Dolly ne le dit pas dans le script,  
+mais uniquement lorsqu’elle le montre visuellement dans les vidéos.*
 
-Today is yesterday's tomorrow.
+« Demain » est ce qu’on appelle une **<u>expression temporelle relative</u>**,  
+car elle est relative à aujourd’hui.
 
-<img src="./media/image614.webp"
-style="width:6.32813in;height:3.35895in" />
+Aujourd’hui est le « demain » d’hier.
 
-And with all relative time expressions like that: yesterday, last week,
-next year, and
+<img src="./media/image614.webp" style="width:6.32813in;height:3.35895in" />
 
-so forth, times that are relative to the present time, we just do what
-we did then.
+Et pour toutes les expressions temporelles relatives comme :  
+hier, la semaine dernière, l’année prochaine, etc.,  
+on fait exactement comme en français.
 
-<u>We put the time expression at the beginning of the sentence and that puts that whole sentence into that time.</u>
+<u>On place l’expression temporelle au début de la phrase,  
+et elle donne le cadre temporel à toute la phrase.</u>
 
-However, when we have an "absolute time expression", an expression that
-is not relative to the present, such as Tuesday or six o'clock, then
-<u>we have to use "に"</u>.
+---
 
-Tuesday is "火曜日/かようび" and we may may say  
-"かようびに*(zeroが)*ケーキをたべる" – "On Tuesday (I) will eat cake."
+Cependant, lorsqu'on a une **expression temporelle absolue**  
+(c’est-à-dire qui n’est pas relative au présent), comme « mardi » ou « 6 heures »,  
+<u>il faut utiliser la particule « に ».</u>
+
+Par exemple, « mardi » se dit « 火曜日 / かようび ».
+
+Donc, on dira :  
+→ « かようびに*(zéroが)*ケーキをたべる » → « Mardi, (je) mangerai du gâteau »
 
 <img src="./media/image464.webp" style="width:6.5in;height:3.59722in" />
 
-The important thing here is that it can seem a bit complicated to have
-to work out, "Is the time absolute or relative?"
+Cela peut sembler compliqué de devoir se demander :  
+« Est-ce une expression relative ou absolue ? »
 
-And the good thing to know here is that it's not complicated at all, because it works exactly the same as English.
+Mais la bonne nouvelle, c’est que ce n’est **pas du tout compliqué**,  
+car cela fonctionne **exactement comme en anglais ou en français**.
 
-In English, we say, "Tomorrow I eat cake", "Next week, I have an exam",
-and so forth, <u>but when we use an absolute time expression</u> we say, "<u>On
-Monday</u> I will eat cake", "<u>At six o'clock</u> I have an exam"; if we're talking about a month
-we say, "<u>In July</u> I'm going to Tokyo".
+En français, on dit :  
+« Demain je mange du gâteau », « La semaine prochaine, j’ai un examen »  
+(u. sans préposition).
 
-Now, Japanese works in exactly the same way except that we don't have to
-remember
+<u>Mais lorsqu’on utilise une expression temporelle absolue</u>, on dit :  
+« <u>Le</u> lundi, je mange du gâteau »  
+« <u>À</u> six heures, j’ai un examen »  
+« <u>En</u> juillet, je vais à Tokyo »
 
-when we're using "on", when we're using "at' and when we're using "in".
+Le japonais fonctionne exactement de la même manière,  
+sauf qu’il n’y a pas besoin de retenir quand on utilise « à », « en », ou « le ».
 
-<u>In Japanese we use "に" every time.</u>
+<u>En japonais, on utilise toujours « に »</u>.
 
-But in English when we need one of those little words, "on", "in" or
-"at",  
-then we need "に" in Japanese.
+Donc en résumé :  
+→ Si en français ou en anglais vous utilisez « on », « in », ou « at »,  
+alors en japonais vous devez utiliser « に ».
 
-And when we don't, then we don't need "に" in Japanese.
+<u>Et si vous n’en utilisez pas, vous n’avez pas besoin de « に » non plus.</u>
 
-<u>English and Japanese are identical in that respect.</u>
+<u>À ce niveau-là, l’anglais (ou le français) et le japonais sont identiques.</u>
 
-<img src="./media/image195.webp"
-style="width:2.2388in;height:2.92631in" />
+<img src="./media/image195.webp" style="width:2.2388in;height:2.92631in" />
 
-So rather than sitting down to work out "Is this relative, or is this
-absolute?", <u>just think whether you need an "on", "in" or "at" in English, and if
-you do, you need "に" in Japanese.</u>
+Donc plutôt que de vous demander :  
+« Est-ce relatif ou absolu ? »,  
+<u>demandez-vous simplement si vous auriez besoin d’un « à », « en » ou « le » en français.  
+Si oui → utilisez « に »  
+Si non → n’utilisez pas « に »</u>
 
-And if you don't, you don't need "に" in Japanese.
+C’est vraiment aussi simple que ça.
 
-It's really as simple as that.
+---
 
-## **5. Verb Groups and the て-form**
+## **5. Groupes de verbes et la forme en て**
 
-[<u>Lesson 5: Japanese verb groups and the te-form. Verb groups 1, 2, 3
-made easy. Organic
-Japanese</u>](https://www.youtube.com/watch?v=GzEVLMDC8nw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=5)
+[<u>Leçon 5 : Les groupes de verbes japonais et la forme en て. Groupes 1, 2, 3 simplifiés – Organic Japanese</u>](https://www.youtube.com/watch?v=GzEVLMDC8nw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=5)
 
 こんにちは。
 
-Today we're going to talk about Japanese verb groups.
+Aujourd'hui, nous allons parler des groupes de verbes en japonais.
 
-Japanese verbs fall into three groups, and these don't matter except
-when we're going
+Les verbes japonais se divisent en trois groupes,  
+et cela n’a pas beaucoup d’importance… sauf lorsqu'on veut modifier la forme d’un verbe.
 
-to make some change in the form of the verb.
+Mais comme cela arrive assez souvent, il est important de comprendre ces trois groupes.
 
-But because we do that pretty often, it's important to understand the
-three groups.
 
-### Ichidan verbs
+### Verbes **ichidan**
 
-The first group of Japanese verbs is called ichidan verbs or "one-level"
-verbs.
+Le premier groupe de verbes japonais s'appelle les verbes **ichidan**, ou « verbes à un seul niveau ».
 
-Some people call them "る-verbs", which is a very silly name.
+Certaines personnes les appellent « verbes en る », ce qui est un nom assez maladroit.
 
-If you're going to call them anything like that, we should probably call
-them "いる/える verbs".
+Si on devait vraiment leur donner un nom comme ça, on devrait plutôt les appeler « verbes en いる / える ».
 
-They are the simplest and most basic kind of verb.
+Ce sont les verbes les plus simples et les plus basiques.
 
-<img src="./media/image542.webp"
-style="width:1.86709in;height:2.58891in" />
+<img src="./media/image542.webp" style="width:1.86709in;height:2.58891in" />
 
-When we want to make any change, we always do it the same way.
+Quand on veut changer leur forme, on le fait **toujours de la même manière**.
 
-<u>All we do is take the -る off the end and put on whatever we want to
-put on.</u>
+<u>Il suffit d’enlever le « る » final et de mettre ce que l’on veut à la place.</u>
 
-Ichidan verbs can only end with either -いる or -える, that's to say,  
-with one of the kana from the い-row or one of the kana from the え-row
-plus -る.<img src="./media/image905.webp"
-style="width:5.53646in;height:3.25612in" />
+Les verbes ichidan ne peuvent se terminer que par -いる ou -える,  
+c’est-à-dire par un kana de la rangée *い* ou de la rangée *え* suivi de « る ».
 
-### Godan verbs
+<img src="./media/image905.webp" style="width:5.53646in;height:3.25612in" />
 
-The second group of verbs is by far the largest and <u>any ending that a
-verb can have, verbs in this group can have.</u>
+---
 
-<img src="./media/image277.webp"
-style="width:1.51339in;height:2.94271in" />
+### Verbes **godan**
 
-Verbs always end with the う-sound, but not all う-kana can make the end
-of a verb, but a lot of them can and all of them can make godan verbs.
+Le deuxième groupe de verbes est **de loin le plus grand**,  
+et <u>toutes les terminaisons possibles d’un verbe peuvent exister dans ce groupe</u>.
 
-They are called godan verbs, or "five-level" verbs, for reasons that
-we'll see shortly, and as I say <u>they can end in any う-sound, including -いる or
--える.</u>
+<img src="./media/image277.webp" style="width:1.51339in;height:2.94271in" />
 
-Unlike ichidan verbs, <u>they can also end in -おる, -ある or -うる.</u>
+Les verbes se terminent toujours par un son en *う*,  
+mais tous les kana de la ligne *う* ne peuvent pas nécessairement finir un verbe.  
+Cela dit, beaucoup peuvent, et **tous peuvent faire partie des verbes godan**.
 
-So the only time we have any ambiguity is when we have a verb ending in
--いる or -える.
+On les appelle **verbes godan**, ou « verbes à cinq niveaux », pour une raison que nous verrons bientôt.  
+Et comme je l’ai dit, <u>ils peuvent se terminer par n’importe quel son en *う*, y compris -いる ou -える</u>.
 
-Most of those verbs are ichidan verbs, but there is a substantial
-minority
+Contrairement aux ichidan, <u>ils peuvent aussi se terminer en -おる, -ある ou -うる</u>.
 
-of いる/える-ending godan verbs.
+Donc la seule situation où l’on a une **ambiguïté**,  
+c’est quand un verbe se termine en -いる ou -える.
 
-It's not as difficult to differentiate them as you might think, and I've
-made [<u>a video</u>](https://www.youtube.com/watch?v=VDmaSJ4s6Qo) on
-that, although it's a little bit more advanced than this lesson.
+La majorité de ces verbes sont des ichidan,  
+mais il existe un nombre non négligeable de **verbes godan en -いる / -える**.
 
-### Irregular verbs
+Ce n’est pas aussi difficile à différencier qu’on pourrait le penser,  
+et j’ai fait [<u>une vidéo</u>](https://www.youtube.com/watch?v=VDmaSJ4s6Qo) à ce sujet,  
+même si elle est un peu plus avancée que cette leçon.
 
-The third group of verbs is irregular verbs, and the good news here is that there are only two of them.
+---
 
-<img src="./media/image575.webp"
-style="width:2.46451in;height:1.68408in" />
+### Verbes **irréguliers**
 
-You know those pages and pages of irregular verbs in your Spanish or
-French textbook?
+Le troisième groupe est celui des **verbes irréguliers**,  
+et la bonne nouvelle, c’est qu’il n’y en a que **deux**.
 
-Well, Japanese has just two.
+<img src="./media/image575.webp" style="width:2.46451in;height:1.68408in" />
 
-There are a couple of other verbs that are irregular in just one small
-respect, but very few.
+Vous vous souvenez des pages et des pages de verbes irréguliers dans vos manuels de français ou d’espagnol ?
 
-<u>The irregular verbs are くる (come) and する (do).</u>
+Eh bien, en japonais il n’y en a que deux.
 
-### The -て Form
+Il y a quelques autres verbes qui sont irréguliers sur un tout petit point,  
+mais ils sont très rares.
 
-So now that we know the three groups, we're going to take a look at how
-you make them
+<u>Les verbes irréguliers sont : くる (venir) et する (faire).</u>
 
-into the -て and -た form.
+### La forme en -て
 
-As I explained last week *(Lesson 4)*, we need those two forms for
-making the Japanese present and past tenses.
+Maintenant que nous connaissons les trois groupes de verbes, nous allons voir comment les transformer  
+en forme **-て** et **-た**.
 
-And they have a number of other uses too, which we'll learn as we go
-along with this course.
+Comme je l’ai expliqué la semaine dernière *(Leçon 4)*,  
+nous avons besoin de ces deux formes pour construire le présent continu et le passé en japonais.
 
-And as I demonstrated last week, ichidan verbs are always very easy.
+Et elles ont plusieurs autres usages que nous découvrirons au fil du cours.
 
-<u>You never do anything except take off the -る and put on whatever
-you're going to put on, in this case a て or a た.</u>
+Comme je l’ai montré la semaine dernière, les verbes **ichidan** sont toujours très simples.
 
-As for the godan verbs, they fall into five groups, as you would expect
-(五段/ごだん, five-level verbs), and I made a video about this a while
-ago.
+<u>Il suffit simplement d’enlever le « る » final et de mettre à la place ce que l’on veut : ici, un « て » ou un « た ».</u>
 
-So what I'm going to do is run that video right now, because it explains things pretty clearly.
+En ce qui concerne les **verbes godan**, ils se divisent en **cinq groupes**, comme on peut s’y attendre  
+(五段 / ごだん, signifie littéralement « à cinq niveaux »),  
+et j’ai réalisé une vidéo sur ce sujet il y a quelque temps.
 
-All right, roll the video.
+Donc ce que je vais faire maintenant, c’est diffuser cette vidéo, car elle explique les choses très clairement.
 
-Godan verbs have five kinds of possible ending – that's why they're
-called godan verbs:
+Allons-y, lançons la vidéo.
 
-five-level verbs.
+Les verbes **godan** ont cinq types de terminaisons possibles — c’est d’ailleurs pour cela qu’on les appelle godan :  
+les verbes à **cinq niveaux**.
 
-<img src="./media/image895.webp"
-style="width:3.92056in;height:2.72375in" />
+<img src="./media/image895.webp" style="width:3.92056in;height:2.72375in" />
 
-And although that seems a little bit difficult, it really isn't.
+Et même si cela semble un peu compliqué, ça ne l’est pas vraiment.
 
-We can combine two of the levels anyway, because they are so close that
-we only need to learn them once.
+On peut en fait regrouper deux de ces niveaux, car ils sont tellement proches  
+qu’on peut les apprendre ensemble sans difficulté.
 
-And I'm going to go through the main groups.
+Et je vais maintenant passer en revue les principaux groupes.
 
-#### The First Godan Group
+#### Premier groupe des verbes godan
 
-The first group is what I call the UTSURU/うつる verbs.
+Le premier groupe est ce que j’appelle les verbes **UTSURU / うつる**.
 
-Those are the verbs ending in -う, -つ and -る.
+Ce sont les verbes qui se terminent par **-う, -つ et -る**.
 
-The word うつる in Japanese – if you don't know it, now is a good time
-to learn it –
+Le mot « うつる » en japonais – si vous ne le connaissez pas, c’est le bon moment pour l’apprendre –  
+signifie « passer d’une chose à une autre », et c’est exactement ce que nous faisons ici :  
+nous faisons passer nos verbes d’une forme à une autre.
 
-うつる means to move from one thing to another, and that's exactly what
-we're doing here – moving our verbs from one type to another.
+Les verbes se terminant par -う, -つ et -る se transforment **tous de la même manière** en forme て.
 
-So the verbs which end in -う, -つ and -る all transform in the same way
-to the て-form.
+<u>On enlève le -う, -つ ou -る, et on le remplace par un petit « っ » suivi de « て »  
+(ou « た » dans la forme en た).</u>
 
-<u>We take off the -う, the -つ or the -る, and we replace it with a
-small -っplus て (or た in the た-form).</u>
+Par exemple :  
+- わらう (rire) → わらって (waratte)  
+- もつ (tenir) → もって (motte)  
+- とる (prendre) → とって (totte)
 
-So わらう - laugh, becomes わらって (Waratte);  もつ - hold, becomes もって (Motte);  and とる - take, becomes とって (Totte).
+Remarquez que le mot « うつる » contient le kana « つ » au milieu.
 
-Now, you'll notice that うつる has つ in the middle.
+<img src="./media/image967.webp" style="width:3.89063in;height:2.43975in" />
 
-<img src="./media/image967.webp"
-style="width:3.89063in;height:2.43975in" />
+Et la forme en て des verbes うつる se forme avec un petit っ suivi de て.
 
-And the て-form of the うつる verbs is formed by using a small っ plus
-that て.
+<u>C’est le **seul groupe** qui contient « つ »,  
+et c’est le **seul groupe** dont la terminaison en て utilise un つ (via le petit っ).</u>
 
-<u>It's the only group that has つ in it, and it's the only group that
-has a つ in the て-form ending.</u>  
-*Tip: you can type the small っ by typing t before a T-kana った (tta),
-or by X key + tsu. This also applies to “あ, い, う, え, お” kana - ぁ
-(X + a), ぃ (X + i)... Note also づ (typed - Du) and ぢ (Di) - irregular
-ず and じ kana forms. In case you ever need to type them, can happen.
-And ん is “nn”.*
+*Astuce : pour taper le petit っ au clavier, tapez un « t » avant une consonne T → った (tta),  
+ou utilisez la touche « X » + « tsu ».  
+Cela fonctionne aussi avec les petits kana : ぁ (X + a), ぃ (X + i), etc.  
+Notez aussi que づ (se tape « Du ») et ぢ (se tape « Di ») sont des formes irrégulières de ず et じ.  
+Et ん se tape « nn ».*
 
-So it's really easy to remember.
+C’est donc très facile à retenir.
 
-#### The Second Godan Group
+---
 
-The second group is what I call the NEW BOOM group.
+#### Deuxième groupe des verbes godan
 
-In Japanese when something is really taking off, when it's becoming
-popular, we call it a ブーム (BUUMU).
+Le deuxième groupe est ce que j’appelle le groupe **NEW BOOM**.
 
-That's an English word, isn't it?
+En japonais, lorsqu’une tendance explose, on dit que c’est un « ブーム » (*buumu*).  
+C’est un mot emprunté à l’anglais.
 
-Buumu, a New Buumu!
+Donc, j'appelle ce groupe **New Boom**  
+parce qu’on ne peut pas vraiment faire de mot japonais avec les kana **ぬ, ぶ et む**,  
+et ce que je veux que vous reteniez ici, c’est que <u>tous ces verbes se terminent par ce que j'appelle des sons « sourds » ou « mats » – ぬ, ぶ, む.</u>
 
-So, this group I call the New Boom group
+<img src="./media/image58.webp" style="width:4.80729in;height:2.71269in" />
 
-because there isn't a Japanese word that you can make out of ぬ, ぶ and
-む that I know of, and what I want you to notice about this group of verbs is that <u>they
-all end in what I would call a dull sound – ぬ, ぶ, む.</u>
+Ce ne sont pas des sons tranchants comme す, つ ou く,  
+ni des sons neutres comme る ou う.
 
-<img src="./media/image58.webp"
-style="width:4.80729in;height:2.71269in" />
+Ce sont des sons mats / étouffés – ぬ, ぶ, む.
 
-It's not a sharp sound like す, つ, く, and it's not a neutral sound
-like る or う.
+Et c’est important, parce que la terminaison de la forme en て est elle aussi un son mat.
 
-It's a dull sound – ぬ, ぶ, む (Nu, Bu, Mu).
+<u>La forme en て se termine par -んで, et la forme en た par -んだ.</u>
 
-And this is important because the ending is also a dull sound.
+Par exemple :  
+- しぬ (mourir), le seul verbe en -ぬ → しんで / しんだ  
+- のむ (boire) → のんで / のんだ  
+- あそぶ (jouer) → あそんで / あそんだ
 
-<u>The て-form ending is -んで, the た-form is -んだ.</u>
+Voici donc le groupe **New Boom**, les verbes à terminaison mate.
 
-So しぬ, <u>the only -ぬ ending verb</u>, becomes しんで / しんだ;  のむ - drink, becomes のんで / のんだ; あそぶ - play, becomes あそんで /
-あそんだ.
+Et comme seuls certains kana peuvent terminer un verbe,  
+ce groupe comprend **tous les sons mats**…  
+<u>à l’exception de ぐ (gu)</u>, que nous allons voir maintenant.
 
-So that's the New Boom group, the dull-ending verbs.
+#### Troisième et quatrième groupe des verbes godan
 
-And because only a limited number of the possible kana can be used as a
-verb ending, they include all the dull sounds <u>except for ぐ (Gu).</u>
+Je vous ai dit que deux des groupes pouvaient être combinés –  
+ce sont les groupes en **く** et **ぐ**.
 
-We'll come to that right now.
+<u>Pour former la forme en て d’un verbe en -く, on retire le -く et on ajoute -いて,  
+ou -いた dans la forme en た.</u>
 
-#### The Third & Fourth Godan Group
+Par exemple :  
+- あるく (marcher) → あるいて / あるいた
 
-I told you that two of the groups could be combined - and that is the く
-and ぐ group.
+Maintenant, si le -く est marqué par un **ten-ten** (〃), ce qui le transforme en -ぐ,  
+c’est exactement la même chose, sauf que le **て** final reçoit lui aussi un ten-ten.
 
-<u>To make the て form of a -く ending verb, we cut off the -く and add
--いて, or -いた in the た form.</u>
+<img src="./media/image510.webp" style="width:4.08854in;height:2.59678in" />
 
-So あるく - walk, becomes あるいて / あるいた.
+Ainsi :  
+- あるく → あるいて  
+- およぐ (nager) → およいで
 
-Now, if we have a〃(ten-ten) on that -く, to make it into a -ぐ,  
-it's exactly the same, except that there is also a ten-ten on the
-て-ending.
+Comme vous le voyez, les deux sont presque identiques.
 
-<img src="./media/image510.webp"
-style="width:4.08854in;height:2.59678in" />
+La seule différence, c’est que si le verbe d’origine a un ten-ten,  
+alors la forme en て en a un aussi.
 
-So あるく becomes あるいて, but およぐ - to swim, becomes およいで.
+→ あるく → あるいて  
+→ およぐ → およいで
 
-But, as you see, the two are more or less identical.
+---
 
-It's just that if there's a ten-ten on the original verb, there's a
-ten-ten on the て-form too.
+#### Cinquième groupe des verbes godan
 
-あるく, あるいて; およぐ, およいで.
+Et maintenant, il ne nous en reste plus qu’un seul : les verbes en **す**.
 
-#### The Fifth Godan Group
+<u>Les verbes qui se terminent en -す perdent le -す et prennent -して.</u>
 
-And now we just have one left, and that is す.
+Et si vous avez suivi la leçon précédente *(je ne sais plus laquelle, mais ce sera abordé)*,  
+vous aurez remarqué que nous appliquons ici une règle régulière :  
+le kana **す** se transforme en son équivalent sur la ligne **い**, donc en **し**.
 
-<u>And verbs ending in -す drop the -す and add -して.</u>
+<img src="./media/image489.webp" style="width:3.21354in;height:3.8716in" />
 
-As you will notice, if you have followed our last lesson *(Not sure
-which, but will be discussed),*  
-we are just doing that regular thing of shifting the す kana to its
-い-row equivalent, し.
+Par exemple :  
+- はなす (parler) → はなして  
+- Le verbe auxiliaire ます, qui rend les verbes **polis**, donne ました au passé.
 
-<img src="./media/image489.webp"
-style="width:3.21354in;height:3.8716in" />
+***Remarque : À chaque fois que Dolly utilise le mot “formal” pour です ou ます,  
+il faudrait en fait dire **poli**. En japonais, il y a une différence importante entre “formel” et “poli”.***
 
-So はなす - talk, becomes はなして; the ます helper verb, which turns
-verbs into formal *(polite)* verbs, in the past tense becomes ました.
+***Ces formes font partie du 丁寧語 (*keigo*, langage poli).  
+Donc il est plus exact de les appeler “**polies**” que “formelles”.***
 
-***Note: Whenever Dolly uses the term “formal” for です or ます, it
-should be POLITE instead, there is a difference between the two terms in
-Japanese, not sure why she did not bring this one up, but it is quite
-important to distinguish, if you look into their definitions,
-dictionaries mark them as polite.***
+Voilà, nous avons maintenant couvert tous les groupes de verbes godan.  
+Je n’avais pas l’air si jeune dans cette vieille vidéo ? 😄
 
-***They are part of the 丁寧語 (polite language). So it is more accurate
-to call them polite instead.***
+<img src="./media/image89.webp" style="width:3.70313in;height:2.14235in" />
 
-So now we have all the godan verbs. Didn't I look young in that old
-video?
+#### Les exceptions
 
-<img src="./media/image89.webp"
-style="width:3.70313in;height:2.14235in" />
+Passons maintenant aux exceptions.
 
-#### The Exceptions 
+<u>Il n’y en a que trois en tout : nos deux verbes irréguliers, et un petit verbe supplémentaire.</u>
 
-Now, we are just going to look at the exceptions.
+Et elles sont très simples :
 
-<u>There are only three altogether: our two irregular verbs and one
-other small one.</u>
+- くる (venir) → きて  
+- する (faire) → して
 
-And these are very simple. くる (come) becomes きて; する (do) becomes
-して.
+Et le verbe **いく** (aller) — puisqu’il se termine par -く,  
+on s’attendrait à ce qu’il devienne **いいて**, mais ce n’est pas le cas.  
+<u>Il devient いって.</u>
 
-And いく – the verb いく (to go) – because it ends in -く,  
-you would expect it to become いいて, but it doesn't, it becomes
-<u>いって</u>.
+<img src="./media/image1048.webp" style="width:3.11458in;height:3.36797in" />
 
-<img src="./media/image1048.webp"
-style="width:3.11458in;height:3.36797in" />
+Et ce sont les **seules** exceptions.
 
-And those are the only exceptions. So if you go over the video / *this
-lesson* a couple of times,  
-I think you’ll find it pretty easy to know exactly how to make the -て
-and -た forms in all cases.
+Donc si vous révisez la vidéo / *cette leçon* plusieurs fois,  
+vous verrez que c’est en réalité **assez simple** de savoir exactement comment former les formes en **-て** et **-た** dans tous les cas.
 
-## **6. Adjectives**
+## **6. Les adjectifs**
 
-[<u>Lesson 6: Japanese "Adjectives" - the real secret that makes them
-easy. What schools never
-teach.</u>](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6)
+[<u>Leçon 6 : Les « adjectifs » japonais – le vrai secret qui les rend faciles. Ce que les écoles n’enseignent jamais.</u>](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=6)
 
 こんにちは。
 
-Today we are going to talk about adjectives.
+Aujourd’hui, nous allons parler des adjectifs.
 
-Now, Japanese adjectives are not the same thing as English adjectives.
+Les adjectifs japonais ne sont **pas** la même chose que les adjectifs en français (ou en anglais).
 
-As we know, Japanese sentences come in three fundamental kinds, depending on the kind of engine they have.
+Comme nous le savons, les phrases japonaises se divisent en **trois types fondamentaux**,  
+selon le type de **moteur** qu’elles utilisent.
 
-<img src="./media/image864.webp"
-style="width:4.59375in;height:2.57417in" />
+<img src="./media/image864.webp" style="width:4.59375in;height:2.57417in" />
 
-We have the う-Train, verb sentences; the だ-Train, noun sentences; and
-the
+Nous avons :
 
-い-Train, which is the so-called adjectival sentences.
+- Le **train en う** : les phrases avec verbe (phrases d’action)  
+- Le **train en だ** : les phrases avec nom (phrases de type « A est B »)  
+- Le **train en い** : les phrases dites « adjectivales »
 
-<u>But the truth is that any one of the three kinds of engine can be
-used like an adjective.</u>
+<u>Mais en réalité, chacun des trois types de moteur peut être utilisé comme un adjectif.</u>
 
-<img src="./media/image1051.webp"
-style="width:2.53125in;height:2.16364in" />
+<img src="./media/image1051.webp" style="width:2.53125in;height:2.16364in" />
 
-So let's start off with the most obvious one, the one that's called
-"adjective" in English.
+Alors commençons par le plus évident, celui qu’on appelle « adjectif » en français.
 
-### い-train adjectives
+### Adjectifs du train en い
 
-A simple い-Train sentence is "ペンがあかい".  
-As you know, "あかい" doesn't mean "red", it means "is-red".
+Une phrase simple utilisant le **train en い** est : « ペンがあかい ».
 
-<img src="./media/image793.webp"
-style="width:4.07813in;height:2.74489in" />
+Comme vous le savez, « あかい » ne signifie pas « rouge »,  
+cela signifie « **est rouge** » ou « **rouge (en tant que prédicat)** ».
 
-Now, we can turn this black engine white and put it behind the pen.
+<img src="./media/image793.webp" style="width:4.07813in;height:2.74489in" />
 
-Now we have "あかいペンが".
+Maintenant, on peut transformer ce **moteur noir** en **moteur blanc**  
+et le placer **devant** le mot « ペン ».
 
-<img src="./media/image281.webp"
-style="width:3.75521in;height:2.73965in" />
+On obtient alors : « あかいペンが ».
 
-"あかいペン" means "is-red pen" or, as we say in English, "red pen".
+<img src="./media/image281.webp" style="width:3.75521in;height:2.73965in" />
 
-As you see, <u>this isn't a full sentence in itself any more because a
-white engine doesn't pull the train, it just tells us more about whatever it is sitting
-behind.</u>
+« あかいペン » signifie littéralement « **stylo qui est rouge** » ou, plus naturellement, « **stylo rouge** ».
 
-So "あかい", once it becomes a white engine, is just telling us more
-about
+Comme vous le voyez, <u>ce n’est plus une phrase complète,  
+car un **moteur blanc ne tire pas le train** – il se contente de donner des précisions sur ce qui est placé après lui.</u>
 
-the main car of the sentence, which is "ペン".
+Donc ici, « あかい », devenu moteur blanc, **décrit** simplement le wagon principal, qui est « ペン ».
 
-And if we want to make it into a full sentence, we have to have a new
-engine.
+Et si l’on veut en faire une phrase complète, il faut **un nouveau moteur**.
 
-So, let's take "ちいさい", which means "is-small".
+Par exemple, prenons « ちいさい », qui signifie « est petit ».
 
-"あかいペンがちいさい" – "The red pen is small". *(or I guess “is-red
-pen is-small”)*
+→ « あかいペンがちいさい » = « Le stylo rouge est petit ». *(littéralement : « le stylo-qui-est-rouge est-petit »)*
 
 <img src="./media/image119.webp" style="width:6.5in;height:3.56944in" />
 
-So that's simple enough.
+---
 
-### Using verbs like adjectives
+### Utiliser des verbes comme des adjectifs
 
-Now let's look at verbs.
+Regardons maintenant les **verbes**.
 
-Now, if you're worrying about な-adjectives, as they are called, don't
-worry.
+Et si vous vous inquiétez au sujet des soi-disant **adjectifs en な**, ne vous inquiétez pas.  
+<u>Ce sont en réalité des noms</u>, et nous en parlerons dans un instant.
 
-<u>They are nouns</u>, and we'll get to them in a minute.
+<u>Tout moteur en う (tout verbe), quel que soit son temps, peut être utilisé comme un adjectif.</u>
 
-<u>Any う-Engine, any verb, in any tense, can be used like an
-adjective.</u>
+<img src="./media/image478.webp" style="width:3.23732in;height:2.45313in" />
 
-<img src="./media/image478.webp"
-style="width:3.23732in;height:2.45313in" />
+Par exemple, on peut dire : « しょうじょがうたった ».
 
-So, we can say, "しょうじょがうたった".
+「うたった」 signifie « a chanté » — c’est la forme en た du verbe « うたう » (chanter).
 
-"歌った/うたった" means "sang".
+Donc :  
+→ « しょうじょがうたった » = « La fille a chanté »
 
-The word for sing is "うたう", so the た-form, as we know from our last
-lesson, is "うたった".
+<img src="./media/image279.webp" style="width:4.71354in;height:2.7823in" />
 
-"しょうじょがうたった" – "The girl sang", <img src="./media/image279.webp"
-style="width:4.71354in;height:2.7823in" />
+Et si on transforme ce moteur en moteur blanc,  
+et qu’on le place **devant** « しょうじょ », on obtient :
 
-and if we turn that engine white and put it behind the girl, we have "うたったしょうじょ" – "the girl who sang".
+→ « うたったしょうじょ » = « La fille qui a chanté »
 
-<img src="./media/image23.webp"
-style="width:4.08854in;height:3.1534in" />
+<img src="./media/image23.webp" style="width:4.08854in;height:3.1534in" />
 
-And of course, once again this isn't a sentence.
+Évidemment, ce n’est pas une phrase complète.  
+Mais on peut maintenant l’insérer dans n’importe quelle phrase, comme par exemple :
 
-But we can put in into any sentence we like, such as
-
-"うたったしょうじょがねている" – "the girl who sang is sleeping".
+→ « うたったしょうじょがねている » = « La fille qui a chanté est en train de dormir »
 
 <img src="./media/image1135.webp" style="width:6.5in;height:3.48611in" />
 
-<u>And this is terribly important because a lot of Japanese is
-structured this way. We can use entire verb-sentences as adjectivals if
-we want to, and this happens very often.</u>
+<u>Et c’est extrêmement important, car une grande partie du japonais est structurée de cette façon.  
+On peut utiliser des **phrases entières avec un verbe** comme s’il s’agissait d’un adjectif,  
+et cela arrive très souvent.</u>
 
-For example, "いぬがじしょをたべた" – "the dog ate the dictionary".
+Par exemple :  
+→ « いぬがじしょをたべた » = « Le chien a mangé le dictionnaire »
 
-<img src="./media/image668.webp"
-style="width:6.48958in;height:3.61017in" />
+<img src="./media/image668.webp" style="width:6.48958in;height:3.61017in" />
 
-We can turn this around to "じしょをたべたいぬが" – "the dog who ate the
-dictionary".
+On peut reformuler cette phrase en disant :  
+→ « じしょをたべたいぬが » = « Le chien qui a mangé le dictionnaire »
 
-<img src="./media/image968.webp"
-style="width:6.31771in;height:3.52807in" />
+<img src="./media/image968.webp" style="width:6.31771in;height:3.52807in" />
 
-Or we can say, "いぬがたべたじしょ" – "the dictionary that was eaten by
-the dog".
+Ou bien :  
+→ « いぬがたべたじしょ » = « Le dictionnaire que le chien a mangé »
 
-<img src="./media/image893.webp"
-style="width:6.19792in;height:3.41882in" />
+<img src="./media/image893.webp" style="width:6.19792in;height:3.41882in" />
 
-*Note: In Japanese, this is not a passive sentence obviously. It is just
-a bit hard to translate into English as it would be in Japanese. As can
-be seen, the Japanese parts are much simpler.*
+*Note : En japonais, ceci **n’est pas une phrase passive**.  
+C’est juste un peu difficile à traduire naturellement en français,  
+car la version japonaise est **beaucoup plus simple et directe**.*
 
-And then this can build into the full sentence,
-"じしょをたべたいぬがやんちゃだ".
+Et tout cela peut nous amener à construire la phrase complète :
 
-"やんちゃ" is a noun that means "naughty" or "bad", so, "the dog who ate
-the dictionary is bad".
+→ « じしょをたべたいぬがやんちゃだ »
+
+« やんちゃ » est un nom qui signifie « vilain », « turbulent » ou « désobéissant ».  
+Donc, cette phrase signifie :  
+→ « Le chien qui a mangé le dictionnaire est vilain / désobéissant ».
 
 <img src="./media/image77.webp" style="width:6.5in;height:3.54167in" />
 
-### Using adjectival-nouns as adjectives
+---
 
-This brings us to the noun-engine.
+### Utiliser les noms-adjectifs comme adjectifs
 
-If we just say "いぬがやんちゃだ", we have a simple noun sentence.
+Cela nous amène au moteur nominal — autrement dit, les phrases en **だ**.
 
-But we can turn this engine as well into a white engine and put it
-behind the dog.
+Si on dit simplement :  
+→ « いぬがやんちゃだ »  
+on a une phrase nominale simple : « Le chien est vilain. »
 
-But there is one change we have to make.
+Mais on peut aussi transformer ce **moteur noir** en **moteur blanc**,  
+et le placer **devant le nom** qu’il qualifie (ici « le chien »).
 
-<u>When we turn "だ" or "です" into a white engine, when we connect it
-to anything, it changes its form from "だ" to "な".</u>
+Mais il y a **un changement important** à faire.
+
+<u>Quand on transforme « だ » ou « です » en moteur blanc, pour le connecter à un nom,  
+sa forme change de « だ » à « な ».</u>
 
 <img src="./media/image752.webp" style="width:6.5in;height:3.27778in" />
 
-So we say "いぬがやんちゃだ", but we say "やんちゃないぬ",  
-which is the same as saying "やんちゃだいぬ" – "is-bad dog / the dog
-that is bad / the bad dog".
+Ainsi, on dit :  
+→ « いぬがやんちゃだ »  
+Mais on dira :  
+→ « やんちゃないぬ »  
+(l’équivalent adjectival de « le chien est vilain » → « le chien vilain »)
 
-So we can say "やんちゃないぬがねている" – "the bad dog is sleeping".
+Donc, on peut construire la phrase :  
+→ « やんちゃないぬがねている » = « Le chien vilain dort » / « Le vilain chien est en train de dormir »
 
 <img src="./media/image897.webp" style="width:6.5in;height:3.66667in" />
 
-<u>Now, the important thing to note here is that you can't do this with
-every noun. There are only some nouns that are frequently used in an adjectival
-way, that you can use in the way we showed here.</u>
+<u>Ce qu’il faut bien comprendre ici, c’est qu’on ne peut pas faire cela avec **tous les noms**.  
+Seuls certains noms sont régulièrement utilisés de manière adjectivale, comme on l’a montré ici.</u>
 
-These are what the textbooks call "な-adjectives", and it's a slightly
-confusing term, because as we see they are in fact nouns, <u>but they
-are a certain class of noun.</u>
+Ce sont ce que les manuels appellent des **« adjectifs en な »**,  
+même si ce terme peut prêter à confusion, car comme on l’a vu,  
+<u>ce sont en réalité des noms — mais d’une certaine **sous-classe de noms**.</u>
 
-*Note: Mark that “a certain class of noun”, they are NOT actual proper
-nouns. Just a subclass. They cannot be used alone like proper nouns
-(e.g. a subject). There are different names for them for that reason -
-Adjectival Nouns, な-adjectives, Adjectivals, Nominal Adjectives etc…*
+*Note : « Une certaine classe de noms » signifie que ce **ne sont pas** des noms propres.  
+Ils ne peuvent pas être utilisés seuls comme sujets par exemple.  
+C’est pour cela qu’ils sont parfois appelés : adjectifs en な, adjectifs nominaux, adjectivaux, etc.*
 
-*It is just that they mostly resemble a form similar to proper nouns and
-take a copula like them and so they can be considered to be (and likely
-are) a class of nouns, just not as proper nouns.*  
-<u>Can we use other nouns as adjectives? Yes, we can, but we use them in a somewhat different way and they
-aren't engines.</u>
+*Ils ressemblent souvent à des noms classiques et utilisent la copule « だ » comme eux,  
+donc on peut considérer qu’ils appartiennent à la catégorie des noms, mais pas exactement comme des noms standards.*
 
-<img src="./media/image296.webp"
-style="width:2.53125in;height:1.53179in" />
+<u>Peut-on utiliser d’autres noms comme adjectifs ? Oui, c’est possible,  
+mais on le fait d’une façon un peu différente, et ils ne jouent pas le rôle de moteur.</u>
 
-### The の car
+<img src="./media/image296.webp" style="width:2.53125in;height:1.53179in" />
 
-To explain this we have to introduce a new type of car for our train.
+### Le wagon の
 
-And this is the の car.
+Pour expliquer cela, nous devons introduire un **nouveau type de wagon** dans notre train.
 
-<u>の \[no\] is a very simple particle because it works exactly like
-apostrophe-s \['s\] in English.</u>
+Et c’est le **wagon の**.
 
-<img src="./media/image1098.webp"
-style="width:5.48438in;height:2.78467in" />
+<u>の [no] est une particule très simple, car elle fonctionne exactement comme l’apostrophe « 's » en anglais.</u>
 
-So, "さくらのドレス" means "Sakura's dress".
+<img src="./media/image1098.webp" style="width:5.48438in;height:2.78467in" />
 
-"わたしのはな/鼻" means "my nose". *Note: Or as shown, literally “Me’s
-nose”.*
+Par exemple :  
+→ 「さくらのドレス」 signifie « la robe de Sakura » (ou « Sakura's dress »)
 
-Luckily, we don't have to worry about things like "my" and "your" and
-"her" and "his" in Japanese; <u>we always just use "の".</u>
+→ 「わたしのはな / 鼻」 signifie « mon nez »  
+*Note : littéralement, comme le montre l’image, « le nez de moi » / « moi-no nez »*
 
-Now, because "の" is the possessive particle, it can be used in another,
-slightly different way.
+Heureusement, en japonais, on n’a pas besoin de se casser la tête avec des mots comme  
+« mon », « ton », « son », « leur »...  
+<u>On utilise simplement « の » pour tout cela.</u>
 
-At the beginning of my older videos, I always used to say,  
-"カワジャパのキュアドリです" – "(I am) KawaJapa's Cure Dolly". (\*です =
-だ)
+---
 
-<u>In other words, KawaJapa is the group or party or website that I
-belong to.</u>
+Et puisque « の » est la particule de possession, elle peut aussi être utilisée dans un autre sens, un peu différent.
 
-And we can use this more widely for defining the group or class to which
-anything belongs.
+Au début de mes anciennes vidéos, je disais toujours :
 
-So, "あかい" means "red" because we can turn the noun "あか" into the
-adjectival form "あかい".
+→ 「カワジャパのキュアドリです」  
+= « (Je suis) Cure Dolly de KawaJapa »  
+(ou littéralement : « KawaJapa's Cure Dolly »)
 
-<u>But we can't do that with all colors.</u>
+<u>Autrement dit, KawaJapa est le groupe, l’équipe ou le site auquel j’appartiens.</u>
 
-For example, "ピンクいろ".
+Et on peut utiliser cette forme plus largement pour définir **le groupe ou la catégorie à laquelle quelque chose appartient**.
 
-"いろ/色" means "color", and we say "ピンクいろ", that means "pink".
+Par exemple, 「あかい」 signifie « rouge » car on peut transformer le nom 「あか」 (le rouge)  
+en adjectif en ajoutant la terminaison 「い」 → 「あかい」.
 
-<u>But that doesn't have an い-form. And it doesn't count as an adjectival noun, a な-adjective, as they
-are called in English, either.</u>
+<u>Mais on ne peut pas faire ça avec toutes les couleurs.</u>
 
-So what we do with it is, we use "の".
+Par exemple : 「ピンクいろ」
 
-"ピンクいろのドレス” – "pink dress".
+「いろ / 色」 signifie « couleur », donc 「ピンクいろ」 veut dire « couleur rose ».
 
-And this means "<u>dress belonging to the class of pink things</u>".
+<u>Mais ce mot n’a pas de forme en い. Et il ne compte pas non plus comme un adjectif nominal (ou adjectif en な, comme on les appelle en français).</u>
 
-<img src="./media/image278.webp"
-style="width:4.73438in;height:2.82931in" />
+Alors, que fait-on dans ce cas ?  
+On utilise la particule **「の」**.
 
-*Note: Dolly uses Hiragana here for “Pink”. Normally it is written in
-Katakana, as a loan word.*
+→ 「ピンクいろのドレス」 = « une robe rose »
 
-If we want to say "Oscar the Rabbit", we say "ウサギのオスカル", which
-literally means
+Et cela signifie littéralement :  
+<u>« une robe appartenant à la catégorie des choses roses ».</u>
 
-"rabbit's Oscar", and what it means is "<u>Oscar who belongs to the
-class 'rabbit</u>' ".
+<img src="./media/image278.webp" style="width:4.73438in;height:2.82931in" />
 
-<img src="./media/image679.webp"
-style="width:4.96354in;height:2.81514in" />
+*Note : Dolly écrit ici “ピンク” en hiragana, mais normalement, puisque c’est un mot d’emprunt, on l’écrit en katakana.*
 
-"ゼルダのでんせつ" means "the legend of Zelda";
+---
 
-"でんせつのせんし" means "legendary warrior / <u>warrior who belongs to
-the class of legendary things</u>".
+Si on veut dire « Oscar le lapin », on dira :  
+→ 「ウサギのオスカル」 = « Oscar du genre lapin »
+
+Ce qui signifie littéralement :  
+<u>« Oscar, qui appartient à la catégorie des lapins ».</u>
+
+<img src="./media/image679.webp" style="width:4.96354in;height:2.81514in" />
+
+Autre exemple :
+
+→ 「ゼルダのでんせつ」 = « la légende de Zelda »
+
+→ 「でんせつのせんし」 = « le guerrier légendaire »  
+littéralement :  
+<u>« le guerrier appartenant à la catégorie des choses légendaires ».</u>
 
 <img src="./media/image388.webp" style="width:6.5in;height:3.26389in" />
 
-So we have four ways of forming adjectivals: <u>the three engines plus
-the の car.</u>
+---
 
-And using this we can make all kinds of sentences and they can become
-very complex, especially with verbal adjectives in which we can use
-whole complex sentences in an adjectival manner.
+Donc, nous avons **quatre façons de former des adjectivaux** :  
+<u>les trois types de moteurs (い, だ, う) + le wagon の.</u>
 
-And I'm going to do some
-[<u>worksheets</u>](https://learnjapaneseonline.info/2022/03/28/worksheets/)
-that will help us to get used to some of those more
+Avec cela, on peut construire toutes sortes de phrases, même très complexes,  
+surtout avec les adjectifs verbaux, où l’on peut intégrer **des phrases entières** en tant qu’adjectifs.
 
-complex sentences and I'll put them in the information section below
-[<u>this
-video</u>](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12)
-lesson.
+Et je vais créer quelques  
+[<u>fiches d’exercices</u>](https://learnjapaneseonline.info/2022/03/28/worksheets/)  
+qui nous aideront à nous entraîner avec ces phrases plus complexes.  
+Je les mettrai dans la section d’information en dessous de la  
+[<u>vidéo</u>](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12)  
+de cette leçon.
 
-Now, one thing you may be thinking is,  
-"Since some nouns are used as adjectives with 'な' and some with 'の',
-do I have to start learning lists of which ones go with 'の' and which
-ones go with 'な'?"
+---
 
-<img src="./media/image290.webp"
-style="width:3.16831in;height:3.07975in" />
+Maintenant, vous vous dites peut-être :  
+> « Puisque certains noms s’utilisent comme adjectifs avec 『な』 et d’autres avec 『の』,  
+> dois-je commencer à apprendre des listes de quels mots vont avec 『の』 et lesquels vont avec 『な』 ? »
 
-And my answer to that is, <u>I don't see any good reason to do so unless
-you are having to learn them for an exam.</u>
+<img src="./media/image290.webp" style="width:3.16831in;height:3.07975in" />
 
-Why not?
+Et ma réponse est :  
+<u>Je ne vois vraiment **aucune bonne raison** de faire cela, à moins que vous ne deviez les apprendre pour un examen.</u>
 
-Well, look at it logically.
+Pourquoi ?
 
-If you hear someone use them with either "の" or "な", you're going to
-know what they're saying.
+Eh bien, regardons ça de manière logique.
 
-If you use them yourself and you get it wrong, nobody is going to have
-any difficulty understanding what you're saying, and it's a very small
-and typical foreigner's mistake, and frankly it's the least of your
-worries at an early stage.
+Si vous entendez quelqu’un utiliser un mot avec 「の」 ou 「な」,  
+vous comprendrez parfaitement ce qu’il veut dire.
 
-If you're writing, you can of course look them up very easily.
+Et si **vous-même** utilisez le mauvais (par exemple 「の」 au lieu de 「な」),  
+personne n’aura de mal à comprendre ce que vous voulez dire.  
+C’est une toute petite erreur typique de débutant étranger,  
+et franchement, ce n’est vraiment **pas** une priorité à votre niveau.
 
-<u>As you use Japanese more, hear more Japanese, read more Japanese, you
-will pick up which ones are "の" and which ones are "な".</u>
+Si vous écrivez, vous pouvez bien sûr vérifier facilement sur internet ou dans un dictionnaire.
 
-And if you're not going to use Japanese very much, well, why do you need
-to know?
+<u>Et plus vous utiliserez le japonais, plus vous écouterez et lirez du japonais,  
+plus vous assimilerez naturellement quels mots vont avec 「の」 et lesquels avec 「な」.</u>
 
-To me, Japanese isn't a game of learning abstract information for no
-particular reason.
+Et si vous ne comptez pas utiliser beaucoup le japonais… alors, à quoi bon retenir tout ça maintenant ?
 
-It's a language that for the most part we can learn in a natural manner, and understanding its real structure helps us very greatly to do that.
+À mes yeux, le japonais n’est **pas** un jeu de mémorisation d’informations abstraites sans raison.
 
-*Note: If it is a bit too much to take, I always recommend checking the
-comments under the
-[video](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12).
-And obviously, rereading and taking it in smaller chunks. You can do it!
-＼(⌒▽⌒)*
+C’est une langue qu’on peut apprendre **de manière naturelle**,  
+et comprendre sa structure réelle nous aide énormément à y arriver.
 
-## **7. Negative Forms and Adjectives in Past Tense**
+---
 
-[<u>Lesson 7: Secrets of Japanese negative verbs, and Adjective
-"conjugations"</u>](https://www.youtube.com/watch?v=KIPhvGxp43c&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=7)
+*Note : Si cela fait un peu trop d’un coup, je recommande toujours de jeter un œil aux commentaires sous  
+[la vidéo](https://www.youtube.com/watch?v=iyVZlaEqU24&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=12).  
+Et bien sûr, relire tout ça en petits morceaux. Tu peux le faire ! ＼(⌒▽⌒)/*
 
-Today we're going to talk about negatives.
+## **7. Formes négatives et adjectifs au passé**
 
-And in order to do that we're going to have to introduce one of the
-fundamental secrets of Japanese that the schools and textbooks almost
-never tell you.
+[<u>Leçon 7 : Les secrets des verbes négatifs japonais, et les "conjugaisons" des adjectifs</u>](https://www.youtube.com/watch?v=KIPhvGxp43c&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=7)
 
-And it makes the whole of Japanese much much easier.
+Aujourd’hui, nous allons parler des **formes négatives**.
 
-But before we get to that, let's look at the fundamental basis of
-Japanese negatives.
+Et pour cela, nous allons devoir introduire l’un des secrets fondamentaux du japonais —  
+un secret que les écoles et les manuels **ne révèlent presque jamais**.
 
-### The adjective ない
+Et pourtant, cela rend toute la langue **beaucoup, beaucoup plus facile** à comprendre.
 
-<u>The fundamental basis of negatives is the adjective "ない".</u>
+Mais avant d’en arriver là, voyons d’abord **la base des formes négatives en japonais**.
 
-This adjective means "non-exist / not-be".
+---
 
-<img src="./media/image1005.webp"
-style="width:2.57292in;height:2.70833in" />
+### L’adjectif ない
 
-The word for "exist" for any object, any inanimate thing, the sky, the
-sea, the universe, a grain of rice, a flower, a tree, anything, is "ある".
+<u>La base fondamentale des phrases négatives en japonais, c’est l’adjectif 「ない」.</u>
 
-So, if we want to say, "There is a pen / A pen exists", we say
-"ペンがある".
+Cet adjectif signifie littéralement : **ne pas exister / ne pas être**.
 
-But if we want to say there isn't a pen, we say "ペンがない".
+<img src="./media/image1005.webp" style="width:2.57292in;height:2.70833in" />
+
+Le mot pour dire « exister » (pour les **objets inanimés** — le ciel, la mer, l’univers, un grain de riz, une fleur, un arbre, etc.) est 「ある」.
+
+Donc, si l’on veut dire :  
+→ « Il y a un stylo » ou « Un stylo existe », on dit :  
+→ 「ペンがある」
+
+Mais si l’on veut dire :  
+→ « Il n’y a pas de stylo », on dit :  
+→ 「ペンがない」
 
 <img src="./media/image606.webp" style="width:6.25in;height:3.46154in" />
 
-Now, why do we use a verb for being and an adjective for non-being?
+---
 
-Because this happens throughout Japanese.
+Alors, pourquoi utilise-t-on un **verbe** pour l’existence, et un **adjectif** pour la non-existence ?
 
-Whenever we DO something we use a verb.
+Parce que c’est ainsi que fonctionne le japonais, **partout dans la langue**.
 
-Whether we walk, or sing, or run, or anything – that's a verb.
+Quand on **fait** quelque chose, on utilise un verbe :  
+marcher, chanter, courir — ce sont des actions → donc des verbes.
 
-<u>But if we don't do it, then we attach "ない" to the verb and that
-becomes the engine of the sentence.</u>
+<u>Mais quand on ne fait **pas** quelque chose, on ajoute 「ない」 au verbe,  
+et c’est cette forme qui devient le moteur de la phrase.</u>
 
-So when we say we're <u>not</u> doing something, <u>we're not using a
-verb, we're using an adjective.</u>
+<u>Donc, quand on dit qu’on **ne fait pas** quelque chose,  
+on **n’utilise pas** un verbe… on utilise un **adjectif**.</u>
 
-Why is that?
+Pourquoi cela ?
 
-Because Japanese is very logical.
+Parce que le japonais est très logique.
 
-When we do something, an action is taking place.
+Quand une action a lieu → c’est un verbe.
 
-That's a verb.
+Quand aucune action n’a lieu → c’est un **état de non-action**,  
+et donc une **description**. C’est pourquoi on utilise un adjectif.
 
-But when we don't do it, no action is taking place and we are describing
-a state of non-action.
+---
 
-So, that's an adjective.
+Donc, pour dire « Il n’y a pas de stylo », on dit :  
+→ 「ペンがない」
 
-All right.
+Mais si on veut dire :  
+→ « Ceci **n’est pas** un stylo » — ce n’est **pas** la même chose, n’est-ce pas ?
 
-So, if we want to say, "There is no pen", we say "ペンがない."
+Alors, comment dit-on cela ?
 
-But what if we want to say, "This is not a pen"?
+Pour dire « Ceci est un stylo », comme on l’a vu :  
+→ 「これは (＝ ceci)… これはペンだ」
 
-That's not quite the same thing, is it?
+→ Littéralement : « En ce qui concerne ceci, = stylo » → « Ceci est un stylo »
 
-So, how do we say that?
+<img src="./media/image245.webp" style="width:5.01563in;height:3.04734in" />
 
-If we want to say "There is a pen", as we know, we say
-
-"これは ("これ" – "this")... これはペンだ".
-
-"As for this, pen = / As for this, it's a pen."
-
-<img src="./media/image245.webp"
-style="width:5.01563in;height:3.04734in" />
-
-*Note: In the video, Dolly makes a mistake and shows a black が car in
-ペンだ.  
-I fixed it through my “highly professional” skills in Paint (•̀o•́)ง…
-anyway here is her comment.*
+*Note : Dans la vidéo, Dolly fait une petite erreur et montre un wagon noir が dans « ペンだ »,  
+mais comme vous pouvez le voir dans l’image corrigée (merci Paint !), cela a été rectifié.*
 
 <img src="./media/image32.webp" style="width:6.5in;height:1.69444in" />
 
-But if we want to say, "This is not a pen", we say,
-"これは*(zeroが)*ペンではない".
+---
+
+Mais si l’on veut dire « Ceci **n’est pas** un stylo », on dira :  
+→ 「これは*(zéroが)*ペンではない」
 
 <img src="./media/image210.webp" style="width:6.5in;height:3.59722in" />
 
-So what does that mean?
+Alors, que signifie cette structure ?
 
-<u>Well, the "で" is the て-form of "だ" or "です".</u>
+<u>Le 「で」 est la forme en て du mot 「だ」 ou 「です」.</u>
 
-So we still have "これはペンだ" in the form of "これはペンで" and then
-we're attaching "ない".
+Donc, on a toujours la structure de base :  
+→ 「これはペンだ」 → mais sous la forme : 「これはペンで」
 
-So what we're saying is, "As for this, as for being a pen, it isn't /
-This is not a pen".
+Et ensuite, on y ajoute 「ない」.
 
-All right.
+Autrement dit, on dit littéralement :  
+→ « En ce qui concerne ceci, en ce qui concerne le fait d’être un stylo… il ne l’est pas »  
+→ → « Ceci n’est pas un stylo »
 
-### Negative forms of verbs
+### Formes négatives des verbes
 
-So now let's move on to the largest part of this question, which is
-verbs.
+Passons maintenant à la plus grande partie du sujet : **les verbes**.
 
-In order to put a verb into the negative, <u>we have to attach
-"ない", and we do this by attaching it to the あ-stem.</u>
+Pour mettre un verbe à la forme négative,  
+<u>il faut y attacher 「ない」, et pour cela, on l’attache à la base en あ du verbe.</u>
 
-<img src="./media/image483.webp"
-style="width:2.92188in;height:3.08222in" />
+<img src="./media/image483.webp" style="width:2.92188in;height:3.08222in" />
 
-What does that mean?
+Mais qu’est-ce que cela signifie ?
 
-Well, let's look at the stem system.
+Eh bien, parlons un peu du système des **radicaux** (ou **bases**) des verbes en japonais.
 
-The Japanese verb-stem system is the simplest, the most logical and the
-most beautiful
+Le système des radicaux des verbes japonais est **le plus simple, le plus logique et le plus élégant**  
+des systèmes de transformation verbale du monde.
 
-verb transformation system in this world.
+Il est **presque parfaitement régulier**.
 
-It's almost absolutely regular.
+Une fois que vous savez comment il fonctionne,  
+vous pouvez effectuer n’importe quelle transformation (à l’exception des formes en て et た, que vous connaissez déjà).
 
-Once you know how to do it, you can make any transformation (except for
+Mais les écoles et les manuels ne vous expliquent pas cela.
 
-the て- and た-form, which you already know).
+Au lieu de vous montrer cette logique fondamentale,  
+ils vous présentent chaque « conjugaison » (alors que ce ne sont pas vraiment des conjugaisons)  
+comme un **cas à part**, avec des règles différentes, qui semblent **totalement arbitraires**.
 
-But the schools and textbooks don't tell you this.
+Et parce qu’ils ne vous montrent pas la logique globale,  
+et qu’ils décrivent les changements **comme s’ils étaient faits en lettres romaines**, alors qu’en réalité ce sont des kana japonais,  
+ça donne une impression **faussement compliquée**.
 
-Instead of telling you this, they present each "conjugation", as they
-call it
+Les étudiants pensent vraiment qu’ils doivent apprendre **chaque cas séparément**  
+et mémoriser **des règles distinctes à chaque fois**.
 
-(and they aren't in fact conjugations)...
+Mais ce n’est **pas nécessaire du tout**.
 
-they present each one as a separate case
+Il suffit de connaître **le système des bases** (ou stems).
 
-with separate rules which appear to be random.
+Alors, voyons-le ensemble.
 
-And because they don't tell you the fundamental logic of the whole
-system, and because they describe the changes that take place as if they
-were really written in the Roman alphabet when they are written in kana,
-it really looks like that.
+Comme nous l’avons déjà appris, chaque verbe japonais se termine par l’un des kana de la **ligne en う** (う段).
 
-Students really think they have to treat each case as a separate case
+Et je vais maintenant retourner le tableau de côté,  
+pour une raison que vous comprendrez très vite.
 
-and learn separate rules in every case.
+Ces kana dans le cadre rouge sont ceux qui peuvent terminer un verbe.
 
-And you don't have to.
+Ce n’est **pas** tous les kana de la rangée *う*, mais c’est **la majorité**.
 
-You just have to know the stem system.
+On a donc des verbes comme :
 
-So let's look at it.
+- 「かう」 (acheter)  
+- 「きく」 (entendre / écouter)  
+- 「はなす」 (parler)  
+- 「もつ」 (tenir)  
+etc.
 
-As we've already learned, every verb ends in one of the う-row kana.
+Comme vous pouvez le voir, il y a **quatre autres façons possibles** dont un verbe pourrait se terminer.  
+Et chacune de ces quatre formes est utilisée — ce sont les **radicaux (ou bases) des verbes**.
 
-And I'm turning the chart on its side here for reasons you'll see in a
-moment.
+<img src="./media/image47.webp" style="width:5.35938in;height:4.64408in" />
 
-So these kana in the red box are the ones that can end a verb.
+---
 
-It's not every う-row kana, but it's most of them.
+Aujourd’hui, nous allons uniquement nous intéresser à la **base en あ**,  
+car c’est celle que l’on utilise pour former la **négation**.
 
-So we have verbs like "かう" (buy), "きく" (hear), "はなす" (speak),
-"もつ" (hold) etc.
+Pour former la base en あ,  
+on **déplace simplement le dernier kana** du verbe de la rangée *う* à la rangée *あ*.
 
-Now, as you can see, there are four other possible ways in which a verb
-could end.
+Par exemple :
 
-And each of those four ways is used, and they are called the verb-stems.
-
-<img src="./media/image47.webp"
-style="width:5.35938in;height:4.64408in" />
-
-Today we are only going to look at the あ-stem, because that's the one
-we need for the negative.
-
-So, to form the あ-stem,  
-we simply shift the last kana of the verb from the う-row to the あ-row.
-
-So "きく" (hear) becomes "きか", "はなす" (speak) becomes "はなさ", "もつ" (hold) becomes "もた", and so forth.
+- 「きく」 (entendre) → 「きか」  
+- 「はなす」 (parler) → 「はなさ」  
+- 「もつ」 (tenir) → 「もた」  
+etc.
 
 <img src="./media/image797.webp" style="width:6.5in;height:3.86111in" />
 
-There's only one exception in this system – and when I say that I mean
-the whole system, all the stems – there's only this one exception, which is that
+---
 
-<u>when a word ends in the う-kana the stem doesn't change to "-あ", it
-changes to "わ".</u>
+Il n’y a qu’**une seule exception** dans ce système —  
+et quand je dis ça, je parle du **système entier**, toutes les bases confondues.
 
-So the negative of "かう" is not "かあない", it's "かわない".
+Cette exception concerne les verbes qui se terminent par le kana **う** seul.
 
-And it's only in the あ-stem that we have this exception, so that's the
-only exception in
+<u>Dans ce cas, la base ne devient pas 「あ」, mais 「わ」.</u>
 
-the whole system, and you can see why it exists:
+Par exemple :
 
-"かあない" is not as easy to say as "かわない", is it?
+→ Le négatif de 「かう」 (acheter) **n’est pas** 「かあない」  
+→ mais bien **「かわない」**
 
-<u>All the others are perfectly regular.</u>
+Et c’est **la seule exception** de tout le système.  
+Et on peut facilement comprendre pourquoi :
 
-"きく" (hear) becomes "きかない" (not-hear); "はなす" (speak) becomes
-"はなさない" (not-speak); "もつ" (hold) becomes "もたない" (not hold),
-and so forth.
+「かあない」 est difficile à prononcer, alors que 「かわない」 est fluide.
 
-And as we already know, <u>with ichidan verbs, they only ever drop that
-"-る" and put on whatever we want to put on</u>, so "たべる" (eat) becomes "たべない"
-(not-eat).
+---
 
-And that's it.
+<u>Tous les autres cas sont parfaitement réguliers.</u>
 
-That's how we turn any verb negative.
+- 「きく」 → 「きかない」 (ne pas entendre)  
+- 「はなす」 → 「はなさない」 (ne pas parler)  
+- 「もつ」 → 「もたない」 (ne pas tenir)
 
-It's very, very simple.
+Et comme nous le savons déjà :
 
-### Negative forms of adjectives
+<u>Pour les verbes **ichidan**, il suffit toujours de retirer 「る」 et de mettre ce qu’on veut à la place.</u>  
+Donc :
 
-Now, what about adjectives? How do we make adjectives negative?
+- 「たべる」 (manger) → 「たべない」 (ne pas manger)
 
-Well, when we make a transformation to an adjective, <u>what we always do is we turn the "-い" at the end of it into
-"-く":</u>
+Et c’est tout !
 
-"あかい" (is-red) becomes "あかく"; "かわいい" (is-cute) becomes
+C’est comme ça qu’on transforme **n’importe quel verbe** en forme **négative**.
 
-"かわいく"; こわい (is-scary) becomes "こわく".
+C’est **très très simple**.
+
+---
+
+### Formes négatives des adjectifs
+
+Et les adjectifs alors ?  
+Comment fait-on pour les rendre négatifs ?
+
+Eh bien, lorsqu’on transforme un adjectif,  
+<u>on change toujours la terminaison 「い」 de fin en 「く」.</u>
+
+Par exemple :
+
+- 「あかい」 (est rouge) → 「あかく」  
+- 「かわいい」 (est mignon) → 「かわいく」  
+- 「こわい」 (est effrayant) → 「こわく」
 
 <img src="./media/image307.webp" style="width:6.5in;height:3.51389in" />
 
-And this is the way we make the て-form of adjectives: "あかく" becomes
-"あかくて".
+C’est de cette façon qu’on forme aussi la **forme en て** des adjectifs :
+
+→ 「あかく」 devient 「あかくて」
 
 <img src="./media/image950.webp" style="width:6.5in;height:3.44444in" />
 
-<u>And it's also the way we make the negative:</u> "あかい" becomes
-"あかくない" (not-red).
+<u>Et c’est également comme ça qu’on forme la **négation** :</u>
+
+→ 「あかい」 devient 「あかくない」 (n’est pas rouge)
 
 <img src="./media/image862.webp" style="width:6.5in;height:3.22222in" />
 
-Now interestingly, this -く is the opposite of what happens in the
-て-form, isn't it?
+---
 
-If a word ends in -く, in the て-form we turn that -く into -い.
+Fait intéressant : ce 「く」 est l’inverse de ce qui se passe avec la forme en て des **verbes**, n’est-ce pas ?
 
-<u>But in an adjective we turn the -い into -く.  
-</u>*Note: Dolly makes a little typo here, in the video, she writes
-かわいく as あわいく. I fixed it.*
+Quand un **verbe** se termine en 「く」, sa forme en て devient 「いて」 (par exemple : 「あるく」 → 「あるいて」)
 
-### Adjectives in the past tense
+<u>Mais avec un **adjectif**, on change le 「い」 final en 「く」.</u>
 
-If we want to put an adjective into the past tense, <u>we take off the
--い and use -かった.</u>
+*Note : Dolly fait une petite faute de frappe dans la vidéo, où elle écrit 「あわいく」 au lieu de 「かわいく」.  
+Je l’ai corrigée ici.*
 
-So "こわい" (is-scary) becomes "こわかった" (was-scary).
+### Les adjectifs au passé
 
-And because "ない" is also an い-adjective,  
-when we put that into the past we also say "なかった".
+Si on veut mettre un adjectif au passé,  
+<u>on enlève le 「い」 et on ajoute 「かった」.</u>
 
-So, if we want to say "Sakura runs", we say "さくらがはしる";  if we want to say "Sakura doesn't run", we say "さくらがはしらない";  if we want to say "Sakura ran (in the past)", we say "さくらがはしった"
-– because it's a godan verb;
+Par exemple :
 
-*Note: Notice the っ before た instead of just た, as given in Lesson 5
-Godan Verb Group 1.*  
-and if we want to say "Sakura didn't run (in the past)", we say
-"さくらがはしらなかった".
+- 「こわい」 (effrayant) → 「こわかった」 (était effrayant)
 
-"はしらない", and then we put "ない" into the past: "はしらなかった".
+Et puisque 「ない」 est aussi un adjectif en 「い」,  
+lorsqu’on le met au passé, on obtient également 「なかった」.
+
+---
+
+Donc :
+
+- Pour dire « Sakura court » → 「さくらがはしる」  
+- Pour dire « Sakura ne court pas » → 「さくらがはしらない」  
+- Pour dire « Sakura a couru » → 「さくらがはしった」 *(car c’est un verbe godan)*
+
+*Note : remarquez le petit 「っ」 avant 「た」 comme vu dans la Leçon 5 – Groupe 1 des verbes godan.*
+
+- Pour dire « Sakura n’a pas couru » → 「さくらがはしらなかった」
+
+Ici, on part de 「はしらない」 (ne court pas),  
+et on met 「ない」 au passé → 「なかった」 → 「はしらなかった」
 
 <img src="./media/image187.webp" style="width:6.5in;height:3.625in" />
 
-Now, as we all know.  
-"さくらがはしる" is rather unnatural Japanese, just as it's rather
-unnatural English.
+---
 
-We say "Sakura is running" in English, and in Japanese we say
-"さくらがはしっている".
+Comme on le sait, 「さくらがはしる」 est un peu étrange en japonais,  
+tout comme « Sakura court » peut sembler un peu raide en français.
 
-So if we want to put all that in the past, what do we do?  
-Well, all we have to do is put that "いる" into the past.
+En français on dit « Sakura est en train de courir »,  
+et en japonais on dira :
 
-So we say "さくらがはしっていた" – "Sakura was running".
+→ 「さくらがはしっている」 = « Sakura est en train de courir »
+
+Alors, comment mettre cela au passé ?
+
+Il suffit de mettre 「いる」 au passé :
+
+→ 「さくらがはしっていた」 = « Sakura était en train de courir »
 
 <img src="./media/image552.webp" style="width:6.5in;height:3.5in" />
 
-And if we want to say "Sakura wasn't running", we say
-"さくらがはしっていなかった".
+Et pour dire « Sakura n’était pas en train de courir », on dira :
 
-That "いる" is a simple ichidan verb, so we just drop the -る and put on
-た *(positive past)*  
-or ない *(negative)* and, in the past, なかった. *(since ない in the
-past becomes なかった)*
+→ 「さくらがはしっていなかった」
 
-<img src="./media/image3.webp"
-style="width:6.26563in;height:3.10138in" />
+「いる」 est un verbe ichidan :  
+donc pour le passer au passé ou à la forme négative, on enlève 「る」 et on ajoute 「た」 ou 「ない」.  
+Et comme on l’a vu, 「ない」 au passé devient 「なかった」.
 
-<u>I always say that Japanese is like Lego. Once you know the basic building blocks you can build anything. And there are almost no exceptions in Japanese.</u>
+<img src="./media/image3.webp" style="width:6.26563in;height:3.10138in" />
 
-### Exceptions
+---
 
-In the whole of what we've been talking about today there are really
-just two exceptions.
+<u>Je dis toujours que le japonais, c’est comme des Lego :</u>  
+Une fois qu’on connaît les **blocs de base**, on peut construire **n’importe quoi**.  
+Et il y a **presque aucune exception** en japonais.
 
-And I'm going to introduce those so that you know everything you need to
-know.
+---
 
-<u>The only real exception to every verb being made negative by adding
-"ない" is the verb "ます", which is a helper verb that makes words
-formal.</u>*(polite)*.
+### Les exceptions
 
-<u>We add it to the い-stem of a verb</u>, and we will look at the
-い-stem later, but I think
+Dans tout ce qu’on a vu aujourd’hui, il n’y a **vraiment que deux exceptions**.
 
-you can already guess what it is.
+Et je vais vous les présenter maintenant,  
+comme ça vous saurez **tout ce qu’il faut savoir**.
 
-So, "はなす" becomes "はなします", "きく" becomes "ききます" and so on.
+---
 
-When you put "ます" into the negative, it does not become "まさない", as
-you would expect
+<u>La seule véritable exception au fait que tous les verbes deviennent négatifs en ajoutant 「ない」,  
+c’est le verbe 「ます」</u> — c’est un **verbe auxiliaire** qui sert à rendre les phrases **polies**.
 
-– <u>it becomes "ません".</u>
+<u>On l’ajoute à la base en 「い」 d’un verbe</u> (on verra cette base plus tard,  
+mais vous pouvez sans doute déjà deviner ce que c’est).
 
-<img src="./media/image367.webp"
-style="width:2.28451in;height:3.05908in" />
+Par exemple :
 
-<u>Because it's formal, it's a bit old-fashioned and it uses the old
-Japanese negative "せん" instead of "ない".</u>
+- 「はなす」 (parler) → 「はなします」  
+- 「きく」 (écouter) → 「ききます」
 
-*Note: Dolly once again makes a typo here in the video, I fixed it
-again.*
+Mais, quand on veut rendre 「ます」 négatif,  
+on ne dit pas 「まさない」 comme on pourrait s’y attendre...
+
+<u>On dit 「ません」.</u>
+
+<img src="./media/image367.webp" style="width:2.28451in;height:3.05908in" />
+
+<u>Comme 「ます」 est une forme polie, elle est un peu plus ancienne,  
+et utilise l’ancienne négation japonaise 「せん」 au lieu de 「ない」.</u>
+
+*Note : Dolly fait encore une petite faute de frappe dans la vidéo, que j’ai corrigée ici aussi.*
 
 <img src="./media/image926.webp" style="width:6.5in;height:1.40278in" />
 
-The only other apparent exception is that "いい" , the adjective
-"いい/良い", which means "is-good", has an older form, "よい/良い",
-which is still used quite often.
+---
 
-And <u>when we make any transformation to "いい", it turns back to
-"よい"</u>, so in the past tense we don't say "いかった", <u>we say</u>
-"<u>よ</u>かった" – and if you've seen much anime you've probably heard
-this quite often.
+La seule autre exception apparente concerne l’adjectif 「いい / 良い」,  
+qui signifie « bon ».
 
-<img src="./media/image257.webp"
-style="width:2.96354in;height:3.11268in" />
+Il possède une forme plus ancienne, 「よい / 良い」, qui est encore souvent utilisée.
 
-"よかった", literally "(zeroが)よかった" – "(It) was good / That turned
-out well / That's great".
+<u>Et lorsqu’on transforme 「いい」, il redevient 「よい」</u>.
 
-And if you want to say something is not good, you don't say "いくない",
-<u>you say</u> "<u>よ</u>くない".
+Donc, au passé, on ne dit pas 「いかった」…
 
-And those are the only exceptions.
+<u>On dit 「よかった」</u> – et si vous regardez beaucoup d’anime, vous l’avez probablement entendu souvent !
 
-*Note: I recommend reading [**<u>Morg’s
-comments</u>**](https://discord.com/channels/617136488840429598/1258805073312747611/1258812581720625163)
-about ない in* [**<u>this Discord
-thread</u>**](https://discord.com/channels/617136488840429598/1258805073312747611)
-*on MoeWay.  
-It touches on how there are two ないs, and that adjetival ない is not
-the same as the verbal ない.  
-In verbs, the ない is apparently an auxiliary verb, not the same as the
-ない/無い in adjectives.*
+<img src="./media/image257.webp" style="width:2.96354in;height:3.11268in" />
 
-## **7.5. Conjugation**
+→ 「よかった」 = (zéroが) よかった → « C’était bien / c’était bon / ça s’est bien passé »
 
-[<u>Japanese conjugation made easy! The super-simple key to all
-conjugations.</u>](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
+Et si vous voulez dire que quelque chose **n’est pas bon**,  
+vous ne dites pas 「いくない」…
 
-Today we are going to talk about Japanese conjugation.
+<u>Vous dites 「よくない」</u>
 
-Which particular conjugation?, you may ask.
+---
 
-Well, all of them.
+Et ce sont **les seules vraies exceptions**.
 
-Except for the た and て form, which we will discuss in a different
-video *(Lesson 81)*.
+---
 
-Why are we dealing with them all at once?
+*Note : Je recommande de lire les [**<u>commentaires de Morg</u>**](https://discord.com/channels/617136488840429598/1258805073312747611/1258812581720625163)  
+dans [**<u>ce fil Discord</u>**](https://discord.com/channels/617136488840429598/1258805073312747611) sur MoeWay.
 
-Because we can.
+Cela explique qu’il existe **deux ない** distincts :  
+le ない adjectival, et le ない verbal (auxiliaire).  
+Dans les verbes, 「ない」 est apparemment un **auxiliaire verbal**,  
+différent du 「ない / 無い」 utilisé comme adjectif.*
 
-Because Japanese conjugation all works the same way.
+## **7.5. Conjugaison**
 
-It's very simple, very logical and very consistent, and very very easy
-to understand.
+[<u>La conjugaison japonaise simplifiée ! La clé super simple pour toutes les formes.</u>](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
 
-However, when we look in the textbook, we get the impression of lots of
-different rules
+Aujourd’hui, nous allons parler de la **conjugaison japonaise**.
 
-and forms that you have to learn for each particular conjugation.
+Quelle conjugaison en particulier, me demanderez-vous ?
 
-Why is that?
+Eh bien… **toutes**.
 
-Why do the textbooks make it seem so complicated when it's actually so
-very simple?
+Sauf les formes en 「た」 et 「て」, que nous verrons dans une autre vidéo *(Leçon 81)*.
 
-Two reasons.
+Pourquoi parler de **toutes les conjugaisons** en une seule fois ?
 
-The first is that they insist on this <u>European concept</u> of
-conjugation.
+Parce que… **on peut le faire**.
 
-Actually, what we are doing is not conjugation at all.
+Parce qu’en japonais, la conjugaison fonctionne **toujours de la même manière**.
 
-*If you truly love reading, there’s a VERY long, [<u>interesting
-discussion</u>](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg)
-about this under Lesson 13, so it depends on you how you refer to it,
-calling it conjugation is okay, especially when it is called as such
-mostly so at least familiarise yourself with it.*
+C’est très simple, très logique, très cohérent — et **vraiment très facile à comprendre**.
 
-###### Just one of my rambling terminology notes and some other ramblings… (click on the arrow to expand)
+---
 
-*Note: Linguistically it could be argued that there indeed is something
-like conjugation in Japanese, but it seems to be quite unlike European
-languages, which is likely why Dolly avoids it, so as not to make us
-interpret it like that and be confused. As to why most sources call it
-conjugation.*
+Mais quand on ouvre un manuel, on a l’impression qu’il existe **plein de règles différentes**,  
+et qu’il faut les apprendre **séparément** pour chaque conjugaison.
 
-*Again, take this not as a definitive statement, it is just to dodge
-some associations that come from the word “conjugation” in terms of
-European languages, since there is a form of conjugation in Japanese,
-just like Adjectival Nouns are basically nouns, BUT not proper nouns
-(though that is just 1 model out of many).  
-This is to just show that there are multiple ways of looking at things
-and it is not strictly black n’ white, it is a model, and since you
-cannot explain everything at once, you simplify some things.*
+Pourquoi cela ?
 
-*---*
+Pourquoi les manuels rendent-ils tout cela si compliqué, alors que c’est en réalité si simple ?
 
-*Though, keep in mind that Dolly sometimes does get a bit too negative
-towards textbooks (while some are valid, textbooks aim for something
-different and as long as any source helps you start massive immersion it
-is good) and sometimes frames herself as “the best way” to acquire
-grammar or such click-baity titles on some of her videos, I do not agree
-with that mindset/presentation of hers and would take it with a grain of
-salt. Since Dolly uses simple explanations to make it easy to grasp,
-some stuff she says is simplified and uses it to fit her model, and
-sometimes she is at least slightly inaccurate/wrong, at least from some
-of the examples I heard being discussed on the internet and in certain
-Discords by people who seemed to have some deeper understanding of
-Japanese though I will not make any conclusions since I am nowhere near
-to be an authority on anything Japanese-related or to reach such
-conclusions on my own.*
+Deux raisons :
 
-*If you want to know why check [<u>this MoeWay Discord
-discussion</u>](https://discord.com/channels/617136488840429598/1170582570161950752).
-**So do not take Dolly as gospel but just as a useful way to attain
-Japanese basics that push you into immersion = what truly matters.**  
----*
+1. La première, c’est qu’ils insistent sur une <u>notion européenne</u> de « conjugaison ».
 
-*My explanations are just my guesses and how I personally understand
-stuff, but they are definitely not fully accurate either anyway since I
-am not a linguist or such (at least not yet and not for a LONG time
-lol), so obviously what I say is also likely not entirely correct and
-may be wrong/incomplete/simplified (which is why I want to be notified
-of everything I say wrong if you notice).*
+<u>En réalité, ce que nous faisons ici n’est **pas** vraiment de la conjugaison.</u>
 
-*But if the claims are true and Dolly is indeed wrong in at least some
-cases/partially, that is still alright mostly since Dolly is here to
-just introduce the very basics and there it does not matter too much
-since it can be “fixed” through immersion. Dolly simply serves to push
-you into immersing rather than show you full Japanese, full Japanese
-cannot be learnt, no language can… it can only be acquired through a
-massive consumption and use of the natural, native language.  
----*
+*Si vous aimez vraiment lire, il y a une **discussion TRÈS longue et <u>intéressante</u>**  
+sur ce sujet sous la vidéo de la Leçon 13.  
+C’est à vous de décider si vous voulez appeler cela de la « conjugaison » —  
+ce n’est pas un problème, surtout que ce terme est très répandu.  
+Mais il est utile de se familiariser avec les nuances de cette définition.*  
 
-*In linguistics and grammar, things are not simple and so if you want to
-explain it simply, you must sacrifice some accuracy for the sake of
-simplification. Just keep in mind that things get more complex as you
-dive deeper and I would take Dolly as just the basis rather than a 100%
-correct assessment of Japanese since that probably is not even possible
-unless you use 100% native-Japanese advanced linguistics sources and
-even there are differentiating opinions on some stuff, so it all depends
-on the model / focus.*
+###### Juste une de mes longues notes sur la terminologie, et quelques autres réflexions... (cliquez sur la flèche pour développer)
 
-### Intro to Conjugation
+*Note : D’un point de vue linguistique, on pourrait dire qu’il y a bien quelque chose qui ressemble à de la conjugaison en japonais,  
+mais cela ne ressemble **pas du tout** à ce qu’on trouve dans les langues européennes.  
+C’est probablement pour cela que Dolly évite ce terme, afin de **ne pas induire en erreur** ceux qui le comprendraient à l’européenne.  
+Cela explique pourquoi la plupart des sources l’appellent quand même "conjugaison".*
 
-*This is what Dolly says in her book “Unlocking Japanese” about
-Conjugation, so just keep it in mind:*
+*Encore une fois, ce n’est **pas une affirmation définitive**, c’est juste une façon d’**éviter certaines associations** mentales liées au mot "conjugaison" dans les langues européennes.  
+Car, oui, il existe une certaine forme de conjugaison en japonais, **tout comme** les adjectifs en 「な」 sont en fait des noms — mais **pas des noms propres** (ce n’est qu’un modèle parmi d’autres).  
+C’est juste pour montrer qu’il existe **plusieurs façons d’interpréter** la grammaire, et que **rien n’est strictement noir ou blanc**.  
+Il s’agit ici d’un **modèle explicatif**, et comme on ne peut pas tout enseigner d’un coup, on simplifie certaines choses.*
+
+---
+
+*Néanmoins, il faut garder à l’esprit que **Dolly se montre parfois un peu trop critique envers les manuels** (même si certaines critiques sont valables).  
+Les manuels ont **un objectif différent**, et tant qu’une méthode vous pousse vers une immersion massive, **c’est une bonne méthode**.*
+
+*Il faut aussi noter que Dolly **se présente parfois comme “la meilleure méthode”** pour apprendre la grammaire, avec des titres parfois "clickbait".  
+Je **ne partage pas toujours cet état d’esprit**, et je vous encourage à prendre cela avec un peu de recul.  
+Comme elle simplifie beaucoup pour rendre les choses plus accessibles, **certaines explications sont approximatives**  
+ou peuvent être légèrement inexactes, comme l’ont souligné certains utilisateurs expérimentés sur Internet et Discord.*
+
+*Je ne tire aucune conclusion moi-même, car je ne suis **pas une autorité** en matière de langue japonaise.*
+
+*Si cela vous intéresse, vous pouvez consulter cette discussion sur Discord à ce sujet :  
+[**<u>Discussion MoeWay</u>**](https://discord.com/channels/617136488840429598/1170582570161950752).*
+
+**Ne prenez donc pas Dolly comme la vérité absolue**,  
+mais plutôt comme un **bon point de départ pour entrer dans le japonais**  
+et **vous lancer dans l’immersion**, qui est ce qui compte **vraiment**.
+
+---
+
+*Mes propres explications sont basées sur mes intuitions et mon niveau de compréhension actuel.  
+Mais elles ne sont **pas forcément exactes** non plus, car je ne suis **ni linguiste**, ni professeur, (du moins pas encore, et ce n’est pas pour bientôt, lol).  
+Donc ce que je dis peut aussi être **faux, incomplet ou simplifié**.  
+Et si vous voyez une erreur dans mes propos, n’hésitez **surtout pas à me le dire**.*
+
+*Mais si certains critiques ont raison et que Dolly a tort ou partiellement tort sur certains points, ce n’est **pas très grave** dans le fond.  
+Car Dolly est là pour **introduire les bases**, et à ce niveau, **cela suffit largement**,  
+puisque les choses peuvent être "corrigées" naturellement **grâce à l’immersion**.*
+
+*Dolly n’est pas là pour vous apprendre le japonais complet —  
+car aucun manuel ne le peut.  
+**Aucune langue ne peut être “apprise” complètement.**  
+Elles s’**acquièrent** uniquement par une **consommation massive** et un **contact régulier** avec la langue native.*
+
+---
+
+*En linguistique et en grammaire, les choses ne sont **jamais simples**.  
+Et si on veut expliquer les choses **de façon simple**,  
+il faut **sacrifier un peu de précision**.  
+Gardez juste à l’esprit que **plus vous irez loin**, plus ce sera complexe,  
+et que Dolly ne doit être considérée que comme **une base**,  
+pas comme une description 100 % exacte du japonais — ce qui n’est probablement même **pas possible** à 100 %,  
+à moins d’utiliser uniquement des sources **linguistiques japonaises avancées**,  
+et même dans ce cas, les spécialistes **ne sont pas toujours d’accord**.  
+Tout dépend du modèle et du point de vue adopté.*
+
+### Introduction à la « conjugaison »
+
+*Ceci est ce que Dolly dit dans son livre “Unlocking Japanese” à propos de la conjugaison. À garder en tête :*
 
 <img src="./media/image395.webp" style="width:6.5in;height:2.68056in" />
 
-<u>What we are doing all the time is attaching a simple helper verb – or
-helper adjective or helper noun – to the stems of the verb.</u>
+<u>Ce que nous faisons tout le temps, c’est attacher un **verbe auxiliaire**, ou un **adjectif auxiliaire**, ou un **nom auxiliaire**, à la **base (stem)** du verbe.</u>
 
-And once we see how that works, it becomes very, very simple and easy to
-understand.
+Et une fois qu’on comprend ce fonctionnement, tout devient **très très simple** à suivre.
 
-The other problem is that they spend a lot of time explaining the
-changes that take place
+---
 
-in terms of the Roman sound system – the alphabet.
+Un autre problème vient du fait que les manuels expliquent ces changements  
+**en se basant sur le système alphabétique romain**.
 
-But in fact that causes a lot of confusion and difficulty.
+Mais en réalité, **cela cause beaucoup de confusion et de difficultés**.
 
-<u>Once we see it in the terms it actually exists in, that is to say,
-the \*Japanese\* sound system, it all becomes very logical.</u>
+<u>Une fois qu’on regarde tout cela **dans le système phonétique japonais réel**,  
+cela devient très logique.</u>
 
-I would say it is a 100% consistent, logical and simple – except there
-is one exception
+Je dirais même que c’est un système **100 % cohérent, logique et simple**…  
+*à une exception près* : il y a **deux verbes irréguliers**, donc on peut dire **99,9 % de cohérence**.
 
-in the whole system, and there are two irregular verbs, so perhaps we
-had better say 99.9%
+---
 
-logical, consistent and easy to understand.
+Très bien.
 
-All right.
+Voici maintenant **le tableau maître** qui va vous montrer **comment tout cela fonctionne** :
 
-So, let's give you the master chart, which will show you how all of this
-works.
+チャートをください！(Le tableau, s’il vous plaît !)
 
-チャートをください!
+---
 
-So, here is the familiar Japanese kana chart, with all the sounds of
-Japanese.
+Voici le tableau familier des kana japonais, avec **tous les sons du japonais** :
 
-<img src="./media/image319.webp"
-style="width:2.53894in;height:3.32813in" />
+<img src="./media/image319.webp" style="width:2.53894in;height:3.32813in" />
 
-I've turned it on its side, for reasons which will become apparent
-shortly. All Japanese verbs end with one of the kana in the middle row –
-it looks like a column because I've turned it on its side. That is the
-う-row – う, く, す, つ, ぬ etc.
+Je l’ai tourné sur le côté (horizontalement), pour des raisons que vous comprendrez dans un instant.
 
-However, there is no verb ending in ゆ, so we can get rid of these two
-columns and simplify the chart.
+Tous les **verbes japonais se terminent** par l’un des kana de la rangée centrale —  
+qui semble être une colonne ici, car le tableau est tourné.
 
-<img src="./media/image241.webp"
-style="width:2.60938in;height:2.90991in" />
+C’est la **rangée en う** : う, く, す, つ, ぬ, etc.
 
-Actually, there is only one verb that ends in ぬ – that's しぬ, to die –
-so we could get rid of that too and make it look even simpler, but I'm
-keeping it in for completeness.
+---
 
-So, <u>every verb ends with one of the kana in the red box.</u> Let's
-have an example of each of the possible endings:  
-かう, buy; きく, hear; はなす, speak; もつ, hold; しぬ, die; とぶ, fly;
-のむ, drink; とる, take.
+Mais… il n’existe **aucun verbe** qui se termine par ゆ,  
+donc on peut **éliminer ces colonnes** et simplifier le tableau.
 
-Now, as you can see, there are four other possible endings that the
-verbs could have, and in fact each of those endings is used.
+<img src="./media/image241.webp" style="width:2.60938in;height:2.90991in" />
 
-<img src="./media/image771.webp"
-style="width:3.78125in;height:3.33085in" />
+En fait, **il n’y a qu’un seul verbe** qui se termine par ぬ,  
+et c’est 「しぬ」 (mourir),  
+donc on pourrait aussi le retirer, mais on le garde pour être complet.
 
-<u>And when we use one of the other endings, the verb stops being a verb
-and becomes what I call a 'sticky stem', that is, a stem to which we
-stick something else.</u>
+---
 
-### The い-stem
+<u>Donc, **tous les verbes japonais se terminent par l’un des kana dans le cadre rouge**.</u>
 
-So, here is the い-stem.
+Voici un exemple pour chacun des terminaisons possibles :
 
-<img src="./media/image687.webp"
-style="width:6.04688in;height:3.45951in" />
+- かう – acheter  
+- きく – écouter / entendre  
+- はなす – parler  
+- もつ – tenir  
+- しぬ – mourir  
+- とぶ – voler (dans les airs)  
+- のむ – boire  
+- とる – prendre
 
-*Note: If you are wondering why そう is there, yet is not mentioned
-here. It’ll be in Lesson 24.*
+---
+
+Comme vous pouvez le voir, il existe **quatre autres terminaisons possibles**  
+et **elles sont toutes utilisées**.
+
+<img src="./media/image771.webp" style="width:3.78125in;height:3.33085in" />
+
+<u>Et lorsque nous utilisons l’une de ces autres terminaisons,  
+le verbe **cesse d’être un verbe** au sens strict,  
+et devient ce que j’appelle une « base collante » (*sticky stem*) :</u>  
+c’est-à-dire **une base sur laquelle on vient coller autre chose**.
+
+### La base en い (い-stem)
+
+Voici maintenant la **base en い**, ou *い-stem*.
+
+<img src="./media/image687.webp" style="width:6.04688in;height:3.45951in" />
+
+*Note : Si vous vous demandez pourquoi 「そう」 est dans ce tableau alors qu’il n’est pas expliqué ici,  
+il sera abordé dans la Leçon 24.*
+
 <img src="./media/image460.webp" style="width:6.5in;height:1.15278in" />
 
-With the い-sticky stem, we change the う-row kana to the corresponding
-い-row kana.
+---
 
-So, かう becomes かい, きく becomes きき, はなす becomes はなし, and so
-forth.
+Avec la **base collante en い**,  
+on change simplement le kana de la **rangée en う** par son équivalent dans la **rangée en い**.
 
-What do we do with the 'い' row sticky stem?
+Par exemple :
 
-#### Helper verb ます
+- 「かう」 (acheter) → 「かい」  
+- 「きく」 (écouter) → 「きき」  
+- 「はなす」 (parler) → 「はなし」  
+- etc.
 
-Well, the thing that you have all seen, I'm sure, is we can attach the
-helper verb ます
+---
 
-to the い-row sticky stem.
+Et que fait-on avec cette base collante en い ?
 
-<img src="./media/image660.webp"
-style="width:5.13542in;height:2.87199in" />
+#### Le verbe auxiliaire ます
 
-<u>ます is not a conjugation. It is a verb. It is a helper verb and it
-attaches to the い-row sticky stem</u>. <u>It does not change the
-meaning of the verb, but it makes it formal.</u> *(polite)*
+Alors, ce que vous avez sûrement déjà vu,  
+c’est qu’on peut **ajouter le verbe auxiliaire 「ます」**  
+à la **base collante en い** (い-stem).
 
-So, かう is the regular, informal version, meaning buy; かいます is the
-formal version.
+<img src="./media/image660.webp" style="width:5.13542in;height:2.87199in" />
 
-きく is the informal version, hear; ききます is the formal version.
+<u>「ます」 n’est **pas une conjugaison**. C’est un **verbe**.</u>  
+<u>C’est un **verbe auxiliaire**, et il s’attache à la base en い du verbe principal.</u>
 
-#### Helper adjective たい
+<u>Il **ne change pas le sens** du verbe, mais il le rend **poli / formel**.</u>
 
-What else do we do with the い-row sticky stem?
+---
 
-Well, we can attach the helper <u>adjective</u> たい.
+Par exemple :
 
-<u>たい is a helper adjective which means want.</u>
+- 「かう」 (acheter) → forme neutre/informelle  
+→ 「かいます」 = forme polie / formelle
 
-So, かいたい means want to buy; ききたい, want to hear; はなしたい, want
-to speak, and so
+- 「きく」 (écouter / entendre) → forme neutre  
+→ 「ききます」 = forme polie
 
-forth. *Note: Whereas in English it is usually translated as a verb, in
-Japanese it is an adjective.*
 
-#### Converting verbs into nouns
+#### Adjectif auxiliaire たい
 
-<u>We also use the い-row sticky stem for attaching nouns in order to
-convert a verb into a new noun.</u>
+Que faisons-nous d’autre avec la base collante en い (い-stem) ?
 
-So, かいもの, that is buy-thing: it means shopping.
+Eh bien, nous pouvons y attacher l’<u>adjectif</u> auxiliaire 「たい」.
 
-のみもの, drink-thing, means a drink.
+<u>たい est un adjectif auxiliaire qui signifie “vouloir”.</u>
 
-はなしかた (かた means form or shape)...
+Donc :
 
-はなしかた means form of speaking, manner of speaking.
+- 「かいたい」 = vouloir acheter  
+- 「ききたい」 = vouloir entendre  
+- 「はなしたい」 = vouloir parler  
+et ainsi de suite.
 
-So now we know how to attach all these except for what are called
-"る-verbs", the ichidan
+*Note : alors qu’en anglais on le traduit généralement par un verbe,  
+en japonais c’est bien un **adjectif**.*
 
-verbs, and they are very very simple, because all you ever do with
-these, ever, is <u>simply cut off the る and you have \*all\* the possible sticky stems of the
-ichidan verbs.</u>
+#### Transformer des verbes en noms
 
-So たべる becomes たべ; たべます is the formal form of the verb;  たべたい, want to eat; たべもの, eat-thing, food.
+<u>On utilise aussi la base collante en い pour attacher des noms, afin
+de transformer un verbe en un nouveau nom.</u>
 
-*Note: There also exists a noun 買い (it is a noun), that means
-shopping, buying, product etc.  
-So it is similar in meaning, I don’t know what the connection is between
-it and 買い物 or such, but just so that you know there are a few such
-cases. It also shows that not every word ending in い is automatically
-an Adjective, although the vast majority are... perhaps the い was some
-Kanji noun in the past too and now it no longer takes its Kanji form???,
-who knows…*
+Par exemple :
 
-*  
-*<img src="./media/image477.webp"
-style="width:4.35938in;height:4.28309in" />
+- 「かいもの」 → "acheter-chose" : ça veut dire **shopping**  
+- 「のみもの」 → "boire-chose" : ça veut dire **boisson**
 
-### The あ-stem
+「はなしかた」 ("かた" signifie forme ou manière)…  
+→ 「はなしかた」 signifie **façon de parler**, **manière de parler**
 
-So now we come to the あ-row sticky stem, and this has one exception.
+---
 
-<img src="./media/image271.webp"
-style="width:5.42188in;height:3.03329in" />
+Donc maintenant, nous savons comment attacher tout cela,  
+sauf pour ce qu’on appelle les verbes en 「る」, les verbes **ichidan**.
 
-And you'll say, "Ah, languages! Full of exceptions!"
+Et ceux-là sont **très très simples**, car ce qu’on fait **toujours** avec eux,  
+<u>c’est simplement enlever le 「る」, et on a **toutes** les bases collantes possibles des verbes ichidan.</u>
 
-<u>This is the only exception in the whole system</u>, and it's a very
-natural one that you can well understand.
+Par exemple :
 
-The う-ending verb does not become “かあ”, <u>it becomes “かわ”</u>,
-which is a lot easier to say, and understand in conversation, isn't it?
+- 「たべる」 → 「たべ」  
+- 「たべます」 = forme polie du verbe  
+- 「たべたい」 = vouloir manger  
+- 「たべもの」 = "manger-chose", **la nourriture**
 
-So かう does not become “かあない”, <u>it becomes かわない.</u>
+---
 
-*Note: In the comments under the video, there is an insightful
-[<u>comment</u>](https://www.youtube.com/watch?v=FhyrskGBKHE&lc=UgzzF0FxyJJZX7z94Yp4AaABAg)
-by one “pycage” about this exception not actually even being an
-exception when one regards the history of Japanese. You can check it out
-if you are interested (o^▽^o) But it is a rather more advanced
-explanation.*
+*Note : il existe aussi un nom 「買い」 (oui, c’est un **nom**),  
+qui signifie **achat**, **le fait d’acheter**, **produit**, etc.  
+Donc il a un sens proche de 「買い物」. Je ne sais pas trop quelle est  
+la relation exacte entre 「買い」 et 「買い物」, mais c’est bon de savoir  
+que quelques mots finissant en 「い」 ne sont **pas forcément** des adjectifs.  
+Même si la grande majorité le sont.  
+Peut-être que ce 「い」 était un kanji-nom dans le passé et qu’il n’a plus sa forme en kanji maintenant ?  
+Qui sait…*
 
-So what do we use the あ-ending stem for?
+<img src="./media/image477.webp" style="width:4.35938in;height:4.28309in" />
 
-#### Helper adjective ない
+### La base en あ (あ-stem)
 
-I've already mentioned it *(Lesson 7)* – probably the most common use is
-to attach the helper adjective ない to the sticky stem of a verb.
+Nous arrivons maintenant à la **base collante en あ**,  
+et celle-ci a **une seule exception**.
 
-<img src="./media/image384.webp"
-style="width:5.48958in;height:3.05924in" />
+<img src="./media/image271.webp" style="width:5.42188in;height:3.03329in" />
 
-<u>It attaches to the あ-sticky stem</u>, so かう, buy, becomes
-かわない, not buy;  きく, hear, becomes きかない, not hear;  はなす becomes はなさない, not speak, and so forth. Very simple.
+Et là vous vous dites sûrement :  
+« Ah, les langues… toujours pleines d’exceptions ! »
 
-#### The causative
+<u>C’est **la seule exception** dans tout le système</u>,  
+et c’est une exception **très naturelle**, que l’on comprend facilement.
 
-We also use the あ-sticky stem for the causative  
-and the so-called “passive” forms of verbs *(the receptive)*, and these "conjugations" often give beginners quite a lot of trouble.
+Le verbe qui se termine par 「う」 ne devient pas 「かあ」,  
+<u>il devient 「かわ」</u>, ce qui est **bien plus facile à dire**,  
+et à comprendre dans une conversation, n’est-ce pas ?
 
-And I have made videos *(later lessons)* that show how simple they
-really are, how they work, what they mean, and how simple it really is
-if you understand them the way they actually are.
+Donc 「かう」 ne devient **pas** 「かあない」,  
+<u>mais 「かわない」</u>.
 
-Today we are just going to look at the structure.
+---
 
-So, the causative form of a verb, which means <u>to allow someone to do
-something or make someone do something</u>, is formed <u>by attaching
-the helper verb せる / させる to the あ-row</u> sticky stem.
+*Note : dans les commentaires de la vidéo, un certain “pycage”  
+a posté un [<u>commentaire</u>](https://www.youtube.com/watch?v=FhyrskGBKHE&lc=UgzzF0FxyJJZX7z94Yp4AaABAg) très pertinent,  
+expliquant que cette exception n’en est pas vraiment une si l’on considère l’histoire du japonais.  
+C’est un peu plus avancé, mais intéressant si ça vous intrigue (o^▽^o)*
 
-<img src="./media/image166.webp"
-style="width:5.34896in;height:2.9599in" />
+---
 
-Now, I say せる / させる – what does that mean?
+Alors… que fait-on avec la **base en あ** ?
 
-<u>Well, it means that there are actually two forms of this helper
-verb.</u>
+#### Adjectif auxiliaire ない
 
-せる attaches to all those sticky stems that we're working with – all
-the ones that change.  
-*Note: Dolly here means the godan verbs.*
+Je l’ai déjà mentionné *(Leçon 7)* —  
+l’usage le plus courant est probablement d’attacher **l’adjectif auxiliaire** 「ない」  
+à la base collante en あ du verbe.
 
-And させる attaches to the ichidan – the so-called "る-verb" – sticky
-stem.
+<img src="./media/image384.webp" style="width:5.48958in;height:3.05924in" />
 
-Where there is a slight variation in the helper verb, we always find
-that the longer version
+<u>Il s’attache à la base en あ</u>, donc :
 
-goes onto the ichidan verb, because that verb is generally shorter.
+- 「かう」 (acheter) → 「かわない」 (ne pas acheter)  
+- 「きく」 (écouter) → 「きかない」 (ne pas écouter)  
+- 「はなす」 (parler) → 「はなさない」 (ne pas parler)  
+et ainsi de suite.
 
-The ichidan verb, we take off the whole last syllable; with the godan
-verbs, the changing sticky stems, we don't take off the last syllable,
-we change it to a different sound.
+Très simple.
 
-So, せる / させる makes the causative form of a verb.
+#### La forme causative
 
-かう becomes かわせる, allow to buy, make to buy;  はなす becomes はなさせる, allow to speak, make to speak;
+On utilise aussi la **base collante en あ** pour former la **forme causative**  
+et la forme dite “passive” des verbes *(plutôt : réceptive)*,  
+et ces “conjugaisons” posent souvent beaucoup de problèmes aux débutants.
 
-*Note: はなす is a godan verb ending with す, so it changes to あ-stem +
-せる, which looks the same as the ichidan causative form of させる.
-Dolly explains stuff like this in the later lessons.*
+Mais j’ai fait des vidéos *(leçons ultérieures)* qui montrent  
+à quel point elles sont en réalité **simples**,  
+comment elles fonctionnent, ce qu’elles signifient,  
+et à quel point tout cela devient facile **lorsqu’on les comprend pour ce qu’elles sont vraiment**.
 
-のむ, becomes のませる, allow to drink, make to drink;
+---
 
-and たべる becomes たべさせる, allow to eat, make to eat.  
-*Note: たべる is an ichidan verb, so it just deletes the る and adds
-させる to make the causative.*
+Aujourd’hui, on va simplement regarder **la structure**.
 
-#### The receptive / passive
+La forme **causative** d’un verbe, qui signifie  
+<u>« permettre à quelqu’un de faire quelque chose » ou « forcer quelqu’un à faire quelque chose »</u>,  
+se forme en <u>attachant le verbe auxiliaire 「せる」 / 「させる」 à la base collante en あ</u>.
 
-The so-called passive – which isn't really passive *(this can be argued,
-but let’s stick to Dolly now)*,  
-and we have a video helping you with understanding  
-what it really does and how simple that really is – the so-called
-passive, <u>the receptive form</u>, is formed with <u>the helper verb れる /
-られる</u>.
+<img src="./media/image166.webp" style="width:5.34896in;height:2.9599in" />
 
-So, かう becomes かわれる, which means get bought, be bought, get bought
-– <u>get bought is better because that is closer to what the Japanese
-really means</u>, and you will understand that when you see the video
-*(Lesson 13)*;
+---
 
-きく becomes きかれる, get heard;  のむ becomes のまれる, get drunk – <u>I don't mean become intoxicated, I
-mean the way the cup of coffee got drunk;</u>
+Je dis 「せる / させる」 — qu’est-ce que cela veut dire ?
 
-たべる becomes たべられる, get eaten.
+<u>Eh bien, cela signifie qu’il existe en réalité **deux formes** de ce verbe auxiliaire.</u>
 
-So as you see, there are really – apart from that one exception, there
-are not lots
+- 「せる」 s’attache à toutes les bases collantes issues des changements —  
+  *Note : ici Dolly parle des **verbes godan***  
+- 「させる」 s’attache aux bases des **verbes ichidan** (les fameux “verbes en る”)
 
-and lots of different ways of attaching these together.
+---
 
-It's because it's presented as a *(“West-based”)* conjugation and
-because it's explained as if it was written in Roman letters that the
-confusion arises.
+Lorsqu’il y a une légère variation dans la forme du verbe auxiliaire,  
+on constate toujours que **la version la plus longue**  
+(souvent 「させる」) s’attache aux **verbes ichidan**,  
+car ces verbes sont en général plus courts.
 
-We can see that it's actually very, very regular.
+Pour les verbes ichidan, on enlève **toute la dernière syllabe (le る)**.  
+Pour les godan, on ne supprime pas la syllabe finale,  
+on la **change en une autre voyelle** (comme on l’a vu avec les bases en あ, い, etc.).
 
-We just shift to the あ-row and add the helper adjective ない, the
-helper verb れる / られる,the helper verb せる / させる, and it's just
-as simple as that.
+---
 
-### The え-stem
+Donc, 「せる / させる」 servent à créer la forme causative.
 
-Now we come to the え-row sticky stem.
+Exemples :
+
+- 「かう」 → 「かわせる」 = permettre de / forcer à acheter  
+- 「はなす」 → 「はなさせる」 = permettre de / forcer à parler  
+  *Note : 「はなす」 est un verbe godan en す,  
+  donc sa base en あ est 「はなさ」, et on y attache 「せる」.  
+  Cela **ressemble visuellement** à un verbe ichidan + させる,  
+  mais ce n’en est **pas un**, comme Dolly l’expliquera plus tard.*
+
+- 「のむ」 → 「のませる」 = permettre de / forcer à boire  
+- 「たべる」 → 「たべさせる」 = permettre de / forcer à manger  
+  *Note : 「たべる」 est un verbe ichidan, donc on enlève 「る」  
+  et on ajoute 「させる」 pour faire la forme causative.*
+
+#### La forme réceptive / passive
+
+Ce qu’on appelle communément la **forme passive** —  
+qui en réalité **n’est pas vraiment passive** *(cela peut se discuter, mais restons sur l’explication de Dolly ici)* —  
+on l’explique dans une vidéo qui vous aidera à comprendre ce que cette forme **fait réellement**,  
+et **à quel point elle est simple** quand on l’aborde correctement.
+
+La **forme réceptive** est formée avec <u>le verbe auxiliaire 「れる」 / 「られる」</u>.
+
+---
+
+Exemples :
+
+- 「かう」 → 「かわれる」 = se faire acheter, **être acheté**  
+  <u>“se faire acheter” est une meilleure traduction que “être acheté”</u>,  
+  car c’est **plus proche du sens réel en japonais**, ce que vous comprendrez bien dans la vidéo *(Leçon 13)*.
+
+- 「きく」 → 「きかれる」 = se faire entendre  
+- 「のむ」 → 「のまれる」 = se faire boire  
+  <u>(Je ne veux pas dire ici “être saoulé”, mais bien dans le sens où la **tasse de café a été bue**.)</u>
+
+- 「たべる」 → 「たべられる」 = se faire manger
+
+---
+
+Donc comme vous pouvez le constater, à part **cette unique exception** (vue précédemment),  
+il n’y a **pas des tonnes** de façons différentes d’assembler tout ça.
+
+La raison pour laquelle cela semble complexe,  
+c’est parce qu’on le présente comme une **conjugaison “à l’occidentale”**,  
+et qu’on l’explique comme si c’était écrit en lettres romaines.
+
+Mais si on regarde les choses comme **elles existent vraiment en japonais**,  
+on voit que c’est en fait **très, très régulier**.
+
+---
+
+On fait simplement ce qui suit :
+
+- on passe à la base en あ  
+- et on y ajoute :
+  - l’adjectif auxiliaire 「ない」  
+  - le verbe auxiliaire 「れる / られる」 (forme réceptive)  
+  - ou le verbe auxiliaire 「せる / させる」 (forme causative)
+
+Et c’est **aussi simple que ça**.
+
+### La base en え (え-stem)
+
+Nous arrivons maintenant à la **base collante en え** (え-row sticky stem).
 
 <img src="./media/image789.webp" style="width:6.5in;height:3.65278in" />
 
-Just like the others, it's perfectly consistent.
+Comme pour les autres bases, c’est **parfaitement cohérent**.
 
-You just change the う-row kana into the corresponding え-row kana.
+On change simplement le kana de la rangée en 「う」  
+par le kana correspondant de la rangée en 「え」.
 
-So かう becomes かえ, きく becomes きけ, はなす becomes はなせ, and so
-forth.
+Par exemple :
 
-#### The potential
+- 「かう」 → 「かえ」  
+- 「きく」 → 「きけ」  
+- 「はなす」 → 「はなせ」  
+et ainsi de suite.
 
-<u>We use the え-row sticky stem to create the potential form of
-verbs</u>,  
-which means you “can do” the verb.
+#### La forme potentielle
 
-The helper verb, which is stuck onto the え-row sticky stem, is る /
-られる.
+<u>On utilise la base collante en え (え-stem) pour former la **forme potentielle** des verbes</u>,  
+c’est-à-dire : **pouvoir faire** quelque chose.
+
+Le verbe auxiliaire que l’on colle à cette base en え est 「る」 / 「られる」.
 
 <img src="./media/image94.webp" style="width:6.5in;height:3.625in" />
 
-<u>And yes, even though it's simply る, just that one character, it is a
-helper verb</u> – if
+<u>Et oui, même si ce n’est qu’un seul caractère 「る」, c’est bien un verbe auxiliaire</u> —  
+si vous le cherchez dans un vrai dictionnaire **japonais-japonais** (pas japonais-anglais),  
+vous trouverez 「る」 listé comme un **助動詞／じょどうし**, c’est-à-dire un **verbe auxiliaire**.  
+Et il a bien **deux formes** : 「る」 et 「られる」.
 
-you look it up in a Japanese dictionary (not a Japanese-English
-dictionary, but a real
+---
 
-Japanese dictionary), you will find る there as a 助動詞/*じょどうし*, a
-helper verb – and it has
+<u>「られる」 est, comme vous l’avez peut-être remarqué, le même que celui de la forme dite passive</u> *(réceptive)* :  
+「れる / られる」.  
+Donc la forme passive et la forme potentielle des **verbes ichidan** sont identiques.
 
-these two forms, る and られる.
+<u>Mais comme elles sont utilisées de manière très différente, il y a **très très peu de chances** de les confondre,  
+donc ce n’est pas vraiment un problème.</u>
 
-<u>られる is, you will have noticed, the same as the so-called
-passive</u> *(the receptive)*<u>,  
-れる / られる, so the ichidan form of the passive and the potential are
-the same</u> – but because they are used very differently, there are
-very very few occasions on which you would confuse the two, so it's not
-really a problem.
+---
 
-So, we have かえる, can buy; きける, can hear; はなせる, can speak, and
-so forth;  plus たべられる, can eat. *Note: can as in “is possible / is able”,
-later on that in Lesson 10.*
+Exemples :
 
-### The お-stem
+- 「かえる」 = pouvoir acheter  
+- 「きける」 = pouvoir entendre  
+- 「はなせる」 = pouvoir parler  
+- 「たべられる」 = pouvoir manger
 
-So, now we come the last sticky stem, the お-row sticky stem, and just
-as with the others, it's perfectly consistent.
+*Note : “pouvoir” ici signifie « il est possible de… / on est capable de… ».  
+On verra cela plus en détail dans la Leçon 10.*
+
+### La base en お (お-stem)
+
+Nous arrivons maintenant à la **dernière base collante**, la **base en お** (お-row sticky stem),  
+et comme pour toutes les autres, elle est **parfaitement cohérente**.
 
 <img src="./media/image312.webp" style="width:6.5in;height:3.84722in" />
 
-かう becomes かお; きく becomes きこ; はなす becomes はなそ.
+On change simplement le kana final de la rangée en う par celui de la rangée en お :
 
-#### The volitional
+- 「かう」 → 「かお」  
+- 「きく」 → 「きこ」  
+- 「はなす」 → 「はなそ」
 
-<u>And what we do with this sticky stem is attach う, and, as you know,
-う when attached to お generally lengthens the お.</u>
+#### La forme volitive
 
-So かう doesn't become kao-u, <u>it becomes かおう/kaō</u>;  *Note: Dolly is referring to pronunciation here, not saying individually
-o and u, but just long o.  
-*きく becomes きこう/kikō; はなす becomes はなそう/hanasō.
+<u>Ce que l’on fait avec cette base collante en お, c’est y ajouter 「う」.  
+Et, comme vous le savez, 「う」 lorsqu’il est attaché à 「お」 allonge généralement le son 「お」.</u>
 
-The volitional has a number of uses, and I'm only talking about
-structure here, so I'll
+Donc, 「かう」 ne devient pas *kao-u*,  
+<u>mais 「かおう」 / *kaō*</u> (un お long).  
+*Note : Dolly parle ici de **prononciation**, pas de la combinaison de deux voyelles distinctes 「o」 et 「u」.*
 
-just use one of the uses.
+- 「きく」 → 「きこう」 (*kikō*)  
+- 「はなす」 → 「はなそう」 (*hanasō*)
 
-かう becomes かおう, let's buy; きく becomes きこう, let's listen, let's
-hear;  はなす becomes はなそう, let's talk.
+---
 
-<u>In the ichidan form, we add よう to the end of the ichidan sticky
-stem.</u> *(And ofc. delete る)*
+La forme **volitive** a plusieurs usages,  
+mais ici on se concentre uniquement sur la **structure**,  
+donc on va se contenter d’un seul usage simple :
 
-So たべる becomes たべよう, let's eat.
+- 「かおう」 = achetons  
+- 「きこう」 = écoutons  
+- 「はなそう」 = parlons
 
-<u>One peculiarity of the volitional form is that you can also make it
-by changing the form of ます to use the volitional in its formal</u> *(polite)*
-<u>mode.</u>
+---
 
-And when you do this, you say ましょう instead of ます, and when you do
-this, naturally enough <u>you use the い-row sticky stem, just as you do
-with the regular ます.</u>
+<u>Pour les verbes ichidan, on ajoute 「よう」 à la base collante du verbe</u> *(et bien sûr, on enlève 「る」)*.
 
-So, い<u>き</u>ましょう, let’s go.
+Par exemple :
 
-## **8. The に and へ particles**
+- 「たべる」 → 「たべよう」 = mangeons
 
-[<u>Lesson 8: Location, purpose and transformation - keys to the ni
-particle and he
-particle</u>](https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9)
+---
 
-### The に Particle
+<u>Une particularité de la forme volitive,  
+c’est qu’on peut aussi la former à partir de 「ます」 pour exprimer la version polie de la volitive.</u>
+
+Dans ce cas, on dit 「ましょう」 à la place de 「ます」.
+
+Et logiquement, <u>on utilise ici la base en い (い-stem), comme on le fait avec la forme polie en 「ます」.</u>
+
+Par exemple :
+
+- 「い<u>き</u>ましょう」 = allons-y
+
+## **8. Les particules に et へ**
+
+[<u>Leçon 8 : Lieu, but et transformation — les clés pour comprendre les particules に et へ</u>](https://www.youtube.com/watch?v=uqlQYrE2oFM&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=9)
+
+### La particule に
 
 こんにちは。
 
-Today we are going to talk about the particle "に", and in doing so we are going to level up.
+Aujourd’hui, nous allons parler de la particule 「に」,  
+et en faisant cela, **nous allons monter en niveau**.
 
-What do I mean by that?
+Qu’est-ce que je veux dire par là ?
 
-In the past seven lessons we've learned quite a lot of basic Japanese
-structure.
+Dans les sept leçons précédentes, nous avons appris pas mal de choses  
+sur la structure de base du japonais.
 
-We can say quite a lot of things now if we have the vocabulary.
+Nous sommes déjà capables de dire pas mal de choses si nous avons le vocabulaire.
 
-But everything we can say is very, very concrete.
+Mais tout ce que nous avons pu dire jusque-là est **très concret**.
 
-We can talk about doing things and being things, which of course is the
-core of every sentence.
+Nous pouvons parler de faire des choses, ou d’**être** quelque chose —  
+ce qui est bien sûr le **noyau de toute phrase**.
 
-But we also need to have some more sophisticated concepts at our
-disposal.
+Mais nous avons également besoin d’exprimer des concepts plus **abstraits** ou plus **sophistiqués**.
 
-Things like purpose and intention and transformation.
+Des choses comme **le but**, **l’intention**, ou **la transformation**.
 
-So today we're going to look at uses of the に-particle, some of which
-are very concrete still and some of which begin to take us into those
-more sophisticated areas.
+Aujourd’hui, nous allons donc regarder plusieurs usages de la particule 「に」 —  
+certains resteront très concrets,  
+et d’autres commenceront à nous faire entrer dans ces concepts plus avancés.
 
-<img src="./media/image860.webp"
-style="width:1.83854in;height:3.31931in" />
+<img src="./media/image860.webp" style="width:1.83854in;height:3.31931in" />
 
-Now, we've already looked at the に-particle, haven't we?
+---
 
-And <u>we know that in a logical sentence it marks the ultimate target
-of an action.</u>
+Nous avons déjà vu la particule 「に」, n’est-ce pas ?
 
-So "(zeroが)さくらにボールをなげた" means "I threw the ball at Sakura".
+Et <u>nous savons que, dans une phrase logique, elle marque la **cible ultime** d’une action.</u>
+
+Par exemple,  
+「(zeroが)さくらにボールをなげた」 signifie :  
+**J’ai lancé la balle à Sakura**.
 
 <img src="./media/image190.webp" style="width:6.5in;height:3.34722in" />
 
-The ball is marked by を because it's the thing I actually threw.
+- La balle est marquée par 「を」 parce que c’est **la chose que j’ai réellement lancée**.  
+- Moi, je suis marqué par 「が」 — même si on ne me voit pas dans la phrase,  
+  c’est **moi** qui ai accompli l’action de lancer.  
+- <u>Sakura est marquée par 「に」 parce qu’elle est la **cible** de cette action,  
+et ici, de façon très littérale.</u>
 
-I am marked by が whether you can see me or not, because I am the one who did the action of throwing.
+---
 
-<u>But Sakura is marked by に because she is the target of that
-action,  
-in this case very literally.</u>
+<u>La particule 「に」 marque **presque toujours une cible**,  
+d’une manière ou d’une autre.</u>
 
-Now, <u>the に-particle nearly always marks a target of one kind or
-another. So, if we are going somewhere or sending something somewhere or
-putting something somewhere, we use に for that "somewhere". So if A is going to B, then B is marked by に. B is the destination, the target of that going.</u>
+Donc, si l’on **va quelque part**,  
+si l’on **envoie quelque chose quelque part**,  
+ou si l’on **met quelque chose quelque part**,  
+on utilise 「に」 pour ce “quelque part”.
 
-So if I'm going to the park, I say "(zeroが)こうえんにいく".
+<u>Si A va vers B, alors B est marqué par 「に」.  
+B est la destination, la cible de ce déplacement.</u>
 
-<img src="./media/image540.webp"
-style="width:4.67188in;height:2.20794in" />
+Par exemple :
 
-If I'm going to the shops, I say "(zeroが)おみせにいく".
+- Si je vais au parc → 「(zeroが)こうえんにいく」
 
-<img src="./media/image238.webp"
-style="width:4.58854in;height:2.28692in" />
+<img src="./media/image540.webp" style="width:4.67188in;height:2.20794in" />
 
-<u>So the literal, physical destination or target of movement is marked
-by に. However, we can also mark a subtler kind of target.</u>
+- Si je vais aux magasins → 「(zeroが)おみせにいく」
 
-So we can say "(zeroが)おみせにたまごを<u>かいに</u>いく".
+<img src="./media/image238.webp" style="width:4.58854in;height:2.28692in" />
 
-This means "I go to the shops <u>to buy</u> eggs".
+<u>Donc, la **destination physique** ou la **cible littérale d’un mouvement** est marquée par 「に」.  
+Mais on peut aussi marquer une cible **plus subtile**.</u>
+
+Par exemple :
+
+「(zeroが)おみせにたまごを<u>かいに</u>いく」
+
+→ Cela signifie : **Je vais au magasin <u>pour acheter</u> des œufs.**
 
 <img src="./media/image644.webp" style="width:6.5in;height:3.56944in" />
 
-"おみせ" is "shop/s" – "shop" is "みせ" and we put the honorific "お" on
-it because we
+- 「おみせ」 = le(s) magasin(s) — 「みせ」 signifie “magasin”,  
+et on ajoute le préfixe honorifique 「お」  
+car nous montrons du respect envers les personnes  
+qui nous permettent d’avoir toutes les belles choses que nous avons la chance d’avoir.
 
-give honor to the people who help us to have all the  
-lovely things that we are lucky enough to have.
+- 「たまご」 = œufs  
+(*Et si vous êtes assez vieux, vous vous souvenez peut-être des Tamagotchi —  
+les petits “personnages-œufs” que l’on élevait !*)
 
-"たまご" are eggs – you might, if you're old enough, remember
-たまごっち/Tamagotchi, the little egg-person that you raise.
+<u>Et 「かい」 est la base en い (い-stem) du verbe 「かう」 – acheter.</u>
 
-<u>And "かい" is the い-stem of "かう" – to buy.</u>
+La **base en い** est une base très spéciale,  
+elle peut servir à faire plein de choses,  
+<u>et elle peut aussi exister seule, comme un mot à part entière.</u>
 
-The い-stem is a very special stem and it can do lots of things, <u>and it can also just be there on its own.</u>
+<img src="./media/image161.webp" style="width:6.19271in;height:3.40379in" />
 
-<img src="./media/image161.webp"
-style="width:6.19271in;height:3.40379in" />
+「かいにいく」 signifie :  
+**aller pour acheter**, **dans le but d’acheter**, **à des fins d’achat**.
 
-"かいにいく" means "\[go\] in order to buy, for the purpose of buying".
+---
 
-Now, you may be saying, "I thought that logical particles like に and が
-and を can only mark nouns" – and that's absolutely correct.
+Vous allez peut-être vous dire :  
+« Je croyais que les particules logiques comme に, が, を ne pouvaient marquer que des noms ? »
 
-Because <u>one of the things that the い-stem of a verb can do when it's
-on its own is turn that verb into the equivalent noun.</u> *Note: Refer to Lesson 7.5,
-the い-stem, converting verbs*
+Et vous avez **absolument raison**.
 
-(It can do something else as well, but I can talk about that another
-day.)
+<u>Parce que l’une des choses que la base en い peut faire, quand elle est utilisée seule,  
+c’est de transformer un verbe en un **nom équivalent**.</u>  
+*Note : Voir Leçon 7.5 – sur la base en い et la conversion des verbes en noms*
 
-<img src="./media/image725.webp"
-style="width:2.06283in;height:2.82722in" />
+(Il y a autre chose qu’elle peut faire, mais j’en parlerai une autre fois.)
 
-So <u>"かい", the act of buying, is a noun.</u>
+<img src="./media/image725.webp" style="width:2.06283in;height:2.82722in" />
 
-Just as in English if we say "I like swimming", "swimming" is a noun, swimming is a thing I like, and if we say "I go to the shop for the purpose of buying eggs", then that "buying" is also a noun, it's the thing we're going for.
+<u>Donc 「かい」, ici, signifie **l’acte d’acheter**, et c’est un **nom**.</u>
 
-And "かい" is just like that.
+Tout comme en anglais quand on dit :  
+**"I like swimming"** – “swimming” est un **nom**, c’est une activité que j’aime.  
+Ou :  
+**"I go to the shop for the purpose of buying eggs"** –  
+“buying” est encore un nom ici, c’est **la raison** pour laquelle je vais au magasin.
 
-<u>So "かい" is the thing we're going to do and it's a noun and it's
-marked by に.</u>
+Et 「かい」 fonctionne exactement comme ça en japonais.
 
-So, you see that in this sentence we have two targets:
+<u>「かい」 est ce que je vais faire. C’est un **nom**, et il est marqué par 「に」.</u>
 
-<img src="./media/image231.webp"
-style="width:5.95313in;height:3.27231in" />
+---
 
-the shops – "おみせ" – is the actual physical target of our going, the
-place, <u>and buying eggs is the reason for our going, so that's the emotional
-target, the volitional target, a more subtle kind of target</u> than the
-physical place we're going to, but still a target.
+Donc, dans cette phrase, nous avons **deux cibles** :
 
-<u>And it's possible to have two targets in the same sentence, both
-marked by に.</u>
+<img src="./media/image231.webp" style="width:5.95313in;height:3.27231in" />
 
-And that's exactly what we're doing here.
+- Le magasin – 「おみせ」 – est la **cible physique réelle** de notre déplacement.  
+- Et l’acte d’acheter des œufs est la **raison de notre déplacement**,  
+  c’est donc la **cible émotionnelle / intentionnelle**, une **cible plus subtile**,  
+  mais **tout de même une cible**.
 
-<u>So に gives us the target of an action in the most literal sense and
-also the volitional target, the actual aim of our action.</u>
+<u>Et il est possible d’avoir **deux cibles** dans la même phrase, toutes deux marquées par 「に」.</u>
 
-Now, to get back to more concrete things,  
-<u>に which marks the actual location target  
-of where we're going, of where we're putting something, can also mark the place where a person or a thing IS.</u>
+Et c’est **exactement** ce que nous faisons ici.
 
-So I can say, "おみせにいく" – "I am going to the shops / I will go to
-the shops" – and
+<u>La particule 「に」 nous donne la **cible d’une action** au sens le plus littéral,  
+mais aussi la **cible intentionnelle**, le **but réel** de notre action.</u>
 
-we can say, "おみせにいる" – "I am at the shops".
+---
 
-<img src="./media/image1119.webp"
-style="width:5.64063in;height:2.82935in" />
+Revenons maintenant à des choses plus concrètes.
 
-"こうえんにいく" – "I'll go to the park"; "こうえんにいる" -"I'm at the
-park".
+<u>「に」, qui marque la **destination réelle** —  
+l’endroit vers lequel on se rend ou celui où l’on met quelque chose —  
+peut aussi marquer **le lieu où une personne ou une chose se trouve**.</u>
+
+Par exemple :
+
+- 「おみせにいく」 = Je vais au magasin  
+- 「おみせにいる」 = Je suis au magasin
+
+<img src="./media/image1119.webp" style="width:5.64063in;height:2.82935in" />
+
+- 「こうえんにいく」 = Je vais au parc  
+- 「こうえんにいる」 = Je suis au parc
 
 <img src="./media/image703.webp" style="width:6.5in;height:3.30556in" />
 
-Now you see, <u>this is also a target, because in order for a thing to
-be anywhere, it must have gotten there at some point. So "に" can mark not only a future target, a place where I will go
-to, it can also mark a past target, a place where I went and where I still am.</u>
+---
 
-And <u>we also use this for inanimate objects</u>:
-"ほんはテーブルのうえにある" –
+<u>Vous voyez, c’est **aussi une cible** :  
+car pour qu’une chose se trouve quelque part,  
+elle a dû y aller à un moment donné.</u>
 
-"The book is on the table".
+<u>Donc 「に」 peut marquer non seulement une **cible future** — un endroit où l’on ira —  
+mais aussi une **cible passée** — un endroit où l’on est allé et où l’on se trouve encore.</u>
 
-"うえ" is a noun, and in this case it means the "on" of the table.
+---
 
-"うえ" can mean "up" or "over", in this case it means "on", and <u>it's
-always a noun</u>,  
-so in this case the "on of the table" is the place where the book is:
+<u>Et on utilise aussi 「に」 pour les **objets inanimés** :</u>  
+「ほんはテーブルのうえにある」 = Le livre est **sur la table**
+
+- 「うえ」 est un **nom** qui signifie ici “au-dessus / sur”.
+- Donc 「テーブルのうえ」 = **le dessus de la table**  
+- Et c’est l’endroit **où se trouve le livre** :
 
 <img src="./media/image492.webp" style="width:6.5in;height:3.59722in" />
 
-<u>the past target of the book, to which it went and at which it now
-remains</u>.
+<u>Il s’agit donc de la **cible passée** du livre —  
+l’endroit vers lequel il est allé, et **où il se trouve encore maintenant**.</u>
 
-<u>So に can also mark the place where a thing is, its past target.</u>
+<u>「に」 peut donc aussi marquer **l’endroit où une chose est** : sa **cible passée**.</u>
 
-#### に marking the target of a transformation
+#### 「に」 marquant la cible d’une transformation
 
-And the last aspect of "に" that I want to look at is that
+Le dernier aspect de 「に」 que je veux aborder, c’est que :
 
-<u>に can also mark the target of a transformation.</u>
+<u>「に」 peut aussi marquer la **cible d’une transformation**.</u>
 
-<img src="./media/image787.webp"
-style="width:1.441in;height:2.44558in" />
+<img src="./media/image787.webp" style="width:1.441in;height:2.44558in" />
 
-Just as if A is going to B, に marks B, the place where it's going, <u>if A turns into B, becomes B, then に also marks B</u>,  
-the thing it's becoming, the thing it turns into.
+De la même manière que, si A va vers B, 「に」 marque **B** — le lieu où A va —,  
+<u>si A **devient** B, se transforme **en** B, alors 「に」 marque aussi **B** :</u>  
+la chose **qu’A devient**, la chose **en laquelle il se transforme**.
 
-So if I say, "さくらはかえるになった"...
+Par exemple :  
+「さくらはかえるになった」
 
-"かえる" is "frog" and "なる" is a close cousin of "ある":  
-"ある" means "be"; "なる" means "become".
+- 「かえる」 = une grenouille  
+- 「なる」 est un cousin proche de 「ある」 :  
+  - 「ある」 signifie “être” (exister)  
+  - 「なる」 signifie “devenir”
 
-<img src="./media/image35.webp"
-style="width:5.29688in;height:2.92639in" />
+<img src="./media/image35.webp" style="width:5.29688in;height:2.92639in" />
 
-So, "さくらはかえるになった" – "Sakura became a frog / Sakura turned
-into a frog", <u>and に marks the thing she became, the thing she turned into.</u>
+Donc 「さくらはかえるになった」 =  
+**Sakura s’est transformée en grenouille / Sakura est devenue une grenouille**
 
-Now, you may be thinking, "Mmm, how often do people turn into frogs
-these days?" –
+<u>Et 「に」 marque la chose qu’elle est devenue,  
+la cible de cette transformation.</u>
 
-and I'll grant that it isn't very often.
+---
 
-However, <u>this is a very important thing to learn because there are various more everyday things that turn into other things
-and also we use this form of expression much more in Japanese than we do
-in English.</u>
+Alors, vous vous dites peut-être :  
+« Hmm, combien de fois voit-on des gens se transformer en grenouilles de nos jours ? »
 
-For example, "ことし(zeroが)十八さいになる":
+Et je vous l’accorde, **ce n’est pas très fréquent** 😄
 
-"ことし” is "this year", "十八さい/じゅうはっさい" is "18 years of age".
+Mais :
 
-So we're saying, "This year (I) become 18". *Or as given: “This year (I)
-18 years old-to become”.*
+<u>C’est très important d’apprendre cette construction,  
+car dans la vie courante, **beaucoup de choses se transforment en d’autres choses**,  
+et on utilise cette tournure **bien plus souvent en japonais** qu’en anglais.</u>
+
+---
+
+Par exemple :
+
+「ことし(zeroが)十八さいになる」  
+- 「ことし」 = cette année  
+- 「十八さい／じゅうはっさい」 = 18 ans
+
+Donc cela signifie :  
+**Cette année, (je) vais devenir âgé(e) de 18 ans**  
+(*Ou plus littéralement : “Cette année, (je) 18 ans - devenir”*)
 
 <img src="./media/image1153.webp" style="width:6.5in;height:3.63889in" />
 
-Now in English we'd say that a little differently:
+En anglais, on dirait ça un peu différemment :  
+“I turn 18” ou “I’ll be 18”.
 
-we might say, "I turn 18" or "I'll be 18", but in Japanese we say "I will become 18 years of age".
+Mais en japonais, on dit :  
+<u>“Je deviendrai âgé(e) de 18 ans.”</u>
 
-And if the day's going to get cloudy, we might say
-"あとで(zeroが)くもりになる"
+---
 
-("くもり" is "cloudy"; "くも" is a cloud, "くもり" is the state of being
-cloudy,  
-and both of them are nouns).
+Autre exemple :  
+Si le temps devient nuageux, on peut dire :  
+「あとで(zeroが)くもりになる」  
+→ “Plus tard, **il deviendra nuageux**”
+
+(「くもり」 signifie “nuageux” ;  
+「くも」 = un nuage,  
+「くもり」 = l’**état d’être nuageux**,  
+et ce sont **tous les deux des noms**.)
 
 <img src="./media/image819.webp" style="width:6.5in;height:3.61111in" />
 
-We say, "くもりになる" which means "become cloudy". *Or as given:
-“Cloudy-to become”.*
+On dit : 「くもりになる」 → cela signifie **devenir nuageux**  
+(*ou plus littéralement : “nuageux - devenir”*)
 
-In English we could say that.
+En anglais, on pourrait dire ça comme ça,  
+mais on dirait plutôt : **“get cloudy”** ou quelque chose de ce genre.
 
-We might be more likely to say "get cloudy" or something, but in
-Japanese
+<u>Mais en japonais, on utilise très souvent cette tournure avec 「なる」 — 「になる」 —  
+pour exprimer “devenir”.</u>
 
-we use this "become" – "になる" – form of speech a lot of the time.
-
-So it's an important thing to learn.
+Donc c’est **une forme importante à apprendre**.
 
 #### に in the case of adjectives (aka using them as adverbs)
 
